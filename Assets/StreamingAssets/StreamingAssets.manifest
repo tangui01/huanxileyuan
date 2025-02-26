@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 651077067
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: games/crazykitchengame
+      Dependencies: {}
+    Info_1:
+      Name: games/goldminergame
+      Dependencies: {}
+    Info_2:
+      Name: games/mainscene
+      Dependencies: {}
+    Info_3:
+      Name: games/tetrisgame
+      Dependencies: {}
+    Info_4:
+      Name: games/bricksbreakergamescene
+      Dependencies: {}
+    Info_5:
+      Name: games/duckyduckiegame
+      Dependencies: {}
+    Info_6:
+      Name: games/helixfruitgame
+      Dependencies: {}
+    Info_7:
+      Name: games/ninjagame
+      Dependencies: {}
+    Info_8:
+      Name: games/compoundbigwatermelongame
+      Dependencies: {}
+    Info_9:
+      Name: games/flybirdgame
+      Dependencies: {}
+    Info_10:
+      Name: games/snakegame
+      Dependencies: {}
+    Info_11:
+      Name: artpicture/common/a_tex_0088
+      Dependencies: {}
+    Info_12:
+      Name: games/2048game
+      Dependencies: {}
+    Info_13:
+      Name: games/saucerflyinggame
+      Dependencies: {}
+    Info_14:
+      Name: games/supercommando 1
+      Dependencies: {}
+    Info_15:
+      Name: games/woods
+      Dependencies: {}
+    Info_16:
+      Name: games/supercommando 6
+      Dependencies: {}
+    Info_17:
+      Name: games/ice
+      Dependencies: {}
+    Info_18:
+      Name: games/tankgame
+      Dependencies: {}
+    Info_19:
+      Name: games/supercommando 4
+      Dependencies: {}
+    Info_20:
+      Name: games/bubblegame
+      Dependencies: {}
+    Info_21:
+      Name: games/snake vs blockscene
+      Dependencies: {}
+    Info_22:
+      Name: games/supercommando 2
+      Dependencies: {}
+    Info_23:
+      Name: games/phantasmaltrackscene
+      Dependencies: {}
+    Info_24:
+      Name: games/wasteland
+      Dependencies: {}
+    Info_25:
+      Name: games/supercommando 5
+      Dependencies: {}
+    Info_26:
+      Name: games/dualcontrolgame
+      Dependencies: {}
+    Info_27:
+      Name: games/submarineparkourscene
+      Dependencies: {}
+    Info_28:
+      Name: games/supercommando 3
+      Dependencies: {}
+    Info_29:
+      Name: games/ramboat2d
+      Dependencies: {}

@@ -1,0 +1,1383 @@
+fileFormatVersion: 2
+guid: c37a6ad9450e2dd4dbb07f723d4a004b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PlaneBody
+  - first:
+      213: 21300002
+    second: PlaneBodyDamaged
+  - first:
+      213: 21300004
+    second: PlaneEngine
+  - first:
+      213: 21300006
+    second: PlaneEngineHIT
+  - first:
+      213: 21300008
+    second: PlaneEngineDamaged
+  - first:
+      213: 21300010
+    second: PlaneMainGunBody
+  - first:
+      213: 21300012
+    second: PlaneMainGunBodyHIT
+  - first:
+      213: 21300014
+    second: PlaneMainGunUpperPart
+  - first:
+      213: 21300016
+    second: PlaneWingGunBody
+  - first:
+      213: 21300018
+    second: PlaneWingGunUpperPart
+  - first:
+      213: 21300020
+    second: PlaneWingGun
+  - first:
+      213: 21300022
+    second: PlaneWingGunDamaged
+  - first:
+      213: 21300024
+    second: PlaneLaserGunRoot
+  - first:
+      213: 21300026
+    second: PlaneLaserGunBody
+  - first:
+      213: 21300028
+    second: PlaneLaserGun
+  - first:
+      213: 21300030
+    second: PlaneLaserGunDamaged
+  - first:
+      213: 21300032
+    second: PlaneWing
+  - first:
+      213: 21300034
+    second: PlaneWingHIT
+  - first:
+      213: 21300036
+    second: PlaneWingDamaged
+  - first:
+      213: 21300038
+    second: PlaneWingSmall
+  - first:
+      213: 21300040
+    second: PlaneWingSmallHIT
+  - first:
+      213: 21300042
+    second: PlaneWingDamaged
+  - first:
+      213: 21300044
+    second: BossExplosionPart1
+  - first:
+      213: 21300046
+    second: BossExplosionPart6
+  - first:
+      213: 21300048
+    second: BossExplosionPart2
+  - first:
+      213: 21300050
+    second: BossExplosionPart3
+  - first:
+      213: 21300052
+    second: BossExplosionPart4
+  - first:
+      213: 21300054
+    second: BossExplosionPart5
+  - first:
+      213: 21300056
+    second: BossExplosionPart7
+  - first:
+      213: 21300058
+    second: BossExplosionPart8
+  - first:
+      213: 21300060
+    second: BossExplosionPart9
+  - first:
+      213: 21300062
+    second: PlaneBossElipse3
+  - first:
+      213: 21300064
+    second: PlaneBossElipse4
+  - first:
+      213: 21300066
+    second: PlaneBossElipse2
+  - first:
+      213: 21300068
+    second: PlaneBossElipse1
+  - first:
+      213: 21300070
+    second: PlaneWingGunHIT
+  - first:
+      213: 21300072
+    second: PlaneLaserGunRootHIT
+  - first:
+      213: 21300074
+    second: PlaneLaserGunBodyHIT
+  - first:
+      213: 21300076
+    second: PlaneLaserGunHIT
+  - first:
+      213: 21300078
+    second: PlaneEnginePart1
+  - first:
+      213: 21300080
+    second: PlaneEngineDamagedPart1
+  - first:
+      213: 21300082
+    second: PlaneEngineDamagedPart2
+  - first:
+      213: 21300084
+    second: PlaneWingSmallPart1
+  - first:
+      213: 21300086
+    second: PlaneWingDamagedPart1
+  - first:
+      213: 21300088
+    second: PlaneWingDamagedPart1
+  - first:
+      213: 21300090
+    second: PlaneWingPart1
+  - first:
+      213: 21300092
+    second: PlaneBodyPart1
+  - first:
+      213: 21300094
+    second: PlaneBodyPart2
+  - first:
+      213: 21300096
+    second: PlaneBodyPart3
+  - first:
+      213: 21300098
+    second: PlaneBodyDamagedPart1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlaneBody
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 174
+        height: 490
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6587386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5636fbed39ffd4645bbe150074c1f85c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBodyDamaged
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 383
+        width: 150
+        height: 491
+      alignment: 9
+      pivot: {x: 0.503011, y: 0.65256107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960824d4ee3b84244a5caded06485735
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEngine
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 792
+        width: 108
+        height: 170
+      alignment: 9
+      pivot: {x: 0.49640712, y: 0.68032765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c79bfa9feab0f4bb1df11f272da71f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEngineHIT
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 792
+        width: 109
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0196758b8e654554aa5e4b242d0dbfb5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEngineDamaged
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 793
+        width: 107
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5515194, y: 0.63725793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e9da19e9606b4ab1890c2457faade
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneMainGunBody
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 899
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c205e17a1bd68f84aa7e14a50bc0dcff
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneMainGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 899
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f7f5c12d22a444b93dda53280698d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneMainGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 932
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd84bf950b7d1f43bf1384a3b1b33e5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingGunBody
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 812
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc6d6bf4c3e224692dd9e2068a4a78
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 794
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c77e4cb9b2d7549a3c155fb0e82b59
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingGun
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 859
+        width: 17
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5000036, y: 1.5516391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e95f220becdae478e3b570ee3112ae
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingGunDamaged
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 818
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820a2d7bcd25006489d7e81d8ce5cbd0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunRoot
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 783
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a3a4863929a0449d78a3d548e26ae
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunBody
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 767
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e23e2c1b8fb941b06d38114efefa0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGun
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 763
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb3c44b5327a874790cdb88a9f8e4fa
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunDamaged
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 764
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806cf1e60590e3b4d86474f5e1a6d902
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWing
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 612
+        width: 474
+        height: 156
+      alignment: 9
+      pivot: {x: 0.94564366, y: 0.5149211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c91bb6da58018419f2f486ac1d1575
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingHIT
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 454
+        width: 474
+        height: 156
+      alignment: 9
+      pivot: {x: 0.9456437, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc0900ab3eb1e43b4f50dd895b21ce
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingDamaged
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 278
+        width: 474
+        height: 176
+      alignment: 9
+      pivot: {x: 0.94528586, y: 0.5335846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe61bed3ad9d64da3a39b781079331
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingSmall
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 647
+        width: 199
+        height: 116
+      alignment: 9
+      pivot: {x: 0.865116, y: 0.49622688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf883b4a36827419e3f25a35c25f51
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingSmallHIT
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 530
+        width: 199
+        height: 116
+      alignment: 9
+      pivot: {x: 0.85851747, y: 0.46226764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc993eb4932cb4792c7476f3af54a6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingDamaged
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 405
+        width: 199
+        height: 125
+      alignment: 9
+      pivot: {x: 0.85631806, y: 0.46498388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea988fbbbe8b946a514a5eb45845fc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 304
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44731aa3cd5400845aa88c79ccc7b07a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 278
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52f3cbbad4bf1440ba86926ed62d559
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 364
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d51908e29c5ea4daa81cafedeb4d00
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 367
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5195b8cd34b732840a504371360fffc1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart4
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 316
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5097f270e71e64bb06efdbc9065839
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart5
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 315
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff5f4a18f96a3a41862f2d6fcdbcd39
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 282
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0163ef9dc8f2e844b478639e905a924
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart8
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 279
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed95814af688849866cbd51f5c1e98
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossExplosionPart9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 283
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778aded525b627147aa24378590196b5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBossElipse3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d0b3b7fae743642af8831155e94edd
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBossElipse4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 307
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc0f7fbfaef7294db8104c6d4911f4d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBossElipse2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5951a95f8a48804baaea420b3a5f19a
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBossElipse1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 236
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae7a8492a2e7844db56bf8afc95ac09
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingGunHIT
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 849
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1dc1869e228e4b94fc5c61a064a0f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunRootHIT
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 382
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8890688cb794d57409a035da876526ff
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 332
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cadfabbcec419e43bd8084743b398e1
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneLaserGunHIT
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 285
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6dfc35120a2ba4b86a1e80781a3b11
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEnginePart1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 962
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03308a1a7cb334479a46781a1a646c6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEngineDamagedPart1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 962
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91af48968a7c774b91f2ff1d7b2ca28
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneEngineDamagedPart2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 771
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a2c598d22cc84a8b914bb836e3485
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingSmallPart1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 158
+        width: 198
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f372225595b374a97836ebff01194b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingDamagedPart1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 29
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ef658c51f87c4f92c391cf70a914f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingDamagedPart1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 343
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85357dbf1069294bb4c184347b76cd9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneWingPart1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 121
+        width: 475
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31eda4fcafe90047a74506cd6e64ec8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBodyPart1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa12376010b424ba3e99b3b715d34e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBodyPart2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e818b14aa4a68f40b099600b9c6cbb8
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBodyPart3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 871
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68541db2fccd388428783ee04d72d4b5
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlaneBodyDamagedPart1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 873
+        width: 136
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b23d7b0b27da748a73b922a213fbf4
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlaneBossElipse2: 21300066
+      PlaneWingSmall: 21300038
+      BossExplosionPart2: 21300048
+      PlaneWingGun: 21300020
+      PlaneLaserGunRoot: 21300024
+      PlaneBodyPart3: 21300096
+      PlaneBossElipse3: 21300062
+      PlaneEngineDamagedPart1: 21300080
+      PlaneWingHIT: 21300034
+      PlaneEngineHIT: 21300006
+      PlaneWingGunHIT: 21300070
+      PlaneWingDamagedPart1: 21300086
+      PlaneBodyDamaged: 21300002
+      BossExplosionPart8: 21300058
+      PlaneBossElipse4: 21300064
+      PlaneBodyPart2: 21300094
+      PlaneWingGunBody: 21300016
+      PlaneWing: 21300032
+      BossExplosionPart5: 21300054
+      PlaneLaserGun: 21300028
+      PlaneEnginePart1: 21300078
+      PlaneMainGunBody: 21300010
+      PlaneLaserGunBody: 21300026
+      BossExplosionPart4: 21300052
+      PlaneLaserGunDamaged: 21300030
+      PlaneWingGunUpperPart: 21300018
+      PlaneEngineDamagedPart2: 21300082
+      PlaneBodyPart1: 21300092
+      PlaneBodyDamagedPart1: 21300098
+      BossExplosionPart3: 21300050
+      BossExplosionPart9: 21300060
+      BossExplosionPart6: 21300046
+      PlaneWingSmallHIT: 21300040
+      PlaneLaserGunRootHIT: 21300072
+      PlaneLaserGunHIT: 21300076
+      PlaneBody: 21300000
+      BossExplosionPart1: 21300044
+      PlaneEngine: 21300004
+      PlaneWingDamaged: 21300036
+      PlaneMainGunUpperPart: 21300014
+      PlaneWingPart1: 21300090
+      PlaneWingGunDamaged: 21300022
+      PlaneBossElipse1: 21300068
+      PlaneEngineDamaged: 21300008
+      PlaneWingSmallPart1: 21300084
+      BossExplosionPart7: 21300056
+      PlaneMainGunBodyHIT: 21300012
+      PlaneLaserGunBodyHIT: 21300074
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

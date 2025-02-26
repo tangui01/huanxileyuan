@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 120384953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b597e8d0024a10211a91319da527213
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87181853585ffe17a4b06165f439ff75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dcdff9d58bef62478728518d60d1d9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56e8ac4710081774d939748732795e58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3ee6ce248c33394d81325af3b852f89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bab3a88d0a60f7c45a0a2485579996ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf6872384f8a00c4286f71e58d86ff9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae08e00f05901e7478610fbd6e077bd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 700a1ab761575ef42a03eac1f3c580dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fce3ca18d84051546966d26ecfe9178c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28f44000fe7c0d146972bbce4ec582d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fdeea114f6678646a0aeffffd2c93e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 296b7911fd31c1642a0419b0c7952f81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 507d51e5313b7c5498b2809f5edd2ca5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2206f1799b6129f4ab482dbee9d7e2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/Xia/0_Scene/TankGame.unity
+Dependencies: []

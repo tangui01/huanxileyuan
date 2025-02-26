@@ -1,0 +1,2084 @@
+fileFormatVersion: 2
+guid: f55b14dd5d04a1442a68e33154c7495a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ButtonPlayAndShopHolder
+  - first:
+      213: 21300002
+    second: ButtonPlay
+  - first:
+      213: 21300004
+    second: ButtonFacebook
+  - first:
+      213: 21300006
+    second: ButtonShop
+  - first:
+      213: 21300008
+    second: ButtonSettings
+  - first:
+      213: 21300010
+    second: ButtonLeaderboard
+  - first:
+      213: 21300012
+    second: ShopNotification
+  - first:
+      213: 21300014
+    second: ButtonBlue
+  - first:
+      213: 21300016
+    second: ButtonSound
+  - first:
+      213: 21300018
+    second: ButtonMusic
+  - first:
+      213: 21300020
+    second: ButtonOff
+  - first:
+      213: 21300022
+    second: ButtonCloseMenu
+  - first:
+      213: 21300024
+    second: MenuHolder
+  - first:
+      213: 21300026
+    second: ExitMenuHolder
+  - first:
+      213: 21300028
+    second: Score
+  - first:
+      213: 21300030
+    second: Score
+  - first:
+      213: 21300032
+    second: HealthAndArmorScale
+  - first:
+      213: 21300034
+    second: YesSign
+  - first:
+      213: 21300036
+    second: NoSign
+  - first:
+      213: 21300038
+    second: CharacterFace
+  - first:
+      213: 21300040
+    second: ButtonYesNo
+  - first:
+      213: 21300042
+    second: CollectableArmor
+  - first:
+      213: 21300044
+    second: CollectableMagnet
+  - first:
+      213: 21300046
+    second: CollectableDoubleStars
+  - first:
+      213: 21300048
+    second: ButtonHome
+  - first:
+      213: 21300050
+    second: ButtonRestart
+  - first:
+      213: 21300052
+    second: HealthBar
+  - first:
+      213: 21300054
+    second: KeepPlaying
+  - first:
+      213: 21300056
+    second: PopUpTitle
+  - first:
+      213: 21300058
+    second: ScoreText
+  - first:
+      213: 21300060
+    second: ButtonBuy
+  - first:
+      213: 21300062
+    second: ButtonBack
+  - first:
+      213: 21300064
+    second: ShopNameLabel
+  - first:
+      213: 21300066
+    second: UpDownScrollButon
+  - first:
+      213: 21300068
+    second: TransparentBackground
+  - first:
+      213: 21300070
+    second: TitleLabel
+  - first:
+      213: 21300072
+    second: StarsCounter
+  - first:
+      213: 21300074
+    second: CurrentScale
+  - first:
+      213: 21300076
+    second: CurentScaleCounter
+  - first:
+      213: 21300078
+    second: FreeCoinsWatchVideo
+  - first:
+      213: 21300080
+    second: ScrollLimit
+  - first:
+      213: 21300082
+    second: PlusShop
+  - first:
+      213: 21300084
+    second: ButtonPause
+  - first:
+      213: 21300086
+    second: ButtonHome
+  - first:
+      213: 21300088
+    second: ButtonRestart
+  - first:
+      213: 21300090
+    second: ButtonResume
+  - first:
+      213: 21300092
+    second: FingerControl
+  - first:
+      213: 21300094
+    second: ParallelControl
+  - first:
+      213: 21300096
+    second: ArmorBar
+  - first:
+      213: 21300098
+    second: PowerPrice
+  - first:
+      213: 21300100
+    second: CollectableHealth
+  - first:
+      213: 21300102
+    second: PowerUpTesla
+  - first:
+      213: 21300104
+    second: PowerUpLaser
+  - first:
+      213: 21300106
+    second: PowerUpBlades
+  - first:
+      213: 21300108
+    second: PowerUpBomb
+  - first:
+      213: 21300110
+    second: ButtonfreeCoins
+  - first:
+      213: 21300112
+    second: ExplanationBomb
+  - first:
+      213: 21300114
+    second: ExplanationBackground
+  - first:
+      213: 21300116
+    second: InformationButton
+  - first:
+      213: 21300118
+    second: ExplanationUpgradePrice
+  - first:
+      213: 21300120
+    second: WeaponUseButton
+  - first:
+      213: 21300122
+    second: MainGunIcon
+  - first:
+      213: 21300124
+    second: SideGunIcon
+  - first:
+      213: 21300126
+    second: WingGunIcon
+  - first:
+      213: 21300128
+    second: HealthBar
+  - first:
+      213: 21300130
+    second: ArmorBar
+  - first:
+      213: 21300132
+    second: WatchVideoButton
+  - first:
+      213: 21300134
+    second: BestScore
+  - first:
+      213: 21300136
+    second: BestScoreMainMenu
+  - first:
+      213: 21300138
+    second: BossName
+  - first:
+      213: 21300140
+    second: PowerUpGlow1
+  - first:
+      213: 21300142
+    second: PowerUpGlow2
+  - first:
+      213: 21300144
+    second: PowerUpGlow3
+  - first:
+      213: 21300146
+    second: PowerUpGlow4
+  - first:
+      213: 21300148
+    second: PowerUpGlow5
+  - first:
+      213: 21300150
+    second: PowerUpGlow6
+  - first:
+      213: 21300152
+    second: WhiteCircle
+  - first:
+      213: 21300154
+    second: WhiteRadialGradient
+  - first:
+      213: 21300156
+    second: SparkleGlow
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonPlayAndShopHolder
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 497
+        width: 200
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01158395f238d44699b3935a7577f3b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonPlay
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcf34beb4f7da41b5af5b351b94ee9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonFacebook
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 916
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f078bb758bdcba4392825c7898801b6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonShop
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 918
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076b47c27b459184a82e5a42df619983
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSettings
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 916
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed65c79405ac9b4badec34abbe4a326
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonLeaderboard
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 916
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e031434f0b7df4aa9d39e50cfe3cc4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopNotification
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 859
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9172eac766986774c920aeeadefa6654
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonBlue
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 587
+        width: 223
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3dfa7bc145234e8f4dddf4f3ec441
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSound
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 675
+        width: 223
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731eebaf99680834c8761f9e5a2ab9b8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonMusic
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 761
+        width: 223
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58a61750094164ab901b3da5830646
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonOff
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 855
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d1d47bd46bf754b9e0214b6ba271c4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonCloseMenu
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 862
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c83e7ba18e9a6468cc91b785642b9e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MenuHolder
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 601
+        width: 310
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 182, y: 0, z: 97, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c58e788a61b2ad449c401f954e19738
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitMenuHolder
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 803
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a04583e5b9ab4786562b77da3999c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 401
+        width: 248
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da98d4d65dab6478cd09f5e56d420d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthAndArmorScale
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 614
+        width: 27
+        height: 24
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bfc59c42097140a5cc80d13779b3c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YesSign
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 880
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1264b9f39e5a4ca72b926a39051d3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoSign
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 842
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba42b052b1f904f86bb22508282796
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterFace
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 821
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c31fd77479814fa880ca293a0ce99
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonYesNo
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 817
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ca2dd61982594dbdc7e5c71f802fa
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectableArmor
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 718
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f154869b9c7a948a56606b1e854363
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectableMagnet
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 627
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27be412e905357040b21edd3d7adaf1e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectableDoubleStars
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 534
+        width: 107
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5818322, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac253b0e3e34f804ba9afc98710da0d9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonHome
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 721
+        width: 149
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e20ea78115f04b97f19a9e99dab8e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRestart
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 641
+        width: 149
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62caa0dfbfc67214083a83c41825f7f9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 447
+        width: 234
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a553e220513747936ad4a323717a0
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeepPlaying
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 485
+        width: 269
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe06d1f2b671c541801822fecf56145
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PopUpTitle
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 569
+        width: 191
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35dabaf0615784085e61e01b60df02
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreText
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 358
+        width: 54
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9583779f6597b2a42af6deb402d86942
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonBuy
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 519
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1deccf73ec21b4c816083e15d34b1c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonBack
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 487
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e34091934d074ebeb9b7782c42aea
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopNameLabel
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 360
+        width: 224
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8f2d183634c014b84d9243126ed25f
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpDownScrollButon
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 447
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62670b25742965046b00ea641a9d4cdc
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentBackground
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 449
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830555dd2a7ab541b0c2342c127292f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleLabel
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 476
+        width: 209
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eeb05df69259f40867a919bdc3fe8f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarsCounter
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 447
+        width: 170
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1136c86ae8e3e4aac262209b506ed7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurrentScale
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 340
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238a2ac888446740b069f3ef9a0a71c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurentScaleCounter
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 39
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78214482ef5917439bcd305b0b85fd3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeCoinsWatchVideo
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d97f69f56440a419ce5077d359e143
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollLimit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 397
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3a0b873ba4614fae5404747e7ccb8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlusShop
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 531
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e01d29efdbb64ba20eed7bb50f2c7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonPause
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 391
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80070a5109878ba4db4fafd54dda070e
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonHome
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 397
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b5b55ba5b6007459933d6dd87728c1
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRestart
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 397
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71987420a4f933a4e9386f216800afe9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonResume
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 397
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa7b3f48d055144b675ec40fdd5473
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FingerControl
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 190
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d67bd34cbfc3742b06ed2154530edb
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParallelControl
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5efdbb2a9d19d845ac89a1e6b6bba01
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBar
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 323
+        width: 234
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78dfccf215e09045aa025e43ec609c1
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerPrice
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 386
+        width: 141
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667204161000a034498bea5b785654f0
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectableHealth
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 302
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de97a41825e36489ed376190743398
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpTesla
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 256
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2533c55f1ea7744af8172b0c150445
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpLaser
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 208
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b993dc6ca90472d4b923f9fb86e4fd56
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpBlades
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 212
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ffcd6fe72cbf64d90c7293a92a5b10
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpBomb
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 206
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a288e456b030234aaec5deb6c6720ab
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonfreeCoins
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 276
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba138b6c4714e894397b60c1b6cb2196
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplanationBomb
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 237
+        width: 174
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf870a5f7c92f469b3488499f2d5fa
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplanationBackground
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 113
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f063e6ebce1263a499e2e06e7210e88e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InformationButton
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 391
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e95217ff5d99fa40b1e5225f55e6968
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplanationUpgradePrice
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 192
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6484e2e683a997a4eacc6a48ce8db312
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponUseButton
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 140
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7081bb7ab58b4eba8ccd797522493
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainGunIcon
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 61
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36b485bd7297746b899be05bc8700d
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SideGunIcon
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 38
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63876a6341d75d49823a51f5ab15952
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingGunIcon
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 93
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f51bebee97c340b1f5bc3fe9ef133
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d6a1fb01dcb3b459f0dbad911df54d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorBar
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 27
+        width: 71
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f52f175cd46b6438325061d9445058
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WatchVideoButton
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 153
+        width: 317
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ef613080626654b8621166d91cce34
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BestScore
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494713bacec00449b10f487ae41ad8f
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BestScoreMainMenu
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 83
+        width: 229
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378776488279594d99566b86a3e9120
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossName
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2
+        width: 248
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f610b6054b94e49b52b4d9c5e5b1c8
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 349
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2822ea1408d041881423fe244159d
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 303
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d31c36591dcf42a192ca00e1fc627
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 258
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bd3df7c53b0cb49bf3146f56191033
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 248
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7cbdbf148da5c419eb5e86d239b48c
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow5
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 248
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c41c6480b54e439a8341f46d33399
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUpGlow6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 109
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741e1a575cd25c42896daf1607ce7d5
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCircle
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 43
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60db3f45fe5ba84ab262a1d41b946e9
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteRadialGradient
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 43
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8f8d0cfcad74488429030f137e9e6
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkleGlow
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 180
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f589f5d3fca1d5489aee5e76fb94387
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HealthBar: 21300052
+      BestScore: 21300134
+      SideGunIcon: 21300124
+      BestScoreMainMenu: 21300136
+      FreeCoinsWatchVideo: 21300078
+      CurrentScale: 21300074
+      CollectableMagnet: 21300044
+      PlusShop: 21300082
+      Score: 21300028
+      ButtonShop: 21300006
+      ButtonPlayAndShopHolder: 21300000
+      ButtonLeaderboard: 21300010
+      FingerControl: 21300092
+      ParallelControl: 21300094
+      PowerUpBlades: 21300106
+      ButtonYesNo: 21300040
+      PowerUpGlow3: 21300144
+      CollectableArmor: 21300042
+      ButtonHome: 21300048
+      InformationButton: 21300116
+      NoSign: 21300036
+      ScrollLimit: 21300080
+      ButtonRestart: 21300050
+      ButtonPlay: 21300002
+      ButtonBuy: 21300060
+      WatchVideoButton: 21300132
+      ButtonfreeCoins: 21300110
+      ButtonOff: 21300020
+      WhiteRadialGradient: 21300154
+      UpDownScrollButon: 21300066
+      PowerUpGlow2: 21300142
+      ArmorBar: 21300096
+      ButtonSound: 21300016
+      TitleLabel: 21300070
+      ButtonResume: 21300090
+      ButtonFacebook: 21300004
+      ShopNameLabel: 21300064
+      BossName: 21300138
+      CharacterFace: 21300038
+      PowerUpGlow5: 21300148
+      PowerUpLaser: 21300104
+      ExitMenuHolder: 21300026
+      WeaponUseButton: 21300120
+      WhiteCircle: 21300152
+      SparkleGlow: 21300156
+      ShopNotification: 21300012
+      PopUpTitle: 21300056
+      ButtonCloseMenu: 21300022
+      ButtonMusic: 21300018
+      StarsCounter: 21300072
+      ExplanationBackground: 21300114
+      ButtonSettings: 21300008
+      PowerUpGlow6: 21300150
+      CurentScaleCounter: 21300076
+      CollectableDoubleStars: 21300046
+      ButtonBack: 21300062
+      ButtonPause: 21300084
+      PowerUpTesla: 21300102
+      MainGunIcon: 21300122
+      ScoreText: 21300058
+      PowerUpBomb: 21300108
+      PowerUpGlow4: 21300146
+      CollectableHealth: 21300100
+      YesSign: 21300034
+      PowerPrice: 21300098
+      TransparentBackground: 21300068
+      ExplanationBomb: 21300112
+      ExplanationUpgradePrice: 21300118
+      ButtonBlue: 21300014
+      KeepPlaying: 21300054
+      MenuHolder: 21300024
+      PowerUpGlow1: 21300140
+      WingGunIcon: 21300126
+      HealthAndArmorScale: 21300032
+  spritePackingTag: UI
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

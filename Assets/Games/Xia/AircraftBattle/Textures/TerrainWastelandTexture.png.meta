@@ -1,0 +1,2485 @@
+fileFormatVersion: 2
+guid: e6bc048eadc679f45a8fedf6798e5859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GrassStraight4
+  - first:
+      213: 21300002
+    second: GrassStraight1
+  - first:
+      213: 21300004
+    second: GrassStraight2
+  - first:
+      213: 21300006
+    second: GrassStraight3
+  - first:
+      213: 21300008
+    second: GrassStraight5
+  - first:
+      213: 21300010
+    second: GrassStraight6
+  - first:
+      213: 21300012
+    second: GrassAngle1
+  - first:
+      213: 21300014
+    second: GrassAngle2
+  - first:
+      213: 21300016
+    second: GrassQuarterCircle1
+  - first:
+      213: 21300018
+    second: GrassQuarterCircle2
+  - first:
+      213: 21300020
+    second: GrassCircle
+  - first:
+      213: 21300022
+    second: StoneStraight
+  - first:
+      213: 21300024
+    second: StoneAngle
+  - first:
+      213: 21300026
+    second: StoneStraightBig
+  - first:
+      213: 21300028
+    second: StoneAngleBig1
+  - first:
+      213: 21300030
+    second: StoneAngleBig2
+  - first:
+      213: 21300032
+    second: StonePartOfTheCircle
+  - first:
+      213: 21300034
+    second: StoneBig
+  - first:
+      213: 21300036
+    second: StoneCircleBig
+  - first:
+      213: 21300038
+    second: StoneCircleBig2
+  - first:
+      213: 21300040
+    second: StoneCustom1
+  - first:
+      213: 21300042
+    second: StoneCustom2
+  - first:
+      213: 21300044
+    second: StoneCustom3
+  - first:
+      213: 21300046
+    second: StoneCustom4
+  - first:
+      213: 21300048
+    second: StoneCustom5
+  - first:
+      213: 21300050
+    second: BeachStraight1
+  - first:
+      213: 21300052
+    second: BeachStraight2
+  - first:
+      213: 21300054
+    second: BeachStraight3
+  - first:
+      213: 21300056
+    second: BeachStraight4
+  - first:
+      213: 21300058
+    second: BeachCircle
+  - first:
+      213: 21300060
+    second: DirtRoadStraight
+  - first:
+      213: 21300062
+    second: DirtRoadCrosRoad
+  - first:
+      213: 21300064
+    second: DirtRoadAngle
+  - first:
+      213: 21300066
+    second: DirtRoadClose
+  - first:
+      213: 21300068
+    second: DirtRoadCircle
+  - first:
+      213: 21300070
+    second: StoneRoadStraight
+  - first:
+      213: 21300072
+    second: StoneRoadAngle
+  - first:
+      213: 21300074
+    second: StoneRoadClose
+  - first:
+      213: 21300076
+    second: StoneRoadCustom
+  - first:
+      213: 21300078
+    second: StoneRoadSmall1
+  - first:
+      213: 21300080
+    second: StoneRoadSmall2
+  - first:
+      213: 21300082
+    second: StoneRoadSmall3
+  - first:
+      213: 21300084
+    second: StoneRoadSmall4
+  - first:
+      213: 21300086
+    second: StoneRoadSmall5
+  - first:
+      213: 21300088
+    second: StoneRoadSmall6
+  - first:
+      213: 21300090
+    second: StoneRoadSmall7
+  - first:
+      213: 21300092
+    second: StoneRoadSmall8
+  - first:
+      213: 21300094
+    second: StoneRoadSmall9
+  - first:
+      213: 21300096
+    second: StoneRoadSmall10
+  - first:
+      213: 21300098
+    second: StoneRoadSmall11
+  - first:
+      213: 21300100
+    second: StoneRoadSmall12
+  - first:
+      213: 21300102
+    second: TreeBranches1
+  - first:
+      213: 21300104
+    second: TreeBranches2
+  - first:
+      213: 21300106
+    second: TreeBranches3
+  - first:
+      213: 21300108
+    second: TreeBranches4
+  - first:
+      213: 21300110
+    second: TreeStem1
+  - first:
+      213: 21300112
+    second: TreeStem2
+  - first:
+      213: 21300114
+    second: TreeStump
+  - first:
+      213: 21300116
+    second: TreeShadow
+  - first:
+      213: 21300118
+    second: Bush1
+  - first:
+      213: 21300120
+    second: Bush2
+  - first:
+      213: 21300122
+    second: BushGrass1
+  - first:
+      213: 21300124
+    second: BushGrass2
+  - first:
+      213: 21300126
+    second: BushGrass3
+  - first:
+      213: 21300128
+    second: Crate1
+  - first:
+      213: 21300130
+    second: Crate2
+  - first:
+      213: 21300132
+    second: WoodFence
+  - first:
+      213: 21300134
+    second: StoneWellLowerPart
+  - first:
+      213: 21300136
+    second: StoneWellUpperPart
+  - first:
+      213: 21300138
+    second: WoodBoard1
+  - first:
+      213: 21300140
+    second: WoodBoard2
+  - first:
+      213: 21300142
+    second: WoodBoard3
+  - first:
+      213: 21300144
+    second: WoodBoard4
+  - first:
+      213: 21300146
+    second: WoodBoard1Side
+  - first:
+      213: 21300148
+    second: WoodBoard2Side
+  - first:
+      213: 21300150
+    second: WoodBoard3Side
+  - first:
+      213: 21300152
+    second: WoodBoard4Side
+  - first:
+      213: 21300154
+    second: WoodBridgePart
+  - first:
+      213: 21300156
+    second: WoodPartNail
+  - first:
+      213: 21300158
+    second: WoodPartCircle
+  - first:
+      213: 21300160
+    second: Rope
+  - first:
+      213: 21300162
+    second: BuildingHouseBroken
+  - first:
+      213: 21300164
+    second: BuildingHouse1
+  - first:
+      213: 21300166
+    second: BuildingHouse2
+  - first:
+      213: 21300168
+    second: BuildingHouse3
+  - first:
+      213: 21300170
+    second: BuildingStoneLittleTemple
+  - first:
+      213: 21300172
+    second: WhiteCircleNormal
+  - first:
+      213: 21300174
+    second: WhiteCircleBlur
+  - first:
+      213: 21300176
+    second: WhiteSquare
+  - first:
+      213: 21300178
+    second: WhiteLinearGradient
+  - first:
+      213: 21300180
+    second: TreeStem1Cut
+  - first:
+      213: 21300182
+    second: TreeStem2Cut
+  - first:
+      213: 21300184
+    second: Water
+  - first:
+      213: 21300186
+    second: Terrain
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassStraight4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 942
+        width: 241
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f699a132dac4854e8e1e2edc2f8021c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassStraight1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 975
+        width: 241
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d574e8d0e18dda4084c4707d145b211
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassStraight2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 919
+        width: 241
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7928866abef760e479ae780a7f10dff0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassStraight3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 871
+        width: 241
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac28760903cebb4cacd4447014ef290
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassStraight5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 850
+        width: 241
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9372c325c9ebb4c8ccd3bf1896efa8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassStraight6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 654
+        width: 241
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b10e6fab941aa41b3efb4569f584c9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAngle1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 821
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ec553dfd4e74a419a5fac985f7d945
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassAngle2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 764
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1389351b9a9e947bb8ad7594b974a4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassQuarterCircle1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 783
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695b0cac1afbfb4c8c859b8a6425c8d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassQuarterCircle2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 281
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7861ea6204688347b4e8a9c4602bec9
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassCircle
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 590
+        width: 158
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab0c8495ae2e354e98c8a535d4bcdd7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStraight
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 585
+        width: 241
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea001b9abf4af414cb2159db63941c7f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneAngle
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 508
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200e9b5e71f66434199e381254dd15ce
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStraightBig
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 190
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f00421b8da664eb4639380dda439a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneAngleBig1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 370
+        width: 85
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b0b97dc2710c489e24a3fb7c467b7
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneAngleBig2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 369
+        width: 93
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e228df982fa57f40a99c10b0724548b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StonePartOfTheCircle
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 618
+        width: 126
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ceed5d0724c44d8ae9628234661e8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBig
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 395
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e23f87d8b2ce4588b33df68e77cd9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCircleBig
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 823
+        width: 129
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7d5969b1b6304f91c027a54c1ca3d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCircleBig2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 632
+        width: 159
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea11d1d04cb38845bc9a79e4fd9f3d6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCustom1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 717
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7401e9c68e5a440a2bb633bbfd4fac
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCustom2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 763
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4248f5084523a144b328b41b05b52ba
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCustom3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 798
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b4027382aef140bb14ed4ebfeb544
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCustom4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 835
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e15e06b4af7f641be39240ff70057c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneCustom5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 698
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926d3c7fca178b45a1f221db2c0f6da
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachStraight1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 241
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5746fbf602f02f84f97a112cc604f7b5
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachStraight2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 239
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a92de870d3f84cb7a4f3aedb4f87d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachStraight3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 241
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eaa692de3671b4fba89c59cf3ad9dd
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachStraight4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 294
+        width: 227
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e9f467531c6d4fa3756afbd833f93
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachCircle
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 203
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4fad45577551e48a0017efed0f8ea2
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtRoadStraight
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30f4deaaf5877e4183a61847d32f3f1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtRoadCrosRoad
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 96
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620d837031ea884eb8fbb0990209aa6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtRoadAngle
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e8462317f0584eb9a495e1864cb57
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtRoadClose
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 109
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf2bbb1d082be4db02d1595a51d9f2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirtRoadCircle
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 40
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d8e90becadd9b4fa1150c29da9837d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadStraight
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad260ff0e8a7ca843918ad6ad133160a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadAngle
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 97
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cfd930736f8734cb12e2a5204d74e3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadClose
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 203
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b30f855a757674dab779964c2653e4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadCustom
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14576b78ade1ec34eb5d60dd8335e8e7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 205
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656642593ac0c441a0c823a841707f0
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 171
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9de5656b87bf4296b719d2b605c89
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 168
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7249f5abd0f0de4c9808853343bbfe0
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 139
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a453065e91f8ed47ba02d065a556255
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 145
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf509892a7f934e4788fe847349ee1f9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 112
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350dabddcb910547b1f336339159586
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 114
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767eccca075f196439dcaad8090e78f3
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 114
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14023091a7b634488a8b58f8e23fe8d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8e0a4b86cee1489691baed1308db4
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 89
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74f3f5c19d035f40ba84523e79c8cba
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 61
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89961c31c0590419f207c5da5a2459
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRoadSmall12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 61
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9a06e33093824418689824108ab68f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeBranches1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 423
+        width: 86
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5036989, y: 0.23902969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85768aebb2b8d404f84212265c702691
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeBranches2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 528
+        width: 86
+        height: 87
+      alignment: 9
+      pivot: {x: 0.49286032, y: 0.24591134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684726065f110ba489026507e83d13d8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeBranches3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 529
+        width: 89
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5196967, y: 0.23755279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ae018f94b0a74e8cf6670bde7ad1c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeBranches4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 518
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29e8a848c534a4390c11ef4717bc85
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStem1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 80
+        height: 118
+      alignment: 9
+      pivot: {x: 0.54394823, y: 0.099643394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526ef89774a7224da732f57b4140ef6
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStem2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 422
+        width: 97
+        height: 116
+      alignment: 9
+      pivot: {x: 0.447304, y: 0.12789628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e119f5703eb641ae6189d828ee908
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStump
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 380
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51121396, y: 0.38268104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac51c86e6470b4fb5fb1ec2740b4bd
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeShadow
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 541
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c42ed23929a3e84687c7fbb49ea0fc1
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 541
+        width: 88
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5032078, y: 0.401813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8624d9aa5b41f4e8c2959c663fa29c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 368
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366c9a4dcf8446478b88b8b03933e59
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BushGrass1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 395
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561196a0b9fb96408b80f596d8b464d
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BushGrass2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 367
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec8947e5a587b48a8867dd769dd032
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BushGrass3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 388
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de30962541c67499f5deb42f6f672b
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 315
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23f81b47df01244a9eafe97da1e13e
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 309
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b56c139992f247aec54af6d8275e0
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodFence
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 590
+        width: 40
+        height: 98
+      alignment: 9
+      pivot: {x: 0.65166014, y: 0.46060866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8226f7a646a284e889cac3451d3c73
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWellLowerPart
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 307
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87224426a93eb2f4f996ba78caa68838
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneWellUpperPart
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 29
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528dceecfb6e0fb47a04091a119c9afd
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 34
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ce43181570244c85b3acc39fe9b74
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 33
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0925f7defb603fa4d8ff52c6d26519ab
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard3
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 37
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87a208df97f664cafa8b00127f0822
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 34
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eac1cf4d6def342a7332aa94207f39
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard1Side
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 16
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d47f7f3f59a4a49a98a48759e0b521
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard2Side
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 16
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953551f07fe25449858fca1163a0532
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard3Side
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 18
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b218e14e1bc6245bb203409e0d39b3
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBoard4Side
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcae21adc8f328742be6fc43d7e9dae5
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodBridgePart
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 17
+        width: 40
+        height: 123
+      alignment: 9
+      pivot: {x: 0.45171246, y: 0.18672465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc094710edb70c84197792a4c90f5785
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPartNail
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 106
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f057903f56404496a8d032b9952bf
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodPartCircle
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 19
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e974c899d2ef84b9bbaef91f57b793
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 447
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980594b8d53f06a4f9a654cb0f1ed3cd
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingHouseBroken
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 245
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b98bbb32d103c4da023bc30d9ace5e
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingHouse1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 344
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037e9975c2696045b124d01595669b2
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingHouse2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 183
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c3ac73792547d4e9920a8c6ec2802d
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingHouse3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 19
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1dd4ba07dda6c4db7fde1fa8a577d2
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuildingStoneLittleTemple
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 187
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0084b0b8031cf194485bff7353a35a47
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCircleNormal
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 520
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acddfb60d08fb0e41a927400915824c3
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteCircleBlur
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 420
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1499cc28687f94285132b7a6ce540b
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteSquare
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 144
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695bb26a16cccc4794f72755066877c
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteLinearGradient
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 280
+        width: 72
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c41933e5b3e04ba505a691fee5b7d
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStem1Cut
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.54553187, y: 0.22105436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8623cf010fa41d54db3a260e01547063
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeStem2Cut
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 422
+        width: 97
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44556546, y: 0.26614767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7d4919c2a11294ab76610543566a79
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 195
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511afe20c0daaca4b900e41859f642ee
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 144
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318ff9dc47c16da449912bb5bbefa8ff
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TreeBranches2: 21300104
+      StoneStraight: 21300022
+      BuildingHouse1: 21300164
+      DirtRoadCircle: 21300068
+      WoodFence: 21300132
+      StoneCustom3: 21300044
+      StoneRoadSmall11: 21300098
+      Water: 21300184
+      TreeBranches4: 21300108
+      Bush2: 21300120
+      StoneRoadAngle: 21300072
+      TreeBranches3: 21300106
+      StoneRoadSmall5: 21300086
+      WoodPartCircle: 21300158
+      WoodPartNail: 21300156
+      GrassAngle2: 21300014
+      WhiteCircleBlur: 21300174
+      StoneWellLowerPart: 21300134
+      StoneCustom1: 21300040
+      StoneRoadStraight: 21300070
+      BushGrass2: 21300124
+      GrassCircle: 21300020
+      TreeBranches1: 21300102
+      BuildingHouseBroken: 21300162
+      WhiteSquare: 21300176
+      StoneWellUpperPart: 21300136
+      StoneBig: 21300034
+      Bush1: 21300118
+      StoneRoadCustom: 21300076
+      WoodBoard1: 21300138
+      StoneRoadClose: 21300074
+      StoneAngleBig1: 21300028
+      StoneRoadSmall8: 21300092
+      TreeStem2: 21300112
+      Terrain: 21300186
+      StoneAngleBig2: 21300030
+      GrassQuarterCircle1: 21300016
+      StoneRoadSmall1: 21300078
+      GrassStraight1: 21300002
+      StoneCustom2: 21300042
+      BeachStraight1: 21300050
+      BuildingHouse3: 21300168
+      StoneCustom5: 21300048
+      BeachCircle: 21300058
+      GrassStraight2: 21300004
+      WoodBoard2Side: 21300148
+      StoneRoadSmall6: 21300088
+      WoodBoard4Side: 21300152
+      WoodBoard3Side: 21300150
+      DirtRoadClose: 21300066
+      DirtRoadCrosRoad: 21300062
+      StoneRoadSmall2: 21300080
+      BushGrass3: 21300126
+      StoneRoadSmall4: 21300084
+      Crate1: 21300128
+      WoodBoard4: 21300144
+      GrassStraight3: 21300006
+      WoodBoard2: 21300140
+      TreeStem2Cut: 21300182
+      StoneCircleBig2: 21300038
+      BeachStraight3: 21300054
+      StoneRoadSmall10: 21300096
+      StoneCircleBig: 21300036
+      DirtRoadAngle: 21300064
+      StoneCustom4: 21300046
+      TreeStump: 21300114
+      WoodBridgePart: 21300154
+      Crate2: 21300130
+      StoneRoadSmall9: 21300094
+      BeachStraight2: 21300052
+      BushGrass1: 21300122
+      DirtRoadStraight: 21300060
+      BuildingHouse2: 21300166
+      GrassStraight4: 21300000
+      StonePartOfTheCircle: 21300032
+      StoneRoadSmall3: 21300082
+      WhiteCircleNormal: 21300172
+      GrassAngle1: 21300012
+      StoneAngle: 21300024
+      StoneRoadSmall12: 21300100
+      BeachStraight4: 21300056
+      GrassQuarterCircle2: 21300018
+      TreeShadow: 21300116
+      TreeStem1: 21300110
+      BuildingStoneLittleTemple: 21300170
+      WoodBoard3: 21300142
+      WoodBoard1Side: 21300146
+      WhiteLinearGradient: 21300178
+      GrassStraight6: 21300010
+      Rope: 21300160
+      GrassStraight5: 21300008
+      StoneRoadSmall7: 21300090
+      StoneStraightBig: 21300026
+      TreeStem1Cut: 21300180
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

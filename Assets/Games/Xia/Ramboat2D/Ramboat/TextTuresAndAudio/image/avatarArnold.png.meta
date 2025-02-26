@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: 2fb05983f8a7d45429e770b1b412c074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: avatarArnold2
+  - first:
+      213: 21300002
+    second: avatarArnold16_1
+  - first:
+      213: 21300004
+    second: avatarArnold19
+  - first:
+      213: 21300006
+    second: avatarArnold12
+  - first:
+      213: 21300008
+    second: avatarArnold8
+  - first:
+      213: 21300010
+    second: avatarArnold9
+  - first:
+      213: 21300012
+    second: avatarArnold5
+  - first:
+      213: 21300014
+    second: avatarArnold16
+  - first:
+      213: 21300016
+    second: avatarArnold18
+  - first:
+      213: 21300018
+    second: avatarArnold_8
+  - first:
+      213: 21300020
+    second: avatarArnold_1
+  - first:
+      213: 21300022
+    second: avatarArnold3
+  - first:
+      213: 21300024
+    second: avatarArnold6
+  - first:
+      213: 21300026
+    second: avatarArnold17
+  - first:
+      213: 21300028
+    second: avatarArnold10
+  - first:
+      213: 21300030
+    second: avatarArnold14
+  - first:
+      213: 21300032
+    second: avatarArnold7
+  - first:
+      213: 21300034
+    second: avatarArnold13
+  - first:
+      213: 21300036
+    second: avatarArnold15
+  - first:
+      213: 21300038
+    second: avatarArnold4
+  - first:
+      213: 21300040
+    second: avatarArnold_20
+  - first:
+      213: 21300042
+    second: avatarArnold11
+  - first:
+      213: 21300044
+    second: avatarArnold1
+  - first:
+      213: 21300046
+    second: avatarArnold_23
+  - first:
+      213: 21300048
+    second: avatarArnold_24
+  - first:
+      213: 21300050
+    second: avatarArnold18_1
+  - first:
+      213: 21300052
+    second: avatarArnold8_1
+  - first:
+      213: 21300054
+    second: avatarArnold9_1
+  - first:
+      213: 21300056
+    second: avatarArnold14_1
+  - first:
+      213: 21300058
+    second: avatarArnold12_1
+  - first:
+      213: 21300060
+    second: avatarArnold4_1
+  - first:
+      213: 21300062
+    second: avatarArnold5_1
+  - first:
+      213: 21300064
+    second: avatarArnold15_1
+  - first:
+      213: 21300066
+    second: avatarArnold6_1
+  - first:
+      213: 21300068
+    second: avatarArnold10_1
+  - first:
+      213: 21300070
+    second: avatarArnold11_1
+  - first:
+      213: 21300072
+    second: avatarArnold2_1
+  - first:
+      213: 21300074
+    second: avatarArnold7_1
+  - first:
+      213: 21300076
+    second: avatarArnold17_1
+  - first:
+      213: 21300078
+    second: avatarArnold13_1
+  - first:
+      213: 21300080
+    second: avatarArnold3_1
+  - first:
+      213: 21300082
+    second: avatarArnold1_1
+  - first:
+      213: 21300084
+    second: avatarArnold19_1
+  - first:
+      213: 21300086
+    second: avatarArnold20
+  - first:
+      213: 21300088
+    second: avatarArnold20_1
+  - first:
+      213: 21300090
+    second: avatarArnold13_1
+  - first:
+      213: 21300092
+    second: avatarArnold2_2
+  - first:
+      213: 21300094
+    second: avatarArnold_0
+  - first:
+      213: 21300096
+    second: avatarArnold_2
+  - first:
+      213: 21300098
+    second: avatarArnold_3
+  - first:
+      213: 21300100
+    second: avatarArnold_4
+  - first:
+      213: 21300102
+    second: avatarArnold_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatarArnold2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 360
+        width: 48
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4873692, y: 0.014441413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 428
+        width: 43
+        height: 84
+      alignment: 9
+      pivot: {x: 0.50939566, y: 0.004668463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 439
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5129137, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 352
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49497163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 360
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47319523, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 360
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5116428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 358
+        width: 43
+        height: 74
+      alignment: 9
+      pivot: {x: 0.595701, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5231575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 280
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4786227, y: 0.0037601725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 284
+        width: 47
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47697416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 283
+        width: 46
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5806255, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 46
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5320219, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 198
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.45902824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 204
+        width: 49
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5378197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 206
+        width: 45
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5630768, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 266
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5159636, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5866993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 46
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4783942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.46848753, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 47
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49874488, y: 0.030074866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 437
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4328526, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold1_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 47
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49874488, y: 0.030074866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold2_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 48
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4873692, y: 0.014441413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold3_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 45
+        width: 47
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47697416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold4_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 357
+        width: 46
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4783942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold5_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 283
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5116428, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold6_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 206
+        width: 46
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5806255, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold7_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 45
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5630768, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold8_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 435
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49497163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold9_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 437
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47319523, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold10_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.45902824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold11_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 121
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.46848753, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold12_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 439
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5129137, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold13_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 52
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5159636, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold14_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 437
+        width: 49
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5378197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold15_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5866993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold16_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 206
+        width: 43
+        height: 74
+      alignment: 9
+      pivot: {x: 0.595701, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold17_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 46
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5320219, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold18_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 46
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5231575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold19_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 43
+        height: 84
+      alignment: 9
+      pivot: {x: 0.50939566, y: 0.004668463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 358
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4328526, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 275
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4786227, y: 0.0037601725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 54
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4786227, y: 0.0037601725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 55
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4786227, y: 0.0037601725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarArnold_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 131
+        width: 59
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4786227, y: 0.0037601725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      avatarArnold_0: 21300094
+      avatarArnold4: 21300038
+      avatarArnold1_1: 21300082
+      avatarArnold8: 21300008
+      avatarArnold16: 21300014
+      avatarArnold18_1: 21300050
+      avatarArnold7: 21300032
+      avatarArnold4_1: 21300060
+      avatarArnold10: 21300028
+      avatarArnold9: 21300010
+      avatarArnold12_1: 21300058
+      avatarArnold17: 21300026
+      avatarArnold_4: 21300100
+      avatarArnold11: 21300042
+      avatarArnold13_1: 21300078
+      avatarArnold5: 21300012
+      avatarArnold14: 21300030
+      avatarArnold6: 21300024
+      avatarArnold_2: 21300096
+      avatarArnold10_1: 21300068
+      avatarArnold6_1: 21300066
+      avatarArnold12: 21300006
+      avatarArnold1: 21300044
+      avatarArnold18: 21300016
+      avatarArnold11_1: 21300070
+      avatarArnold_1: 21300020
+      avatarArnold2_2: 21300092
+      avatarArnold3_1: 21300080
+      avatarArnold20: 21300086
+      avatarArnold_5: 21300102
+      avatarArnold16_1: 21300002
+      avatarArnold9_1: 21300054
+      avatarArnold15_1: 21300064
+      avatarArnold3: 21300022
+      avatarArnold5_1: 21300062
+      avatarArnold2: 21300000
+      avatarArnold_3: 21300098
+      avatarArnold14_1: 21300056
+      avatarArnold7_1: 21300074
+      avatarArnold8_1: 21300052
+      avatarArnold19_1: 21300084
+      avatarArnold15: 21300036
+      avatarArnold19: 21300004
+      avatarArnold17_1: 21300076
+      avatarArnold13: 21300034
+  spritePackingTag: IMGGame
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

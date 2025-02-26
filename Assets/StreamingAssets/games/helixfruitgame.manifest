@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 4131002612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc4fe73234db8862aaf6aa5b33fc6d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fd39603123ed669280bf3940055bd859
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 45
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4920acd1c7a24b4789d77f8b381a1a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94a34be48b314354480c6470d6e3f277, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fcc86af262aead4d97a7fc8243598ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19bc3a4eef0aa8444956909671541ed2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24d48fbfd61884b4e87536e440d9197a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec8fa3379f82e994ea7fb347de2d8a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76e4cd8ac056f974db1aa353f3fa35c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 686679734f1f36940aa5891ef0189057, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f06abaeb154eb5b4780fa778e01e3492, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0688d7d9bbdb014db6b77447e3840b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24db3a33d641aee44a5d77201ff73c41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5e1204e7ee0f5545bc82e340e41e804, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 386a59d3f99c12e4c844602423f2d868, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa3fe6e76b1ae74f9fd8d70102cd485, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fdd4606e6cbb274283f0ee04c2bbc50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/HelixFruitGame.unity
+Dependencies: []

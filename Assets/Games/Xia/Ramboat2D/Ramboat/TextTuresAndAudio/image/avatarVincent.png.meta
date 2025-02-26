@@ -1,0 +1,1247 @@
+fileFormatVersion: 2
+guid: 9721ac7364eb4d142a715191982b4312
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: avatarVincent1
+  - first:
+      213: 21300002
+    second: avatarVincent3
+  - first:
+      213: 21300004
+    second: avatarVincent13
+  - first:
+      213: 21300006
+    second: avatarVincent17
+  - first:
+      213: 21300008
+    second: avatarVincent16
+  - first:
+      213: 21300010
+    second: avatarVincent4
+  - first:
+      213: 21300012
+    second: avatarVincent14
+  - first:
+      213: 21300014
+    second: avatarVincent_7
+  - first:
+      213: 21300016
+    second: avatarVincent8
+  - first:
+      213: 21300018
+    second: avatarVincent5
+  - first:
+      213: 21300020
+    second: avatarVincent2
+  - first:
+      213: 21300022
+    second: avatarVincent19
+  - first:
+      213: 21300024
+    second: avatarVincent7
+  - first:
+      213: 21300026
+    second: avatarVincent9
+  - first:
+      213: 21300028
+    second: avatarVincent_14
+  - first:
+      213: 21300030
+    second: avatarVincent15
+  - first:
+      213: 21300032
+    second: avatarVincent12
+  - first:
+      213: 21300034
+    second: avatarVincent_17
+  - first:
+      213: 21300036
+    second: avatarVincent6
+  - first:
+      213: 21300038
+    second: avatarVincent11
+  - first:
+      213: 21300040
+    second: avatarVincent_20
+  - first:
+      213: 21300042
+    second: avatarVincent_21
+  - first:
+      213: 21300044
+    second: avatarVincent18
+  - first:
+      213: 21300046
+    second: avatarVincent_23
+  - first:
+      213: 21300048
+    second: avatarVincent_24
+  - first:
+      213: 21300050
+    second: avatarVincent1_1
+  - first:
+      213: 21300052
+    second: avatarVincent2_1
+  - first:
+      213: 21300054
+    second: avatarVincent3_1
+  - first:
+      213: 21300056
+    second: avatarVincent4_1
+  - first:
+      213: 21300058
+    second: avatarVincent5_1
+  - first:
+      213: 21300060
+    second: avatarVincent6_1
+  - first:
+      213: 21300062
+    second: avatarVincent7_1
+  - first:
+      213: 21300064
+    second: avatarVincent8_1
+  - first:
+      213: 21300066
+    second: avatarVincent9_1
+  - first:
+      213: 21300068
+    second: avatarVincent11_1
+  - first:
+      213: 21300070
+    second: avatarVincent10
+  - first:
+      213: 21300072
+    second: avatarVincent10_1
+  - first:
+      213: 21300074
+    second: avatarVincent12_1
+  - first:
+      213: 21300076
+    second: avatarVincent13_1
+  - first:
+      213: 21300078
+    second: avatarVincent14_1
+  - first:
+      213: 21300080
+    second: avatarVincent15_1
+  - first:
+      213: 21300082
+    second: avatarVincent16_1
+  - first:
+      213: 21300084
+    second: avatarVincent17_1
+  - first:
+      213: 21300086
+    second: avatarVincent18_1
+  - first:
+      213: 21300088
+    second: avatarVincent19_1
+  - first:
+      213: 21300090
+    second: avatarVincent_0
+  - first:
+      213: 21300092
+    second: avatarVincent_1
+  - first:
+      213: 21300094
+    second: avatarVincent_2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatarVincent1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 44
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5409525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 46
+        height: 76
+      alignment: 9
+      pivot: {x: 0.475166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 66
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4729591, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 57
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47463414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 92
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.41724494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 50
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4707373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 98
+        width: 63
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4460677, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 181
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.38330346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 181
+        width: 55
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45155862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 183
+        width: 46
+        height: 78
+      alignment: 9
+      pivot: {x: 0.569942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 48
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5889468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 269
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.38759878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 268
+        width: 72
+        height: 79
+      alignment: 9
+      pivot: {x: 0.37179905, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 271
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.39748168, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 353
+        width: 62
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3755262, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 433
+        width: 67
+        height: 78
+      alignment: 9
+      pivot: {x: 0.37255996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 57
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4330439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 352
+        width: 70
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45638296, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 428
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5584373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 92
+        width: 77
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3806905, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: 0.38069054, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent1_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 44
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5409525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent2_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 46
+        height: 78
+      alignment: 9
+      pivot: {x: 0.569942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent3_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 46
+        height: 76
+      alignment: 9
+      pivot: {x: 0.475166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent4_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 97
+        width: 50
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4707373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent5_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 182
+        width: 55
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45155862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent6_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 274
+        width: 57
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4330439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent7_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 274
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.38759878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent8_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 94
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.38330346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent9_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 183
+        width: 72
+        height: 79
+      alignment: 9
+      pivot: {x: 0.37179905, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent11_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 433
+        width: 70
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45638296, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 181
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.40626547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent10_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 432
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.40626547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent12_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 67
+        height: 78
+      alignment: 9
+      pivot: {x: 0.37255996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent13_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 433
+        width: 66
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4729591, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent14_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 273
+        width: 63
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4460677, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent15_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 431
+        width: 62
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3755262, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent16_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 62
+        height: 80
+      alignment: 9
+      pivot: {x: 0.41724494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent17_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 186
+        width: 57
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47463414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent18_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5584373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent19_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 48
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5889468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 433
+        width: 77
+        height: 78
+      alignment: 9
+      pivot: {x: 0.43508038, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 348
+        width: 75
+        height: 78
+      alignment: 9
+      pivot: {x: 0.43508038, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarVincent_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 349
+        width: 77
+        height: 78
+      alignment: 9
+      pivot: {x: 0.43508038, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      avatarVincent1: 21300000
+      avatarVincent6: 21300036
+      avatarVincent9_1: 21300066
+      avatarVincent15: 21300030
+      avatarVincent19: 21300022
+      avatarVincent9: 21300026
+      avatarVincent12_1: 21300074
+      avatarVincent7_1: 21300062
+      avatarVincent_24: 21300048
+      avatarVincent15_1: 21300080
+      avatarVincent14: 21300012
+      avatarVincent17: 21300006
+      avatarVincent8: 21300016
+      avatarVincent3: 21300002
+      avatarVincent10: 21300070
+      avatarVincent_2: 21300094
+      avatarVincent_1: 21300092
+      avatarVincent_14: 21300028
+      avatarVincent11_1: 21300068
+      avatarVincent5_1: 21300058
+      avatarVincent10_1: 21300072
+      avatarVincent2: 21300020
+      avatarVincent16_1: 21300082
+      avatarVincent4_1: 21300056
+      avatarVincent2_1: 21300052
+      avatarVincent19_1: 21300088
+      avatarVincent18: 21300044
+      avatarVincent_23: 21300046
+      avatarVincent6_1: 21300060
+      avatarVincent12: 21300032
+      avatarVincent4: 21300010
+      avatarVincent7: 21300024
+      avatarVincent1_1: 21300050
+      avatarVincent13_1: 21300076
+      avatarVincent18_1: 21300086
+      avatarVincent13: 21300004
+      avatarVincent3_1: 21300054
+      avatarVincent17_1: 21300084
+      avatarVincent16: 21300008
+      avatarVincent11: 21300038
+      avatarVincent14_1: 21300078
+      avatarVincent8_1: 21300064
+      avatarVincent_0: 21300090
+      avatarVincent5: 21300018
+  spritePackingTag: IMGGame
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

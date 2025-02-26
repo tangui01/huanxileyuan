@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 6015f80007ce5534d9128b756dff5c08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: avatarRous1
+  - first:
+      213: 21300002
+    second: avatarRous2
+  - first:
+      213: 21300004
+    second: avatarRous3
+  - first:
+      213: 21300006
+    second: avatarRous4
+  - first:
+      213: 21300008
+    second: avatarRous4
+  - first:
+      213: 21300010
+    second: avatarRous5
+  - first:
+      213: 21300012
+    second: avatarRous6
+  - first:
+      213: 21300014
+    second: avatarRous7
+  - first:
+      213: 21300016
+    second: avatarRous8
+  - first:
+      213: 21300018
+    second: avatarRous9
+  - first:
+      213: 21300020
+    second: avatarRous_3
+  - first:
+      213: 21300022
+    second: avatarRous11
+  - first:
+      213: 21300024
+    second: avatarRous12
+  - first:
+      213: 21300026
+    second: avatarRous13
+  - first:
+      213: 21300028
+    second: avatarRous14
+  - first:
+      213: 21300030
+    second: avatarRous17
+  - first:
+      213: 21300032
+    second: avatarRous18
+  - first:
+      213: 21300034
+    second: avatarRous19
+  - first:
+      213: 21300036
+    second: avatarRous1_1
+  - first:
+      213: 21300038
+    second: avatarRous2_1
+  - first:
+      213: 21300040
+    second: avatarRous3_1
+  - first:
+      213: 21300042
+    second: avatarRous15
+  - first:
+      213: 21300044
+    second: avatarRous16
+  - first:
+      213: 21300046
+    second: avatarRous4_1
+  - first:
+      213: 21300048
+    second: avatarRous5_1
+  - first:
+      213: 21300050
+    second: avatarRous6_1
+  - first:
+      213: 21300052
+    second: avatarRous7_1
+  - first:
+      213: 21300054
+    second: avatarRous8_1
+  - first:
+      213: 21300056
+    second: avatarRous9_1
+  - first:
+      213: 21300058
+    second: avatarRous10_1
+  - first:
+      213: 21300060
+    second: avatarRous11_1
+  - first:
+      213: 21300062
+    second: avatarRous12_1
+  - first:
+      213: 21300064
+    second: avatarRous13_1
+  - first:
+      213: 21300066
+    second: avatarRous14_1
+  - first:
+      213: 21300068
+    second: avatarRous15_1
+  - first:
+      213: 21300070
+    second: avatarRous16_1
+  - first:
+      213: 21300072
+    second: avatarRous17_1
+  - first:
+      213: 21300074
+    second: avatarRous18_1
+  - first:
+      213: 21300076
+    second: avatarRous19_1
+  - first:
+      213: 21300078
+    second: avatarRous_0
+  - first:
+      213: 21300080
+    second: avatarRous_1
+  - first:
+      213: 21300082
+    second: avatarRous_2
+  - first:
+      213: 21300084
+    second: avatarRous10
+  - first:
+      213: 21300086
+    second: avatarRous_4
+  - first:
+      213: 21300088
+    second: avatarRous_5
+  - first:
+      213: 21300090
+    second: avatarRous_6
+  - first:
+      213: 21300092
+    second: avatarRous_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatarRous1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 78
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 56
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 81
+        width: 57
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5330918, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 155
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5253067, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 247
+        width: 59
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5412572, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 150
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.52683824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 346
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.46329534, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 247
+        width: 72
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4759208, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 435
+        width: 71
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46244016, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 151
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 245
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4759484, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 343
+        width: 57
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5300855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 51
+        height: 81
+      alignment: 9
+      pivot: {x: 0.65767205, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 342
+        width: 52
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6186146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 429
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6192908, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous1_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 343
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous2_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 155
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous3_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 56
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.65248495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous4_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 57
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5330918, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous5_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5253067, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous6_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 343
+        width: 59
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5412572, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous7_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 80
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: 0.52683824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous8_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 75
+        width: 62
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous9_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.46329534, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous11_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 346
+        width: 71
+        height: 72
+      alignment: 9
+      pivot: {x: 0.46244016, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous12_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 433
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous13_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 432
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous14_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 77
+        width: 59
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4759484, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous15_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 247
+        width: 57
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5300855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous17_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 51
+        height: 81
+      alignment: 9
+      pivot: {x: 0.65767205, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous18_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 155
+        width: 52
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6186146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous19_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 55
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6192908, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4989563, y: -0.0012429727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 76
+        height: 73
+      alignment: 9
+      pivot: {x: 0.50446343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.46742013, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4715069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4702024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.46904787, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 249
+        width: 73
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4923353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 249
+        width: 73
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4923353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous16_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 50
+        height: 76
+      alignment: 9
+      pivot: {x: 0.65248495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarRous10_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 435
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4715069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      avatarRous_5: 21300088
+      avatarRous19_1: 21300076
+      avatarRous9: 21300018
+      avatarRous12_1: 21300062
+      avatarRous2_1: 21300038
+      avatarRous_3: 21300020
+      avatarRous_6: 21300090
+      avatarRous11: 21300022
+      avatarRous7: 21300014
+      avatarRous5: 21300010
+      avatarRous3_1: 21300040
+      avatarRous19: 21300034
+      avatarRous11_1: 21300060
+      avatarRous13_1: 21300064
+      avatarRous14_1: 21300066
+      avatarRous7_1: 21300052
+      avatarRous17: 21300030
+      avatarRous9_1: 21300056
+      avatarRous8: 21300016
+      avatarRous4: 21300006
+      avatarRous6_1: 21300050
+      avatarRous10_1: 21300058
+      avatarRous5_1: 21300048
+      avatarRous15_1: 21300068
+      avatarRous_0: 21300078
+      avatarRous8_1: 21300054
+      avatarRous_7: 21300092
+      avatarRous16_1: 21300070
+      avatarRous6: 21300012
+      avatarRous14: 21300028
+      avatarRous16: 21300044
+      avatarRous_2: 21300082
+      avatarRous_4: 21300086
+      avatarRous10: 21300084
+      avatarRous18: 21300032
+      avatarRous1_1: 21300036
+      avatarRous15: 21300042
+      avatarRous18_1: 21300074
+      avatarRous2: 21300002
+      avatarRous17_1: 21300072
+      avatarRous13: 21300026
+      avatarRous12: 21300024
+      avatarRous_1: 21300080
+      avatarRous1: 21300000
+      avatarRous4_1: 21300046
+      avatarRous3: 21300004
+  spritePackingTag: IMGGame
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

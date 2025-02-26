@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 3201367929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42ed29a03e28b03efaaeef6eaf3788c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02c257334419d9db56cc37a4e7eadf48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d43a77054edb6fb44be3c9fe3ddda5a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2b0a2d306462fb4faaba3b1c1667443, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a10a63296be7ba64395a61037fce05d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5caf73b921c68b746ac6a3eb1649362d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc581c305b893724ea34dcb2bb4811fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6950ad7aaca955f44851ccaa52f8452a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd6d4281e5d7cd44d8c6e38bc2c1b8d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 798b3f510f142d44caa1d87fa11baecc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b847f2ad254bb0040b4918e0ab58ebcf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0be28f6fda1e6c419ed132f8711ec05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcb3c0d8b0a314149982e1aa4613b236, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fceaeb339b971b429c4cc600acabd13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3252a7e7514f9da43aef1227e5be1a19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ef682e2369afe442bee056971c14a3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0923359e9e352a4b9b11c7b7161ad67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d64b4f3a592f28b44bf19223ac8b6cd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fdd4606e6cbb274283f0ee04c2bbc50, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/NinjaGame.unity
+Dependencies: []

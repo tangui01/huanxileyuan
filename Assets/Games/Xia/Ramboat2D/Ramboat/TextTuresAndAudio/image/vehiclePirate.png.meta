@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 439bf5a801219c546aec83e63a9ecdff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: vehiclePirate_0
+  - first:
+      213: 21300002
+    second: vehiclePirate_1
+  - first:
+      213: 21300004
+    second: vehiclePirate_2
+  - first:
+      213: 21300006
+    second: vehiclePirate_3
+  - first:
+      213: 21300008
+    second: vehiclePirate_4
+  - first:
+      213: 21300010
+    second: vehiclePirate_5
+  - first:
+      213: 21300012
+    second: vehiclePirate_6
+  - first:
+      213: 21300014
+    second: vehiclePirate_7
+  - first:
+      213: 21300016
+    second: vehiclePirate_8
+  - first:
+      213: 21300018
+    second: vehiclePirate_9
+  - first:
+      213: 21300020
+    second: vehiclePirate_10
+  - first:
+      213: 21300022
+    second: vehiclePirate_11
+  - first:
+      213: 21300024
+    second: vehiclePirate_12
+  - first:
+      213: 21300026
+    second: vehiclePirate_13
+  - first:
+      213: 21300028
+    second: vehiclePirate_14
+  - first:
+      213: 21300030
+    second: vehiclePirate_15
+  - first:
+      213: 21300032
+    second: vehiclePirate_16
+  - first:
+      213: 21300034
+    second: vehiclePirate_17
+  - first:
+      213: 21300036
+    second: vehiclePirate_18
+  - first:
+      213: 21300038
+    second: vehiclePirate_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vehiclePirate_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 260
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 261
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 493
+        width: 24
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.7805899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 375
+        width: 22
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.836384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 257
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 1, y: 0.7546009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 138
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 1, y: 0.8082268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 140
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.8082268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 1, y: 0.8082268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 397
+        width: 48
+        height: 72
+      alignment: 9
+      pivot: {x: 0.14396286, y: 0.9648259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 280
+        width: 52
+        height: 72
+      alignment: 9
+      pivot: {x: 0.11657539, y: 0.9615296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 163
+        width: 54
+        height: 72
+      alignment: 9
+      pivot: {x: 0.11657539, y: 0.9615296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 44
+        width: 47
+        height: 70
+      alignment: 9
+      pivot: {x: 0.24492045, y: 0.9820474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 45
+        height: 71
+      alignment: 9
+      pivot: {x: 0.15268317, y: 0.979799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 50
+        height: 71
+      alignment: 9
+      pivot: {x: 0.1410979, y: 0.9797991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 397
+        width: 57
+        height: 91
+      alignment: 9
+      pivot: {x: 0.14700264, y: 0.9882068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 280
+        width: 61
+        height: 91
+      alignment: 9
+      pivot: {x: 0.14038612, y: 0.9903152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 162
+        width: 61
+        height: 93
+      alignment: 9
+      pivot: {x: 0.049484503, y: 0.97044075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 43
+        width: 56
+        height: 91
+      alignment: 9
+      pivot: {x: 0.19971684, y: 0.988931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 56
+        height: 91
+      alignment: 9
+      pivot: {x: 0.13558415, y: 0.977968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehiclePirate_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 60
+        height: 91
+      alignment: 9
+      pivot: {x: 0.13558415, y: 0.977968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vehiclePirate_16: 21300032
+      vehiclePirate_17: 21300034
+      vehiclePirate_4: 21300008
+      vehiclePirate_7: 21300014
+      vehiclePirate_8: 21300016
+      vehiclePirate_10: 21300020
+      vehiclePirate_13: 21300026
+      vehiclePirate_0: 21300000
+      vehiclePirate_2: 21300004
+      vehiclePirate_18: 21300036
+      vehiclePirate_1: 21300002
+      vehiclePirate_12: 21300024
+      vehiclePirate_5: 21300010
+      vehiclePirate_6: 21300012
+      vehiclePirate_9: 21300018
+      vehiclePirate_19: 21300038
+      vehiclePirate_11: 21300022
+      vehiclePirate_14: 21300028
+      vehiclePirate_15: 21300030
+      vehiclePirate_3: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

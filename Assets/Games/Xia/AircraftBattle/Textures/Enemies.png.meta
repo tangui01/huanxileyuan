@@ -1,0 +1,3825 @@
+fileFormatVersion: 2
+guid: a91fd39274d56d446bbceaad51937ac3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: EnemyGhost
+  - first:
+      213: 21300002
+    second: EnemieShip1Body
+  - first:
+      213: 21300004
+    second: EnemieShip1HIT
+  - first:
+      213: 21300006
+    second: EnemieShip1Damaged
+  - first:
+      213: 21300008
+    second: EnemieTank1Body
+  - first:
+      213: 21300010
+    second: EnemieTank1HIT
+  - first:
+      213: 21300012
+    second: EnemieTank1Damaged
+  - first:
+      213: 21300014
+    second: EnemieTank1Caterpillar
+  - first:
+      213: 21300016
+    second: EnemieTank1CaterpillarSmallPart
+  - first:
+      213: 21300018
+    second: EnemieTank1Spike1
+  - first:
+      213: 21300020
+    second: EnemieTank1Spike2
+  - first:
+      213: 21300022
+    second: EnemieTank1DamageBeforeDeath
+  - first:
+      213: 21300024
+    second: Turret1Body
+  - first:
+      213: 21300026
+    second: Turret1UpperPart
+  - first:
+      213: 21300028
+    second: TurretGUN
+  - first:
+      213: 21300030
+    second: Turret2Body
+  - first:
+      213: 21300032
+    second: Turret2UpperPart
+  - first:
+      213: 21300034
+    second: Turret3Body
+  - first:
+      213: 21300036
+    second: Turret3HIT
+  - first:
+      213: 21300038
+    second: Turret4Body
+  - first:
+      213: 21300040
+    second: Turret4UpperPart
+  - first:
+      213: 21300042
+    second: Turret4HIT
+  - first:
+      213: 21300044
+    second: Turret4Damaged
+  - first:
+      213: 21300046
+    second: TurretUpperPart
+  - first:
+      213: 21300048
+    second: TurretStand
+  - first:
+      213: 21300050
+    second: EnemieHelicopter1Body
+  - first:
+      213: 21300052
+    second: EnemieHelicopter1HIT
+  - first:
+      213: 21300054
+    second: EnemieHelicopter1ElipseCap
+  - first:
+      213: 21300056
+    second: EnemieHelicopter1Elipse
+  - first:
+      213: 21300058
+    second: EnemiePlaneLevel1Blue
+  - first:
+      213: 21300060
+    second: EnemiePlaneLevel1Yelow
+  - first:
+      213: 21300062
+    second: EnemiePlaneLevel1Orange
+  - first:
+      213: 21300064
+    second: EnemiePlaneLevel1HIT
+  - first:
+      213: 21300066
+    second: EnemiePlaneLevel2Orange
+  - first:
+      213: 21300068
+    second: EnemiePlaneLevel2Yelow
+  - first:
+      213: 21300070
+    second: EnemiePlaneLevel2Blue
+  - first:
+      213: 21300072
+    second: EnemiePlaneLevel2HIT
+  - first:
+      213: 21300074
+    second: EnemiePlaneLevel3Orange
+  - first:
+      213: 21300076
+    second: EnemiePlaneLevel3Yelow
+  - first:
+      213: 21300078
+    second: EnemiePlaneLevel3Blue
+  - first:
+      213: 21300080
+    second: EnemiePlaneLevel3HIT
+  - first:
+      213: 21300082
+    second: Turret2HIT
+  - first:
+      213: 21300084
+    second: YelowPart
+  - first:
+      213: 21300086
+    second: ElipseTrailRendererObject
+  - first:
+      213: 21300088
+    second: PandaPlaneArmor1Gameplay
+  - first:
+      213: 21300090
+    second: PandaPlaneArmor2Gameplay
+  - first:
+      213: 21300092
+    second: PandaPlaneArmor3Gameplay
+  - first:
+      213: 21300094
+    second: PandaPlaneArmor3HIT
+  - first:
+      213: 21300096
+    second: PandaPlaneArmor2HIT
+  - first:
+      213: 21300098
+    second: PandaPlaneArmor1HIT
+  - first:
+      213: 21300100
+    second: Bullet6
+  - first:
+      213: 21300102
+    second: Bullet5
+  - first:
+      213: 21300104
+    second: Bullet4
+  - first:
+      213: 21300106
+    second: Bullet3
+  - first:
+      213: 21300108
+    second: Bullet2
+  - first:
+      213: 21300110
+    second: Bullet1
+  - first:
+      213: 21300112
+    second: BulletCircle
+  - first:
+      213: 21300114
+    second: PandaPlaneElipse1
+  - first:
+      213: 21300116
+    second: PandaPlaneElipse2
+  - first:
+      213: 21300118
+    second: PandaPlaneElipse3
+  - first:
+      213: 21300120
+    second: PandaPlaneElipse4
+  - first:
+      213: 21300122
+    second: GunLevelGameplay3
+  - first:
+      213: 21300124
+    second: GunLevelGameplay2
+  - first:
+      213: 21300126
+    second: GunLevelGameplay1
+  - first:
+      213: 21300128
+    second: Rocket
+  - first:
+      213: 21300130
+    second: LaserOrange
+  - first:
+      213: 21300132
+    second: LaserViolet
+  - first:
+      213: 21300134
+    second: WhiteGradient
+  - first:
+      213: 21300136
+    second: PurpleBullet
+  - first:
+      213: 21300138
+    second: BlueBullet
+  - first:
+      213: 21300140
+    second: PurpleBulletLong
+  - first:
+      213: 21300142
+    second: EnemyBulletTrail
+  - first:
+      213: 21300144
+    second: EnemyHomingMissile
+  - first:
+      213: 21300146
+    second: Star
+  - first:
+      213: 21300148
+    second: GlassCrack
+  - first:
+      213: 21300150
+    second: WhiteOverlay
+  - first:
+      213: 21300152
+    second: ExclamationMarkUp
+  - first:
+      213: 21300154
+    second: ExclamationMarkDown
+  - first:
+      213: 21300156
+    second: WhiteRadialGradient
+  - first:
+      213: 21300158
+    second: Blades
+  - first:
+      213: 21300160
+    second: BombFlashLight
+  - first:
+      213: 21300162
+    second: PurpleBullet2
+  - first:
+      213: 21300164
+    second: StartCircle
+  - first:
+      213: 21300166
+    second: PurpleBullet3
+  - first:
+      213: 21300168
+    second: Damage1
+  - first:
+      213: 21300170
+    second: Damage2
+  - first:
+      213: 21300172
+    second: Damage3
+  - first:
+      213: 21300174
+    second: Damage4
+  - first:
+      213: 21300176
+    second: Damage6
+  - first:
+      213: 21300178
+    second: Damage7
+  - first:
+      213: 21300180
+    second: Damage8
+  - first:
+      213: 21300182
+    second: Damage9
+  - first:
+      213: 21300184
+    second: Damage5
+  - first:
+      213: 21300186
+    second: Damage1LV2
+  - first:
+      213: 21300188
+    second: Damage2LV2
+  - first:
+      213: 21300190
+    second: Damage3LV2
+  - first:
+      213: 21300192
+    second: Damage4LV2
+  - first:
+      213: 21300194
+    second: Damage5LV2
+  - first:
+      213: 21300196
+    second: Damage6LV2
+  - first:
+      213: 21300198
+    second: Damage7LV2
+  - first:
+      213: 21300200
+    second: MineAir
+  - first:
+      213: 21300202
+    second: MineAirHIT
+  - first:
+      213: 21300204
+    second: RocketKamikaze
+  - first:
+      213: 21300206
+    second: KamikazeHead
+  - first:
+      213: 21300208
+    second: KamikazeLowerLeg
+  - first:
+      213: 21300210
+    second: KamikazeUpperLeg
+  - first:
+      213: 21300212
+    second: KamikazeShoulder
+  - first:
+      213: 21300214
+    second: KamikazeUpperArm
+  - first:
+      213: 21300216
+    second: KamikazeLowerArm
+  - first:
+      213: 21300218
+    second: KamikazeHip
+  - first:
+      213: 21300220
+    second: KamikazeShoe
+  - first:
+      213: 21300222
+    second: KamikazeUpperBody
+  - first:
+      213: 21300224
+    second: RocketKamikazeHIT
+  - first:
+      213: 21300226
+    second: Enemies_108
+  - first:
+      213: 21300228
+    second: Enemies_109
+  - first:
+      213: 21300230
+    second: Enemies_110
+  - first:
+      213: 21300232
+    second: Enemies_111
+  - first:
+      213: 21300234
+    second: Enemies_112
+  - first:
+      213: 21300236
+    second: Enemies_113
+  - first:
+      213: 21300238
+    second: Enemies_114
+  - first:
+      213: 21300240
+    second: Enemies_115
+  - first:
+      213: 21300242
+    second: Enemies_116
+  - first:
+      213: 21300244
+    second: Enemies_117
+  - first:
+      213: 21300246
+    second: Enemies_118
+  - first:
+      213: 21300248
+    second: Enemies_119
+  - first:
+      213: 21300250
+    second: Enemies_120
+  - first:
+      213: 21300252
+    second: Enemies_121
+  - first:
+      213: 21300254
+    second: Enemies_122
+  - first:
+      213: 21300256
+    second: Enemies_123
+  - first:
+      213: 21300258
+    second: Enemies_124
+  - first:
+      213: 21300260
+    second: Enemies_125
+  - first:
+      213: 21300262
+    second: Chain
+  - first:
+      213: 21300264
+    second: tt
+  - first:
+      213: 21300266
+    second: ttt
+  - first:
+      213: 21300268
+    second: tttt
+  - first:
+      213: 21300270
+    second: Enemies_130
+  - first:
+      213: 21300272
+    second: Enemies_131
+  - first:
+      213: 21300274
+    second: Enemies_132
+  - first:
+      213: 21300276
+    second: Enemies_133
+  - first:
+      213: 21300278
+    second: Enemies_134
+  - first:
+      213: 21300280
+    second: Enemies_135
+  - first:
+      213: 21300282
+    second: Enemies_136
+  - first:
+      213: 21300284
+    second: Enemies_137
+  - first:
+      213: 21300286
+    second: Enemies_138
+  - first:
+      213: 21300288
+    second: Enemies_139
+  - first:
+      213: 21300290
+    second: Enemies_140
+  - first:
+      213: 21300292
+    second: Enemies_141
+  - first:
+      213: 21300294
+    second: Enemies_142
+  - first:
+      213: 21300296
+    second: Enemies_143
+  - first:
+      213: 21300298
+    second: Enemies_144
+  - first:
+      213: 21300300
+    second: GreenBullet
+  - first:
+      213: 21300302
+    second: EnemyBlades
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemieShip1Body
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 845
+        width: 134
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda4ccbbe089ff4d86dd0190c89385d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieShip1HIT
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 845
+        width: 133
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9ec729ad2894d4681b5a4cb12c7e37
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieShip1Damaged
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 842
+        width: 129
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edffbc4eae361984b9d54cc13954ba05
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1Body
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 904
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133ad84f39576f2489dcb9284d3366f2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1HIT
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 937
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe0f53a88060840a8f4dfb951de6cc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1Damaged
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 905
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ee0d02299bc5544952f7f023024efd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1Caterpillar
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 893
+        width: 26
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309eca16b323ce740a47160dd9648735
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1CaterpillarSmallPart
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 906
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f693f5d034cff841884220b0bc4c40c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1Spike1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 962
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4416046, y: 0.8881155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22afa55c16d534788e64449fdb0454
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1Spike2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 998
+        width: 9
+        height: 25
+      alignment: 9
+      pivot: {x: 0.48225233, y: 0.17409424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906305b57f4d7034ebe07c1149b1eff9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieTank1DamageBeforeDeath
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 936
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359380143a45c344d8d9f887354bbf5c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret1Body
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 840
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00957c6f78c34d54a828787746754b85
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret1UpperPart
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 870
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b6b95dfbdead4990fcd41d9a5106f
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretGUN
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 839
+        width: 12
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5265503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189fa8485c2f45d42a40a60860c3fc40
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret2Body
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 856
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0185194d17bcf4592a399602b57175
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret2UpperPart
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 837
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b81a70c97130904c9c9b6941666e630
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret3Body
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 837
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2a3b671db5804a94e1bc52d8e3d04
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret3HIT
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 837
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d7dfadd11409b4a84a341947ba2c3f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret4Body
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 876
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2fa2eecedf494dab7251fcd34aec4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret4UpperPart
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 898
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7f47b82f38bbf4fab6f7a777122c26
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret4HIT
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 836
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d98b2f0c6c4f4cb08497aa59ca9e8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret4Damaged
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 820
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405f7136cfe344497e6e577141dcf0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretStand
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 700
+        width: 87
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2737836061665c4eb8130abbc0bd5bd
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieHelicopter1Body
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 873
+        width: 94
+        height: 150
+      alignment: 9
+      pivot: {x: 0.50270504, y: 0.3982947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4707e4680ec4c5428d9a371463ee91c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieHelicopter1HIT
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 872
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0d416ae778d14088e599be5869970
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieHelicopter1ElipseCap
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 910
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ba2d1c1a3b0a4d82797dcf0a4ab1a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemieHelicopter1Elipse
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 925
+        width: 14
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40852003c2935404b9f76920382c138b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel1Blue
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 493
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac6e91296d3094fae67eb4226320e7
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel1Yelow
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 493
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ba8a8f4e057545a5e87aecb32e51c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel1Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea54209c49738c1418d2ceabf0c927ba
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel1HIT
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 493
+        width: 130
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d17145b45f9c7348b4854acb04f8b52
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel2Orange
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9db1a4bb5f704ea87e386e2b4c239
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel2Yelow
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 605
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285d050e01350de4c8b8605b6b5dcf4d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel2Blue
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 606
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1470a8bd63caec4f9641fb0976e3d60
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel2HIT
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 605
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86502bd80ddf4304fbc24829b62d5735
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel3Orange
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 723
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf396b0efad9b543b3dc2b32818bb54
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel3Yelow
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 722
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4be8bc65fae94f9f3f6acb126b468
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel3Blue
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 722
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610704418bb668447bb6bacc321671f7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemiePlaneLevel3HIT
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 722
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7b0b3ce0c1f646b2d4bb5891e46e2
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret2HIT
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 787
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadfa9246f0a0fd4a9e3c04d5032d35e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YelowPart
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 754
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f525dfff5e98543b91cde3d8a992aa
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElipseTrailRendererObject
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 993
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dd1f0ee05696547b52ce3845804860
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor1Gameplay
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 199
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bfc82977a3ff14f9483cbf89337cc1
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor2Gameplay
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6
+        width: 204
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1267ad4b8a690734296c1dd845be29dd
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor3Gameplay
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 205
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e239e7813afc4d94428814aeccb2e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor3HIT
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 175
+        width: 200
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02453305f2840ce478ad08320e4711a7
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor2HIT
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 175
+        width: 201
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36220eea2253e4493c0e43cf794ca0
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneArmor1HIT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 194
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f7e0d8c18a814aaae993e498b01e5
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 46
+        height: 124
+      alignment: 9
+      pivot: {x: 0.47391278, y: 0.39283827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92aa2d94f52184a80f12e871d26be0
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 370
+        width: 28
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42927158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f85d50d2263d94aa818d141e6a5315
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 381
+        width: 25
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40990764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb000f3697f20c45a987cf8989208bd
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 400
+        width: 21
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42016867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdc18baabe91843bb7483c4987a1ff
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 343
+        width: 16
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3988037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dabf87fa1a1e6e47916609346e6adaa
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 342
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4185659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e694346ae5a0b4091d6528f978ee58
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletCircle
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 341
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dee5f0cbf39af4fb60c92e479a8aca
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneElipse1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 446
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40936b4e97963d14fa85af2b6b22172e
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneElipse2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 411
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce50a82e6a92d14697d8f3b69f8ca0f
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneElipse3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 375
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158042b16998ab4a967945d46dfa41f
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaPlaneElipse4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 339
+        width: 86
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfbf508108aff64e9038f7bbb8ebe48
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunLevelGameplay3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.505353, y: 0.20098618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7504ae640cbcf04b953198f5e2ad215
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunLevelGameplay2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 340
+        width: 27
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5126885, y: 0.22385515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf968c34fdeb0a54f80c1dbbc97baf3c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GunLevelGameplay1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 340
+        width: 15
+        height: 39
+      alignment: 9
+      pivot: {x: 0.52283937, y: 0.21014169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51949aa186b7be44ab3f259de1a768b7
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4955648, y: 0.1345516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dba00671d55b849bb75a77e7ce3b49
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteGradient
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 741
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29e940072af044c9dad189859006d5
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleBullet
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 452
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b658c87657116184d87e7132d00ed28b
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueBullet
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 452
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c097ceb61402744907ac11b8439e3b
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleBulletLong
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 340
+        width: 42
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b38896421c0a443aebd049748602c5
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBulletTrail
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 409
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf121909841f104191d60da20506d21
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyHomingMissile
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 354
+        width: 36
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49453482, y: 0.931292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc304a0b12ff3c64d9c01438c0032cd2
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8ca7a75c7bdd429db0fadcc44c516
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteOverlay
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 481
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384cf50720abff44ebf4f73407c5bb6e
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExclamationMarkUp
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 763
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff7d4716ee75c4d925d188ea3047e2
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExclamationMarkDown
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 727
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a0b863b831e04fb343f0ee5b0c194
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteRadialGradient
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 726
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d8a0a29fa363429f694ae7ccee9e9
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blades
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 93
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e341c30efd0c644bcc30b67904200e
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombFlashLight
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 728
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e4080e99c62d84a833814a2cfffeb8
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleBullet2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 383
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc49cde202b81d48a5caa25be2ef1ed
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartCircle
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 729
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05451122577b5743a611fc5e38c23a5
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleBullet3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 374
+        width: 59
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25306553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cba0876f29afb40bc1d5a444499a5f
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c242a75ea5f074782437897dfc1779
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ba507f0d2c324882eba15210b0e25
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 39
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6620fa4654888c6408c36018916e5378
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 38
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c3c4d9bb80124ebf97a011766b499
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ea8dea8a980e49a77d189bbd806d1
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d676c2df79a5f4d9a898dae22c38e0
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage8
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 40
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffb406d8acca364b9b67ae3a393dca4
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 106
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf249d392283a4a849454711b7c825
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 58
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fb3cfc0b7732242883da484d448633
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage1LV2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2345cc7e6706b141b06d0147cd68c48
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2LV2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 41
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b364650d92f946a880a020336e7a5
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage3LV2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 53
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357e2d35bf578a4d9f4d54236b10ee5
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage4LV2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 53
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a64ad643c2826c44b0ad7fcc3c7da6f
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage5LV2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 83
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea368709633a8814b8465cfa9ed142f9
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage6LV2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 80
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950083e5faf2e749994bd2a5466b63c
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage7LV2
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 123
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c24c04283fd0441be9ce0ec4b2bb40
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineAir
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 599
+        width: 109
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4517698a1bf84c814aa1b51325a69
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MineAirHIT
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 610
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999131010ec02d43afb6a8a78262725
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketKamikaze
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 572
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de7d41de1dc1a4dab15c2b267a5355
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeHead
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 544
+        width: 61
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49598968, y: 0.22431873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c12ecd7d4eb0147a64625afb49d024
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeLowerLeg
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 578
+        width: 13
+        height: 28
+      alignment: 9
+      pivot: {x: 0.53668684, y: 0.8236476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c819814e1640ab418c5e7af9ea1be8e
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeUpperLeg
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 565
+        width: 31
+        height: 12
+      alignment: 9
+      pivot: {x: 0.82464993, y: 0.57293195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d0c6dca2eb8c64abb781ecd0a14a22
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeShoulder
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 581
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.56629527, y: 0.65558267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0733979ce44e4abf1e5e77f162d69
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeUpperArm
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 579
+        width: 9
+        height: 18
+      alignment: 9
+      pivot: {x: 0.51620144, y: 0.7674052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af10f3e6a7e2d40bb14fa6b454fc90
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeLowerArm
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 565
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42707062, y: 0.8669965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a355fa09e9a9f40818aff0e95a68e2
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeHip
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 581
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8180573f854f4bb1b0348a94c042a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeShoe
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 557
+        width: 25
+        height: 22
+      alignment: 9
+      pivot: {x: 0.7742114, y: 0.70552754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3b8160425a8f4294cb5bcf79ff956
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KamikazeUpperBody
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 567
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.51325756, y: 0.117751546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd307aee9737749be7ba390cee8f80
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RocketKamikazeHIT
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 482
+        width: 40
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4179b7f818e84aaba3543f7361533
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 501
+        width: 128
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1d1e81bae8e9478334b24bf2faacb
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 525
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a202f08872f5f548874ea352d4df950
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 513
+        width: 19
+        height: 11
+      alignment: 9
+      pivot: {x: 0.7789467, y: 0.5090887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee1bb569212f84fac18097644300b1
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 512
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b72945d5f059f34f82be6efeb429ec6
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 497
+        width: 23
+        height: 13
+      alignment: 9
+      pivot: {x: 0.83478314, y: 0.54666746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35761ec5c98daf747a78452fbe72da0c
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 484
+        width: 40
+        height: 16
+      alignment: 9
+      pivot: {x: 0.9400009, y: 0.42499924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d6122e30129742aca87a14dcf6c0a
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 493
+        width: 40
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5038284, y: 0.62555665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45065969bbc52d34887fe71cdc9af4b2
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 431
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49116752, y: 0.17819214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b64adf7cd30604cbcc475cea92e236
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 448
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50373507, y: 0.16824341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7fafe3d1140534ba9b62baff27b60c
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 460
+        width: 35
+        height: 19
+      alignment: 9
+      pivot: {x: 0.81061316, y: 0.4677638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9294049898b6e4b9ecad9f87ecef7c
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 459
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.8011332, y: 0.5180125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941a45c5507a984eb376a9014fea3f8
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 480
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5e1e1a522f4ce4d980f37428b10d16
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 479
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.45824087, y: 0.72202146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84803190594ffa84c907eaddec9fe5ac
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 387
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f051752615524da1e52c43648dd08
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 557
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c965c21e1725c4799e63693fc856e4
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 698
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b75f23005420c4dbaf37a4abab3729
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 413
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8865f12f5ac63594c8626e340ef6dbbf
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 356
+        width: 142
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ac5e1e2dda084bbbae041a689dec2
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 203
+        width: 9
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5111152, y: 1.0285382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8804ee260d06dda4c86f4b977ec813d1
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tt
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 418
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd4a5b6ea29d24291b7947b0813da7
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ttt
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 441
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f88f8becc10e4f907f719b00f9d58
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tttt
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 546
+        width: 9
+        height: 19
+      alignment: 9
+      pivot: {x: 0.52508545, y: 0.17912212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4cb59ff388e4346ba3ec2a2a7c46ab
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 403
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be2143e3778834bbf78764757796cb
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 286
+        width: 85
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8816672, y: 0.49168137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c737823ab10854597dbe0653773a17
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 329
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a57e26d333db140b400de802822950
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 390
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484732887ede13a43853447ea3d64971
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 356
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84d9627ae24424b98134e00f3ebe1b
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 356
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e086f6283aad4c99ced5b55e9fad0
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 394
+        width: 3
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afa6914dbdf4c2479f8c2b44a2b1766
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 394
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb80fcc017637c41a976a78a2f53dc2
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 394
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003831a95c4f0e43999ba05227dc162
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 354
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998709ea5060554e9b69b00abe715b6
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 403
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec34458648405a4b852b5cc64385afc
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 438
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86578ab907a8d0b468f2075d32bc44fa
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 354
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f76e53b1d3594e95d9689e36e12c7
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 198
+        width: 84
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5026353, y: 0.27069384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd323df13a99340a2947f08ce335a0
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 239
+        width: 144
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4985729, y: 0.5194821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8472fd6ad681a4693f62cbc6f0d947
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenBullet
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 445
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ef838abbd5f646b1aa5615c3a1d63
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyBlades
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 147
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89079e5be4f5f4a46b4042283b92eade
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemies_144: 21300298
+      Turret4Damaged: 21300044
+      tttt: 21300268
+      Enemies_140: 21300290
+      EnemiePlaneLevel2HIT: 21300072
+      EnemieTank1DamageBeforeDeath: 21300022
+      Bullet5: 21300102
+      MineAir: 21300200
+      Damage9: 21300182
+      Enemies_118: 21300246
+      Enemies_119: 21300248
+      EnemieTank1Spike2: 21300020
+      Damage3LV2: 21300190
+      KamikazeShoe: 21300220
+      GunLevelGameplay1: 21300126
+      Enemies_131: 21300272
+      PandaPlaneArmor1Gameplay: 21300088
+      ExclamationMarkDown: 21300154
+      Enemies_136: 21300282
+      RocketKamikaze: 21300204
+      Turret3Body: 21300034
+      EnemiePlaneLevel2Yelow: 21300068
+      Enemies_133: 21300276
+      GunLevelGameplay2: 21300124
+      EnemieHelicopter1Elipse: 21300056
+      Star: 21300146
+      Damage7LV2: 21300198
+      Enemies_112: 21300234
+      WhiteOverlay: 21300150
+      EnemyHomingMissile: 21300144
+      Enemies_115: 21300240
+      PurpleBullet2: 21300162
+      KamikazeUpperArm: 21300214
+      Turret1Body: 21300024
+      WhiteGradient: 21300134
+      EnemieTank1Body: 21300008
+      BombFlashLight: 21300160
+      EnemiePlaneLevel1Yelow: 21300060
+      ttt: 21300266
+      Enemies_108: 21300226
+      Enemies_114: 21300238
+      EnemiePlaneLevel3Yelow: 21300076
+      PurpleBullet: 21300136
+      YelowPart: 21300084
+      Enemies_125: 21300260
+      GreenBullet: 21300300
+      Bullet2: 21300108
+      Enemies_138: 21300286
+      KamikazeHead: 21300206
+      EnemieHelicopter1Body: 21300050
+      EnemiePlaneLevel1Orange: 21300062
+      Damage4LV2: 21300192
+      Turret2UpperPart: 21300032
+      Enemies_113: 21300236
+      RocketKamikazeHIT: 21300224
+      StartCircle: 21300164
+      TurretStand: 21300048
+      Damage4: 21300174
+      TurretGUN: 21300028
+      MineAirHIT: 21300202
+      EnemieHelicopter1ElipseCap: 21300054
+      Damage6LV2: 21300196
+      PandaPlaneArmor2HIT: 21300096
+      Damage1: 21300168
+      Blades: 21300158
+      Bullet6: 21300100
+      Turret1UpperPart: 21300026
+      Enemies_123: 21300256
+      Enemies_135: 21300280
+      Bullet3: 21300106
+      KamikazeLowerLeg: 21300208
+      Enemies_110: 21300230
+      Damage1LV2: 21300186
+      Enemies_122: 21300254
+      Turret4HIT: 21300042
+      Damage5: 21300184
+      Turret4Body: 21300038
+      EnemieTank1Spike1: 21300018
+      PandaPlaneElipse3: 21300118
+      EnemieHelicopter1HIT: 21300052
+      tt: 21300264
+      Damage3: 21300172
+      EnemieTank1HIT: 21300010
+      Enemies_130: 21300270
+      EnemieTank1Damaged: 21300012
+      PandaPlaneElipse1: 21300114
+      Chain: 21300262
+      Enemies_143: 21300296
+      PurpleBulletLong: 21300140
+      PandaPlaneElipse2: 21300116
+      Turret2Body: 21300030
+      WhiteRadialGradient: 21300156
+      PandaPlaneArmor3HIT: 21300094
+      EnemyBulletTrail: 21300142
+      Enemies_121: 21300252
+      EnemieTank1CaterpillarSmallPart: 21300016
+      KamikazeUpperLeg: 21300210
+      KamikazeLowerArm: 21300216
+      Enemies_117: 21300244
+      Enemies_142: 21300294
+      Damage5LV2: 21300194
+      EnemiePlaneLevel3Orange: 21300074
+      Enemies_111: 21300232
+      Enemies_120: 21300250
+      Enemies_116: 21300242
+      Enemies_137: 21300284
+      EnemiePlaneLevel2Orange: 21300066
+      GunLevelGameplay3: 21300122
+      ExclamationMarkUp: 21300152
+      Bullet1: 21300110
+      PurpleBullet3: 21300166
+      Enemies_134: 21300278
+      BulletCircle: 21300112
+      ElipseTrailRendererObject: 21300086
+      KamikazeUpperBody: 21300222
+      KamikazeHip: 21300218
+      EnemieShip1HIT: 21300004
+      EnemiePlaneLevel3HIT: 21300080
+      EnemiePlaneLevel1HIT: 21300064
+      Damage7: 21300178
+      EnemieTank1Caterpillar: 21300014
+      Turret3HIT: 21300036
+      Turret2HIT: 21300082
+      PandaPlaneArmor2Gameplay: 21300090
+      EnemieShip1Body: 21300002
+      BlueBullet: 21300138
+      EnemyBlades: 21300302
+      EnemieShip1Damaged: 21300006
+      EnemiePlaneLevel1Blue: 21300058
+      Damage6: 21300176
+      Enemies_124: 21300258
+      Enemies_139: 21300288
+      Enemies_132: 21300274
+      PandaPlaneArmor3Gameplay: 21300092
+      PandaPlaneArmor1HIT: 21300098
+      EnemiePlaneLevel2Blue: 21300070
+      Damage8: 21300180
+      Rocket: 21300128
+      KamikazeShoulder: 21300212
+      Enemies_109: 21300228
+      Damage2LV2: 21300188
+      Bullet4: 21300104
+      Enemies_141: 21300292
+      PandaPlaneElipse4: 21300120
+      EnemiePlaneLevel3Blue: 21300078
+      Damage2: 21300170
+      Turret4UpperPart: 21300040
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

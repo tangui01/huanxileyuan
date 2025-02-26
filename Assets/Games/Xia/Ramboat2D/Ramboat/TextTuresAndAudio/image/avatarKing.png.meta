@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: d746f8680eac3b34ab0507c69a6990c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: avatarKing1
+  - first:
+      213: 21300002
+    second: avatarKing17
+  - first:
+      213: 21300004
+    second: avatarKing2
+  - first:
+      213: 21300006
+    second: avatarKing_3
+  - first:
+      213: 21300008
+    second: avatarKing3
+  - first:
+      213: 21300010
+    second: avatarKing_6
+  - first:
+      213: 21300012
+    second: avatarKing20
+  - first:
+      213: 21300014
+    second: avatarKing_8
+  - first:
+      213: 21300016
+    second: avatarKing15
+  - first:
+      213: 21300018
+    second: avatarKing13
+  - first:
+      213: 21300020
+    second: avatarKing6
+  - first:
+      213: 21300022
+    second: avatarKing16
+  - first:
+      213: 21300024
+    second: avatarKing9
+  - first:
+      213: 21300026
+    second: avatarKing4
+  - first:
+      213: 21300028
+    second: avatarKing5
+  - first:
+      213: 21300030
+    second: avatarKing11
+  - first:
+      213: 21300032
+    second: avatarKing10
+  - first:
+      213: 21300034
+    second: avatarKing19
+  - first:
+      213: 21300036
+    second: avatarKing_19
+  - first:
+      213: 21300038
+    second: avatarKing18
+  - first:
+      213: 21300040
+    second: avatarKing12
+  - first:
+      213: 21300042
+    second: avatarKing7
+  - first:
+      213: 21300044
+    second: avatarKing8
+  - first:
+      213: 21300046
+    second: avatarKing_24
+  - first:
+      213: 21300048
+    second: avatarKing14
+  - first:
+      213: 21300050
+    second: avatarKing1_1
+  - first:
+      213: 21300052
+    second: avatarKing10_1
+  - first:
+      213: 21300054
+    second: avatarKing2_1
+  - first:
+      213: 21300056
+    second: avatarKing3_1
+  - first:
+      213: 21300058
+    second: avatarKing4_1
+  - first:
+      213: 21300060
+    second: avatarKing5_1
+  - first:
+      213: 21300062
+    second: avatarKing6_1
+  - first:
+      213: 21300064
+    second: avatarKing7_1
+  - first:
+      213: 21300066
+    second: avatarKing8_1
+  - first:
+      213: 21300068
+    second: avatarKing9_1
+  - first:
+      213: 21300070
+    second: avatarKing11_1
+  - first:
+      213: 21300072
+    second: avatarKing12_1
+  - first:
+      213: 21300074
+    second: avatarKing13_1
+  - first:
+      213: 21300076
+    second: avatarKing_0
+  - first:
+      213: 21300078
+    second: avatarKing14_1
+  - first:
+      213: 21300080
+    second: avatarKing15_1
+  - first:
+      213: 21300082
+    second: avatarKing16_1
+  - first:
+      213: 21300084
+    second: avatarKing17_1
+  - first:
+      213: 21300086
+    second: avatarKing18_1
+  - first:
+      213: 21300088
+    second: avatarKing19_1
+  - first:
+      213: 21300090
+    second: avatarKing_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 100
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: avatarKing1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 41
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48455477, y: 0.15589078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 47
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45483467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 41
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52162355, y: 0.14162953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.31616625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5167567, y: 0.12156163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 55
+        height: 79
+      alignment: 9
+      pivot: {x: 0.30782914, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 97
+        width: 60
+        height: 78
+      alignment: 9
+      pivot: {x: 0.35164312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 119
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.30993244, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 124
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: 0.41531882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 134
+        width: 52
+        height: 75
+      alignment: 9
+      pivot: {x: 0.33398497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 139
+        width: 47
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3974525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 211
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.46784142, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 209
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.29847515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 195
+        width: 41
+        height: 76
+      alignment: 9
+      pivot: {x: 0.472539, y: 0.082079835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 289
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.50689477, y: 0.042124145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 284
+        width: 58
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2918275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 279
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.31096318, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 261
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49717426, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 354
+        width: 58
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3060421, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 359
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47796667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 363
+        width: 55
+        height: 74
+      alignment: 9
+      pivot: {x: 0.27961203, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 360
+        width: 52
+        height: 71
+      alignment: 9
+      pivot: {x: 0.39899856, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 438
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3513058, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_24
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 439
+        width: 64
+        height: 72
+      alignment: 9
+      pivot: {x: 0.304461, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 436
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3723734, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 436
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.15148956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 41
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48455477, y: 0.15589078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing2_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 345
+        width: 41
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52162355, y: 0.14162953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 43
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5167567, y: 0.12156163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing4_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 41
+        height: 76
+      alignment: 9
+      pivot: {x: 0.472539, y: 0.082079835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing5_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 441
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 0.50689477, y: 0.042124145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing6_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 216
+        width: 47
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3974525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing7_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 439
+        width: 52
+        height: 71
+      alignment: 9
+      pivot: {x: 0.39899856, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing8_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 363
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3513058, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing9_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 286
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.29847515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing10_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 40
+        width: 60
+        height: 73
+      alignment: 9
+      pivot: {x: 0.31096318, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing11_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 361
+        width: 58
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2918275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing12_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 202
+        width: 55
+        height: 74
+      alignment: 9
+      pivot: {x: 0.27961203, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing13_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 436
+        width: 52
+        height: 75
+      alignment: 9
+      pivot: {x: 0.33398497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing14_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 276
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3723734, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing15_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 356
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: 0.41531882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing16_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 437
+        width: 44
+        height: 74
+      alignment: 9
+      pivot: {x: 0.46784142, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing17_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 437
+        width: 45
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45483467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing18_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 117
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47796667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing19_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 178
+        width: 40
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49717426, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: avatarKing_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 60
+        height: 78
+      alignment: 9
+      pivot: {x: 0.35164312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      avatarKing_6: 21300010
+      avatarKing4_1: 21300058
+      avatarKing14_1: 21300078
+      avatarKing_3: 21300006
+      avatarKing15: 21300016
+      avatarKing8: 21300044
+      avatarKing18_1: 21300086
+      avatarKing9: 21300024
+      avatarKing15_1: 21300080
+      avatarKing2: 21300004
+      avatarKing18: 21300038
+      avatarKing10_1: 21300052
+      avatarKing6: 21300020
+      avatarKing2_1: 21300054
+      avatarKing17: 21300002
+      avatarKing12_1: 21300072
+      avatarKing_8: 21300014
+      avatarKing6_1: 21300062
+      avatarKing8_1: 21300066
+      avatarKing14: 21300048
+      avatarKing_19: 21300036
+      avatarKing11_1: 21300070
+      avatarKing10: 21300032
+      avatarKing19_1: 21300088
+      avatarKing16: 21300022
+      avatarKing12: 21300040
+      avatarKing7_1: 21300064
+      avatarKing9_1: 21300068
+      avatarKing19: 21300034
+      avatarKing5_1: 21300060
+      avatarKing4: 21300026
+      avatarKing7: 21300042
+      avatarKing_0: 21300076
+      avatarKing3: 21300008
+      avatarKing13_1: 21300074
+      avatarKing_1: 21300090
+      avatarKing1_1: 21300050
+      avatarKing17_1: 21300084
+      avatarKing11: 21300030
+      avatarKing1: 21300000
+      avatarKing20: 21300012
+      avatarKing_24: 21300046
+      avatarKing5: 21300028
+      avatarKing13: 21300018
+      avatarKing3_1: 21300056
+      avatarKing16_1: 21300082
+  spritePackingTag: IMGGame
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

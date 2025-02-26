@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b74beb838a29d40a003fe9bf6016a7, type: 3}
+  m_Name: Game Conf
+  m_EditorClassIdentifier: 
+  PlayBodyPre: {fileID: 8948820960735992688, guid: e7bc66b7298ac644dbd020106873d9e1,
+    type: 3}
+  PlayerHeadPre: {fileID: 4626812036836348124, guid: 8528ea7486563ac448a4d557f5a2d8b9,
+    type: 3}
+  FoodPre: {fileID: 3329610479063975795, guid: 7d0b03b7350f2ce4b92304a359cadd1b, type: 3}
+  BotHeadPre: {fileID: 3029336206954113638, guid: 61d619d260f34434ab75b3d5a4ba7e4e,
+    type: 3}
+  BotBodyPre: {fileID: 8948820960735992688, guid: 564dd64f0f458db489d5e1cfad9a807d,
+    type: 3}
+  NicknamePre: {fileID: 1989288602636498110, guid: b1f541a07fb19574181b54c54c37890f,
+    type: 3}
+  AddScoreUI: {fileID: 5022204268014306544, guid: 885ea791c3c129a47a6f44658240944a,
+    type: 3}
+  ScoreFx_1: {fileID: 7678857954158550976, guid: 62a1b77d8a7f98742bc18f4461c338f2,
+    type: 3}
+  Fx_Gratz: {fileID: 7678857954158550976, guid: 2a6b7b5e306de704d82d1e6e05fccdb6,
+    type: 3}
+  Fx_Ouch: {fileID: 7678857954158550976, guid: 1aba7c95045dedb4ab5b9378a8249c36, type: 3}
+  SimpleHit: {fileID: 100000, guid: f06e78284f831ae469c74624ab5d513b, type: 3}
+  BigHitEffect_01: {fileID: 1225747916455354, guid: a99d65f7d9ca055409a00ac98c714699,
+    type: 3}
+  BigHitEffect_02: {fileID: 1290487480389892, guid: 26539f8bf567388409799a05b87d9079,
+    type: 3}
+  TextFx_01: {fileID: 7061654499930305487, guid: dfaa62e0c0b142243a91d1bc883d04e3,
+    type: 3}
+  Fx_TimeIsUp: {fileID: 7678857954158550976, guid: f323c6dfa1cc9c84e8f9a7e10fd40f82,
+    type: 3}
+  Fx_Booster_0_Unzoom: {fileID: 7678857954158550976, guid: 24642dcc93b08134481347c5ccfcf6fa,
+    type: 3}
+  Fx_Booster_1_Unzoom: {fileID: 7678857954158550976, guid: 2fd800d85e2dcd44885df20c849fb8b5,
+    type: 3}
+  Fx_Booster_2_Unzoom: {fileID: 7678857954158550976, guid: 6f00958f269c3ac4e85b258fcdcf05af,
+    type: 3}
+  Fx_Booster_3_Unzoom: {fileID: 7678857954158550976, guid: f20f391ac6a044e46b45e4d9b37f4c1e,
+    type: 3}
+  EatFoodEfClip: {fileID: 8300000, guid: b08a501edef8b3c44b6acb71f0661074, type: 3}
+  EatGhostFoodEfClip: {fileID: 8300000, guid: 5396a7c6a8b6af74fbaf929b0a2092c5, type: 3}
+  HitEfClip: {fileID: 8300000, guid: 46f23fd3295218d43b109eaa351be13b, type: 3}

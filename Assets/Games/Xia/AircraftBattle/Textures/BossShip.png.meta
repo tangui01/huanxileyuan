@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: 66d315a047bbf014f9c1f0d04fdfeb52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BossShipBody
+  - first:
+      213: 21300002
+    second: BossShipBodyDamaged
+  - first:
+      213: 21300004
+    second: ColorBossShipPart1Damaged
+  - first:
+      213: 21300006
+    second: ColorBossShipPart1
+  - first:
+      213: 21300008
+    second: ColorBossShipPart6
+  - first:
+      213: 21300010
+    second: ColorBossShipPart7
+  - first:
+      213: 21300012
+    second: ColorBossShipPart5
+  - first:
+      213: 21300014
+    second: ColorBossShipPart2Damaged
+  - first:
+      213: 21300016
+    second: ColorBossShipPart3Damaged
+  - first:
+      213: 21300018
+    second: ColorBossShipPart8
+  - first:
+      213: 21300020
+    second: ColorBossShipPart9
+  - first:
+      213: 21300022
+    second: ColorBossShipPart3
+  - first:
+      213: 21300024
+    second: ColorBossShipPart4
+  - first:
+      213: 21300026
+    second: ColorBossShipPart2
+  - first:
+      213: 21300028
+    second: ColorBossShipPart4Damaged
+  - first:
+      213: 21300030
+    second: BossShip_15
+  - first:
+      213: 21300032
+    second: BossShipTurretStand
+  - first:
+      213: 21300034
+    second: BossShipTurretHatch
+  - first:
+      213: 21300036
+    second: BossShipWingMetal
+  - first:
+      213: 21300038
+    second: BossShipWingMetalDamaged
+  - first:
+      213: 21300040
+    second: BossShipSpike2Damaged
+  - first:
+      213: 21300042
+    second: BossShipSpike2
+  - first:
+      213: 21300044
+    second: BossShipSmallWingDamaged
+  - first:
+      213: 21300046
+    second: BossShipSmallWing
+  - first:
+      213: 21300048
+    second: ColorBossShipSmallPart1
+  - first:
+      213: 21300050
+    second: ColorBossShipSmallPart2
+  - first:
+      213: 21300052
+    second: ColorBossShipSmallPart3
+  - first:
+      213: 21300054
+    second: ColorBossShipSmallPart4
+  - first:
+      213: 21300056
+    second: ColorBossShipSmallPart5
+  - first:
+      213: 21300058
+    second: ColorBossShipSmallPart6
+  - first:
+      213: 21300060
+    second: ColorBossShipSmallPart7
+  - first:
+      213: 21300062
+    second: ColorBossShipSmallPart8
+  - first:
+      213: 21300064
+    second: ColorBossShipPart5Damaged
+  - first:
+      213: 21300066
+    second: BossShip_33
+  - first:
+      213: 21300068
+    second: BossShipTurretStand2
+  - first:
+      213: 21300070
+    second: WhiteSquare
+  - first:
+      213: 21300072
+    second: LinearGradient
+  - first:
+      213: 21300074
+    second: RadialGradient
+  - first:
+      213: 21300076
+    second: BossShipMainLaserStand
+  - first:
+      213: 21300078
+    second: BossShipMainLaserStandDamaged
+  - first:
+      213: 21300080
+    second: BossShipSpike1
+  - first:
+      213: 21300082
+    second: BossShipSpike1Damaged
+  - first:
+      213: 21300084
+    second: ShipMainGunBody
+  - first:
+      213: 21300086
+    second: ShipMainGunBodyHIT
+  - first:
+      213: 21300088
+    second: ShipMainGunUpperPart
+  - first:
+      213: 21300090
+    second: ShipWingGunBodyHIT
+  - first:
+      213: 21300092
+    second: ShipWingGunUpperPart
+  - first:
+      213: 21300094
+    second: PlaneLaserGunDamaged
+  - first:
+      213: 21300096
+    second: ShipLaserGun
+  - first:
+      213: 21300098
+    second: ShipLaserGunBody
+  - first:
+      213: 21300100
+    second: ShipLaserGunRoot
+  - first:
+      213: 21300102
+    second: ShipWingGunBodyDamaged
+  - first:
+      213: 21300104
+    second: ShipWingGunBody
+  - first:
+      213: 21300106
+    second: ShipWingGun
+  - first:
+      213: 21300108
+    second: BossShipMetalDoorPart1
+  - first:
+      213: 21300110
+    second: BossShipMetalDoorPart2
+  - first:
+      213: 21300112
+    second: BossShipMetalDoorPart3
+  - first:
+      213: 21300114
+    second: BossShipMetalDoorPart4
+  - first:
+      213: 21300116
+    second: BossShipMetalDoorPart5
+  - first:
+      213: 21300118
+    second: BossShipMetalDoorPart6
+  - first:
+      213: 21300120
+    second: BossShipTurretStand1
+  - first:
+      213: 21300122
+    second: ShipLaserGunDamaged
+  - first:
+      213: 21300124
+    second: BossShipPart2HIT
+  - first:
+      213: 21300126
+    second: BossShipWingMetalHIT
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossShipBody
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 260
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5338680df06545afbe2a3632fea94
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipBodyDamaged
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 362
+        width: 259
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8bee055fa60e47b94c8e50894b60c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart1Damaged
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 161
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d354f59d7c76146bbeb03021d9c997
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 164
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3402a1885e9dd7d4a8120aeea5a0b895
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 21
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79382924062ede64e99964dda783f7ec
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 22
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd134e72f7e946a479f73016dd2d4c2a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 105
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade0c23e1c66f243993df4c8c5f8e1f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart2Damaged
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 257
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a629e9f082a0da40a24e73ba002dbe7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart3Damaged
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ba02c273b3f04b9d66c2f81be38b4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 148
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc194e1698a4e3040a2525c58c14145c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037278ae96f4004083f8c8bc78f5a55
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 72
+        width: 118
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223987867dbcaa42a3608fe8c2f5ba1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521f8300db36c3c46aadb1767db41e4a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 169
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6f63bad301064bbc44dae1354cf9e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart4Damaged
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 252
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d97f6895ad7db04687307f823adb376
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShip_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 326
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66362c6f996c440a20dca21ca2a5e8
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipTurretStand1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 298
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb1f9159d8ef648b5cc1fb3145141d
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 221
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96ba6dbd4ebed646a2b1c1af21802db
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipWingMetal
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 223
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233be5ad9696c6c44b97317d4835b594
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipWingMetalDamaged
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 211
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faafc1996c9300c4db08d716ab6469df
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSpike2Damaged
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 154
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24974238ef4c534ea9fe5883d85f36c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSpike2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 104
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004aa23ad8a4b0c408b5c8bd77ce3aec
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSmallWingDamaged
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 51
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8dc618ff1f102499e96965a5c2f8c5
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSmallWing
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb267c0c58479a54a99b430b81930aae
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 183
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4469286, y: 0.7604065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abafaddd6064174b8de266a2fe949b5
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 160
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.80516434, y: 0.5465001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8e89e8ac8d824d8b8f8917c211fd8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 136
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7593899, y: 0.58137655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26f0bc263d8f94fb46ef731d305a81
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 109
+        width: 24
+        height: 26
+      alignment: 9
+      pivot: {x: 0.41601053, y: 0.20711078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9382910b1fa7549b718258d1a7eba8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 80
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21203423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b22b49f8eae64ca678dfbf00e7ce2
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 57
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.18932712, y: 0.595988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c862ddd6332843aa4e3268eabb300
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 35
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.21303368, y: 0.5101804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcddb777480df104f9aabf4b78f54bba
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipSmallPart8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5509033, y: 0.8359606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296b8fa17fecef45a3a74e4d9c22954
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColorBossShipPart5Damaged
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1
+        width: 108
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf09aedbf74238b409d981433debf957
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShip_33
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 148
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a207cc1cca92f2479ec4590a52831db
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipTurretStand2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 71
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca818a7a3461f744ba42d652883e650
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteSquare
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 75
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1052661b34deff4884ceb7e929d310d
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinearGradient
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f31a30632003d47b15639d4b1beb94
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadialGradient
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab5047a3b8799e48b798bf9cb727238
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMainLaserStand
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 119
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65b2cd8f6bd42c498fb81c97de5433c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMainLaserStandDamaged
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 119
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8916ded9153176448af4d980599d285
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSpike1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 216
+        width: 61
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16029704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b90fbb7d88628047967c2470f01eed0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipSpike1Damaged
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 356
+        width: 62
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4940904, y: 0.17533687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33bdefbccba7f34cb6657e06d94616c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipMainGunBody
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 899
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5c1eec86c075e488fca6f3d1fddaa8
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipMainGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 899
+        width: 97
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa15ae77cd1ba4782c7f9942c53041
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipMainGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 933
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e781183a2fcbf4d81e1444b7572235
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipWingGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 849
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1de2af7b244634699de0e3c408f71a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipWingGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 795
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e829c8c244fd4d859c865978f3657
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipLaserGunDamaged
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 764
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ff3a01140746d44b8427dfe2b3a4de
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipLaserGun
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 765
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59edda84f449f904087499cdefb79774
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipLaserGunBody
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 767
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54c412d119eed04fafbfcc23750b8a2
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipLaserGunRoot
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 785
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c639e5b760f5054780b3be3d4713c27
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipWingGunBodyDamaged
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 819
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e065cd4e9e43d340ac1aac796998291
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipWingGunBody
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 812
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc83597552375b498c137a14476e294
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipWingGun
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 860
+        width: 16
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45010757, y: 1.551639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa4ea0c7c810a143bbbc9fc5740a4bc
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 213
+        width: 20
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef20cbf124e6f45a753a4faa28c48d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 213
+        width: 20
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c78b74a82430749b404bf42a82ce64
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 213
+        width: 20
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c2fc5f7f743d44905f5787d66b281
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart4
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 213
+        width: 20
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacd94a6c8dc8634dbc7c0aeb6f26600
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 213
+        width: 19
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82324c2339b6fd3418d69f386362c5f5
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipMetalDoorPart6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 213
+        width: 20
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b83fedfa26f2c4ab3153dcbbfbc37e
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipPart2HIT
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 501
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e294a7ca7f0174f9069e614cc1dfc2
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossShipWingMetalHIT
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 362
+        width: 133
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c80e0a29e9da64f9dd0511201c883c
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ColorBossShipSmallPart3: 21300052
+      ColorBossShipSmallPart4: 21300054
+      ColorBossShipPart6: 21300008
+      ColorBossShipPart4: 21300024
+      ShipMainGunBody: 21300084
+      ColorBossShipSmallPart8: 21300062
+      ColorBossShipSmallPart6: 21300058
+      BossShipSpike2: 21300042
+      BossShipBody: 21300000
+      BossShipSmallWing: 21300046
+      ColorBossShipPart3Damaged: 21300016
+      ShipWingGun: 21300106
+      ShipLaserGunRoot: 21300100
+      BossShipMetalDoorPart5: 21300116
+      ColorBossShipPart1Damaged: 21300004
+      ColorBossShipSmallPart1: 21300048
+      BossShipSpike2Damaged: 21300040
+      ShipWingGunBodyHIT: 21300090
+      BossShipWingMetalDamaged: 21300038
+      ShipLaserGunBody: 21300098
+      ShipWingGunUpperPart: 21300092
+      BossShipMetalDoorPart6: 21300118
+      ColorBossShipPart5: 21300012
+      BossShipSpike1Damaged: 21300082
+      BossShipMetalDoorPart1: 21300108
+      BossShip_33: 21300066
+      LinearGradient: 21300072
+      BossShipMainLaserStandDamaged: 21300078
+      WhiteSquare: 21300070
+      BossShipMetalDoorPart2: 21300110
+      BossShip_15: 21300030
+      BossShipMetalDoorPart3: 21300112
+      ColorBossShipSmallPart7: 21300060
+      ShipWingGunBody: 21300104
+      BossShipSpike1: 21300080
+      ColorBossShipSmallPart5: 21300056
+      ShipMainGunBodyHIT: 21300086
+      BossShipWingMetal: 21300036
+      BossShipTurretStand2: 21300068
+      BossShipMainLaserStand: 21300076
+      BossShipSmallWingDamaged: 21300044
+      ColorBossShipSmallPart2: 21300050
+      ColorBossShipPart2: 21300026
+      BossShipTurretStand1: 21300120
+      ColorBossShipPart8: 21300018
+      ColorBossShipPart9: 21300020
+      ColorBossShipPart3: 21300022
+      BossShipMetalDoorPart4: 21300114
+      ColorBossShipPart1: 21300006
+      ShipMainGunUpperPart: 21300088
+      RadialGradient: 21300074
+      BossShipTurretHatch: 21300034
+      BossShipWingMetalHIT: 21300126
+      ColorBossShipPart7: 21300010
+      ColorBossShipPart5Damaged: 21300064
+      ShipLaserGun: 21300096
+      ShipWingGunBodyDamaged: 21300102
+      ColorBossShipPart2Damaged: 21300014
+      BossShipPart2HIT: 21300124
+      ColorBossShipPart4Damaged: 21300028
+      BossShipBodyDamaged: 21300002
+      ShipLaserGunDamaged: 21300122
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

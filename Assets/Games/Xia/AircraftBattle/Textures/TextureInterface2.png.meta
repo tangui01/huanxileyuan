@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: eaa20b210068b2a4aa05590b12700437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ChatMessage
+  - first:
+      213: 21300002
+    second: BossPart
+  - first:
+      213: 21300004
+    second: TimePart
+  - first:
+      213: 21300006
+    second: CollectableShield
+  - first:
+      213: 21300008
+    second: PandaAvatar
+  - first:
+      213: 21300010
+    second: Boss1
+  - first:
+      213: 21300012
+    second: Boss4
+  - first:
+      213: 21300014
+    second: Boss7
+  - first:
+      213: 21300016
+    second: Boss2
+  - first:
+      213: 21300018
+    second: Boss5
+  - first:
+      213: 21300020
+    second: Boss8
+  - first:
+      213: 21300022
+    second: Boss3
+  - first:
+      213: 21300024
+    second: Boss6
+  - first:
+      213: 21300026
+    second: Boss9
+  - first:
+      213: 21300028
+    second: BossTutorial
+  - first:
+      213: 21300030
+    second: TutorialHandWhite
+  - first:
+      213: 21300032
+    second: TutorialPlaneWhite
+  - first:
+      213: 21300034
+    second: TutorialHandColored
+  - first:
+      213: 21300036
+    second: TutorialCircle
+  - first:
+      213: 21300038
+    second: RateStar
+  - first:
+      213: 21300040
+    second: RateStarHolder
+  - first:
+      213: 21300042
+    second: RateButtonLater
+  - first:
+      213: 21300044
+    second: DailyReward1
+  - first:
+      213: 21300046
+    second: DailyReward2
+  - first:
+      213: 21300048
+    second: DailyReward3
+  - first:
+      213: 21300050
+    second: DailyReward4
+  - first:
+      213: 21300052
+    second: DailyReward5
+  - first:
+      213: 21300054
+    second: DailyReward6
+  - first:
+      213: 21300056
+    second: LaserReference
+  - first:
+      213: 21300058
+    second: StarsCounterDailyReward
+  - first:
+      213: 21300060
+    second: GlowBeams
+  - first:
+      213: 21300062
+    second: StarsRewardIcon
+  - first:
+      213: 21300064
+    second: CheckpointReached
+  - first:
+      213: 21300066
+    second: CheckpointSelect
+  - first:
+      213: 21300068
+    second: FreeStars
+  - first:
+      213: 21300070
+    second: StarForFreeStars
+  - first:
+      213: 21300072
+    second: Sensei
+  - first:
+      213: 21300074
+    second: Lock
+  - first:
+      213: 21300076
+    second: FreeStarsGreen
+  - first:
+      213: 21300078
+    second: ShopIcon
+  - first:
+      213: 21300080
+    second: InApp5
+  - first:
+      213: 21300082
+    second: InApp4
+  - first:
+      213: 21300084
+    second: InApp3
+  - first:
+      213: 21300086
+    second: InApp2
+  - first:
+      213: 21300088
+    second: InApp1
+  - first:
+      213: 21300090
+    second: InAppButton
+  - first:
+      213: 21300092
+    second: RemoveAdsAddOn
+  - first:
+      213: 21300094
+    second: MostPopular
+  - first:
+      213: 21300096
+    second: BestBuy
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 54
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatMessage
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 619
+        width: 116
+        height: 399
+      alignment: 9
+      pivot: {x: 0.25927156, y: 0.095213465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160aadfa628f3d24392e9d25812576aa
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPart
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 819
+        width: 568
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6041d260cbc424e91483a1eaa1484d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimePart
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 611
+        width: 569
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ed16ea6144d34abdeebfb08a85846
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectableShield
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 905
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fa383a62548b14e86a572087e79b9f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaAvatar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde21fe9de3db64782c2b23098f477a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73280681a0f0a6844b831bfc85127f88
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88e8e5c704be1429e424d3f1246fd4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48754303f50b3f4e83883d2b9ffe8ba
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4b3d316b49f24b932de3198678d8d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840326fd7f638534f93b106c7aec85e5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31517342ec06c345b29228f04642647
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b2dfcc7c0461d479306d4d78b07950
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271927b5d98502428e2768577ac97c7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 3
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b422fc2a4417469a5aa013d504c85
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTutorial
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6302612fdde66c54f8efeaa5256b5403
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialHandWhite
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 760
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16767b82f3317b14c829800ecd9ede88
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialPlaneWhite
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 764
+        width: 160
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad0b424ddcab5478918466645c86d0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialHandColored
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 900
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd96fc8ce978f40bbbde1a8d9fd322
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialCircle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 955
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891bf0450df496440b7a1260d1ad2d2a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RateStar
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 315
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e3b965931dfab46b63e132bf8671d5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RateStarHolder
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 232
+        width: 370
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a513349bd5dfad64589ccfc90c4b0ae1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RateButtonLater
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 231
+        width: 228
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b6b37784169141b1b05ca24346a78
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 102
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071aae894c96c0a4aacb3d5554628ead
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 102
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9f00a63ea4954c9540d4eeead2b8f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 102
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c39f6c65ce51fe48b409d8d26116fe9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 102
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0b24dad1b5f24190ca8f178c20871
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 102
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c201dce4b4594cb2db8b78a37047a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DailyReward6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 102
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb87cfa744ddcc4d9370bc458857098
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserReference
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 99
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1403404b0115a504fad8dab114ad70e5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarsCounterDailyReward
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 317
+        width: 246
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499d73751cc7f14da0d451ecd3bcc60
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlowBeams
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 385
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102544755dc9a604098bda119798559e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarsRewardIcon
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 319
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ae7aaed47e1c4b88beb63f4aada8a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckpointReached
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 516
+        width: 334
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e74f02ceae76154e9380cdcb37f37b4
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckpointSelect
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 454
+        width: 366
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388c3615434d6b4fb02107fed63dad5
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeStars
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 319
+        width: 349
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c910966ac8d648aec65022702728d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarForFreeStars
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 278
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a59b26768ff8a458e9fed44ae4f35b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sensei
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1718cb3991e257a4f987423caa22d82e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 105
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b250d983a43fb944b9080c42996c86ab
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeStarsGreen
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 100
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643f1e85b3d2bd54795b1072c29b6070
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopIcon
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf73364a7e602ae45ae0558ec6b7cf86
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InApp5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 360
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc7130acdfc6ba4b9eff515f6a6284a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InApp4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 442
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcc5067657eda409261aaa55e38bd6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InApp3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 524
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8e96caa737854284d62e47ca9285c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InApp2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 606
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80090bea5aa181b47a9b13a2ceaf687f
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InApp1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 688
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f14587d53dc67146a0a834fcc3bd830
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InAppButton
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 408
+        width: 74
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c164955b28e5f4d899eac4d7e7826a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemoveAdsAddOn
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 409
+        width: 70
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3ce106cebb23469c5224906f74d72
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MostPopular
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d94e966c31422c46954ae41393982e5
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BestBuy
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 203
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743a23eb8bb538408cb39c4de5087e1
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DailyReward6: 21300054
+      Lock: 21300074
+      CollectableShield: 21300006
+      RateStarHolder: 21300040
+      InApp2: 21300086
+      DailyReward1: 21300044
+      FreeStars: 21300068
+      StarsCounterDailyReward: 21300058
+      Sensei: 21300072
+      Boss2: 21300016
+      Boss5: 21300018
+      PandaAvatar: 21300008
+      LaserReference: 21300056
+      TutorialHandColored: 21300034
+      TutorialCircle: 21300036
+      GlowBeams: 21300060
+      InApp5: 21300080
+      Boss6: 21300024
+      InApp4: 21300082
+      RateButtonLater: 21300042
+      TutorialHandWhite: 21300030
+      InApp3: 21300084
+      TimePart: 21300004
+      Boss3: 21300022
+      RateStar: 21300038
+      MostPopular: 21300094
+      RemoveAdsAddOn: 21300092
+      BossTutorial: 21300028
+      CheckpointReached: 21300064
+      DailyReward5: 21300052
+      CheckpointSelect: 21300066
+      DailyReward4: 21300050
+      FreeStarsGreen: 21300076
+      Boss4: 21300012
+      ShopIcon: 21300078
+      Boss8: 21300020
+      StarForFreeStars: 21300070
+      Boss7: 21300014
+      TutorialPlaneWhite: 21300032
+      Boss1: 21300010
+      InAppButton: 21300090
+      ChatMessage: 21300000
+      DailyReward2: 21300046
+      BossPart: 21300002
+      DailyReward3: 21300048
+      BestBuy: 21300096
+      Boss9: 21300026
+      StarsRewardIcon: 21300062
+      InApp1: 21300088
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

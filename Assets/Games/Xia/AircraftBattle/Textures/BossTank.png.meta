@@ -1,0 +1,3093 @@
+fileFormatVersion: 2
+guid: 9832790fe6c86a146bb41ab59f645747
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BossTank_0
+  - first:
+      213: 21300002
+    second: BossTank_1
+  - first:
+      213: 21300004
+    second: BossTank_2
+  - first:
+      213: 21300006
+    second: BossTank_3
+  - first:
+      213: 21300008
+    second: TankMainGunBody
+  - first:
+      213: 21300010
+    second: TankMainGunUpperPart
+  - first:
+      213: 21300012
+    second: BossTank_6
+  - first:
+      213: 21300014
+    second: BossTank_7
+  - first:
+      213: 21300016
+    second: BossTank_8
+  - first:
+      213: 21300018
+    second: BossTank_9
+  - first:
+      213: 21300020
+    second: TankWingGun
+  - first:
+      213: 21300022
+    second: BossTank_11
+  - first:
+      213: 21300024
+    second: BossTank_12
+  - first:
+      213: 21300026
+    second: TankWingGunUpperPart
+  - first:
+      213: 21300028
+    second: TankLaserGunRoot
+  - first:
+      213: 21300030
+    second: TankLaserGunDamaged
+  - first:
+      213: 21300032
+    second: BossTankTurretHatch
+  - first:
+      213: 21300034
+    second: BossTankTurretStand1
+  - first:
+      213: 21300036
+    second: BossTankttTurretHatch
+  - first:
+      213: 21300038
+    second: BossTanktttTurretHatch
+  - first:
+      213: 21300040
+    second: BossTankttttTurretHatch
+  - first:
+      213: 21300042
+    second: BossTanktttttTurretHatch
+  - first:
+      213: 21300044
+    second: BossTankttttttTurretHatch
+  - first:
+      213: 21300046
+    second: BossTanktttttttTurretHatch
+  - first:
+      213: 21300048
+    second: BossTankttttttttTurretHatch
+  - first:
+      213: 21300050
+    second: BossTankTurretStand1
+  - first:
+      213: 21300052
+    second: BossTank_26
+  - first:
+      213: 21300054
+    second: BossTank_27
+  - first:
+      213: 21300056
+    second: BossTank_28
+  - first:
+      213: 21300058
+    second: BossTank_29
+  - first:
+      213: 21300060
+    second: BossTankTurretHatch
+  - first:
+      213: 21300062
+    second: ColorBossTankPart1
+  - first:
+      213: 21300064
+    second: ColorBossTankPart3
+  - first:
+      213: 21300066
+    second: BossTank_33
+  - first:
+      213: 21300068
+    second: ColorBossTankPart2Hit
+  - first:
+      213: 21300070
+    second: WhiteSquare
+  - first:
+      213: 21300072
+    second: BossTank_36
+  - first:
+      213: 21300074
+    second: RadialGradient
+  - first:
+      213: 21300076
+    second: LinearGradient
+  - first:
+      213: 21300078
+    second: ColorBossTankPart5
+  - first:
+      213: 21300080
+    second: BossTank_40
+  - first:
+      213: 21300082
+    second: BossTank_41
+  - first:
+      213: 21300084
+    second: ColorBossTankPart6
+  - first:
+      213: 21300086
+    second: ColorBossTankPart7
+  - first:
+      213: 21300088
+    second: BossTank_44
+  - first:
+      213: 21300090
+    second: BossTank_45
+  - first:
+      213: 21300092
+    second: BossTank_46
+  - first:
+      213: 21300094
+    second: BossTank_47
+  - first:
+      213: 21300096
+    second: BossTank_48
+  - first:
+      213: 21300098
+    second: ColorBossTankPart2
+  - first:
+      213: 21300100
+    second: BossTank_50
+  - first:
+      213: 21300102
+    second: BossTank_51
+  - first:
+      213: 21300104
+    second: BossTank_52
+  - first:
+      213: 21300106
+    second: BossTank_53
+  - first:
+      213: 21300108
+    second: BossTank_54
+  - first:
+      213: 21300110
+    second: BossTank_55
+  - first:
+      213: 21300112
+    second: BossTank_56
+  - first:
+      213: 21300114
+    second: BossTank_57
+  - first:
+      213: 21300116
+    second: BossTank_58
+  - first:
+      213: 21300118
+    second: BossTank_59
+  - first:
+      213: 21300120
+    second: BossTank_60
+  - first:
+      213: 21300122
+    second: TankWingGunBodyDamaged
+  - first:
+      213: 21300124
+    second: TankMainGunBodyHIT
+  - first:
+      213: 21300126
+    second: TankWingGunBodyHIT
+  - first:
+      213: 21300128
+    second: TankLaserGunDamaged
+  - first:
+      213: 21300130
+    second: TankWingGunBody
+  - first:
+      213: 21300132
+    second: TankLaserGunBody
+  - first:
+      213: 21300134
+    second: BossTank_67
+  - first:
+      213: 21300136
+    second: ColorBossTankPart4
+  - first:
+      213: 21300138
+    second: BossTank_25
+  - first:
+      213: 21300140
+    second: BossTank_30
+  - first:
+      213: 21300142
+    second: BossTank_31
+  - first:
+      213: 21300144
+    second: BossTank_32
+  - first:
+      213: 21300146
+    second: BossTank_34
+  - first:
+      213: 21300148
+    second: BossTank_35
+  - first:
+      213: 21300150
+    second: BossTank_37
+  - first:
+      213: 21300152
+    second: BossTank_38
+  - first:
+      213: 21300154
+    second: BossTank_39
+  - first:
+      213: 21300156
+    second: BossTank_42
+  - first:
+      213: 21300158
+    second: BossTank_43
+  - first:
+      213: 21300160
+    second: BossTank_49
+  - first:
+      213: 21300162
+    second: BossTank_61
+  - first:
+      213: 21300164
+    second: BossTank_62
+  - first:
+      213: 21300166
+    second: BossTank_63
+  - first:
+      213: 21300168
+    second: BossTank_63
+  - first:
+      213: 21300170
+    second: BossTank_64
+  - first:
+      213: 21300172
+    second: BossTank_65
+  - first:
+      213: 21300174
+    second: BossTank_66
+  - first:
+      213: 21300176
+    second: BossTank_68
+  - first:
+      213: 21300178
+    second: BossTank_69
+  - first:
+      213: 21300180
+    second: BossTank_70
+  - first:
+      213: 21300182
+    second: BossTank_71
+  - first:
+      213: 21300184
+    second: BossTank_72
+  - first:
+      213: 21300186
+    second: BossTank_73
+  - first:
+      213: 21300188
+    second: BossTank_74
+  - first:
+      213: 21300190
+    second: BossTank_75
+  - first:
+      213: 21300192
+    second: BossTank_76
+  - first:
+      213: 21300194
+    second: BossTank_77
+  - first:
+      213: 21300196
+    second: BossTank_78
+  - first:
+      213: 21300198
+    second: BossTank_79
+  - first:
+      213: 21300200
+    second: BossTank_80
+  - first:
+      213: 21300202
+    second: BossTank_81
+  - first:
+      213: 21300204
+    second: BossTank_82
+  - first:
+      213: 21300206
+    second: BossTank_83
+  - first:
+      213: 21300208
+    second: BossTank_84
+  - first:
+      213: 21300210
+    second: BossTank_85
+  - first:
+      213: 21300212
+    second: BossTank_86
+  - first:
+      213: 21300214
+    second: BossTank_87
+  - first:
+      213: 21300216
+    second: BossTank_88
+  - first:
+      213: 21300218
+    second: BossTank_89
+  - first:
+      213: 21300220
+    second: BossTank_90
+  - first:
+      213: 21300222
+    second: BossTank_91
+  - first:
+      213: 21300224
+    second: BossTank_92
+  - first:
+      213: 21300226
+    second: BossTank_93
+  - first:
+      213: 21300228
+    second: BossTank_94
+  - first:
+      213: 21300230
+    second: BossTank_95
+  - first:
+      213: 21300232
+    second: BossTank_96
+  - first:
+      213: 21300234
+    second: BossTank_97
+  - first:
+      213: 21300236
+    second: BossTank_98
+  - first:
+      213: 21300238
+    second: BossTank_99
+  - first:
+      213: 21300240
+    second: BossTank_100
+  - first:
+      213: 21300242
+    second: BossTank_101
+  - first:
+      213: 21300244
+    second: BossTank_102
+  - first:
+      213: 21300246
+    second: BossTank_103
+  - first:
+      213: 21300248
+    second: BossTank_104
+  - first:
+      213: 21300250
+    second: BossTank_105
+  - first:
+      213: 21300252
+    second: BossTank_106
+  - first:
+      213: 21300254
+    second: BossTank_107
+  - first:
+      213: 21300256
+    second: BossTank_108
+  - first:
+      213: 21300258
+    second: BossTank_109
+  - first:
+      213: 21300260
+    second: BossTank_110
+  - first:
+      213: 21300262
+    second: TankLaserGunRootHIT
+  - first:
+      213: 21300264
+    second: TankLaserGunBodyHIT
+  - first:
+      213: 21300266
+    second: TankLaserGunHIT
+  - first:
+      213: 21300268
+    second: BossTank_114
+  - first:
+      213: 21300270
+    second: BossTank_115
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TankMainGunBody
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 894
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f29880d4464ec9428e5d4224f86fe4d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankMainGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 927
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a693c1ea9bb5c6f4dbf997e5394872ad
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankWingGun
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 854
+        width: 17
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5058881, y: 1.5213656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8fc95e5aaa763459de28049b1ad581
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankWingGunUpperPart
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 789
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b679cf96a9fe6f4d925e1bf498d9cbb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunRoot
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 779
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92259a055e3ccb4ca9d719e463a3d52
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunDamaged
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 759
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfe5dcb24c064d41b78b0470b97916e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankWingGunBodyDamaged
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 813
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e0f2adb8ceb24db935b9cae21f541
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankMainGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 893
+        width: 97
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b113a0870fadf41844c406ce25f2f3
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankWingGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 844
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a078a3a7a9b92f34fa3ce0acd5616029
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunDamaged
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 758
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35abb09e5a632c4a8c33ebfb632a9fc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankWingGunBody
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 807
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029e322caac80154f93dabb65fb7ea6d
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunBody
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 761
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e42edcd251e07f4d813ba722b98bda8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadialGradient
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 508
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5de2606269744caa80e8d9881266d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteSquare
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 578
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e08cb16f86a0f041a3b800dc8610195
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinearGradient
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 509
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2462049894f72846aedd5db32a39638
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 623
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf894172f1c3f4a910f79b40cd7611
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankTurretStand1
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 697
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a210834e8c4eac41b2db7a0480b1255
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 640
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377263f0915f18049be58606bac7e649
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTanktttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 623
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1edd0ba39ee1d419a4f561cb9d1366
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankttttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 650
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec5cca6733514499ea7e3569a73752
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTanktttttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 686
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3992971, y: 0.7368246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6f068d30f920c48a7f25de2cad1f33
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankttttttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 665
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.81341946, y: 0.52960205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062ee51a4e6274046833280eb3eb5dd1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTanktttttttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 640
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7014239, y: 0.6202658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f21b2ce07b26a46ad1070b4115b88e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTankttttttttTurretHatch
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 615
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.43338147, y: 0.23383057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1972979e0fa86f64fa0bdfa5e1a247d4
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_25
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 588
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4774621, y: 0.22602727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0da9389fcb20b40983d50ddf18bbc6
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 566
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.21617228, y: 0.563401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac66200046642409da6c23a70f7c25
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 544
+        width: 30
+        height: 21
+      alignment: 9
+      pivot: {x: 0.2606181, y: 0.55698067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084987f014af38d4eac6c69f4dc6c598
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_28
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 513
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5556557, y: 0.8352946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb53222051165c42b4a944d4a118fbb
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 567
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edecd489462073b4e8151510ecce10e8
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_30
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 533
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f2e2f29c728243b9b62a54701727e
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 614
+        width: 312
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c796ecd932d8c047ae77020c179b7b0
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 977
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e58bc852564c448af5420dcabc079
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 932
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a787166cd34f30438a8428fb26888f2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 933
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef60df13d1e1934e9bec95fa5889106
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 895
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea87f31b2d682b41b1bc9e5c2804ab6
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 945
+        width: 157
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a50b4d7262c948bd4812e53603bc3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_37
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 876
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a931826a2d49b6a4c8e8e51a0aa5600d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 898
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e172a6631277384eaef371897f0467e
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 852
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.474866, y: 0.756239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a1d8c21f4457d448232e692c0dae69
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 796
+        width: 45
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5122871, y: 0.8626408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99d93af47b06a43a0356a8d1d397f3
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 788
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72198aff99268b74aa9eac47f4a0efe4
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 780
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7464b180b0e87df4fa02c99ddb15d2a4
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_43
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 731
+        width: 57
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7361501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c4b747c555e14ab35b433e2c4e4b4
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_44
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 719
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6e677c4d2281418d2c880a8021b6f
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_45
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 779
+        width: 36
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49231973, y: 0.8548693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd10ef8e454a28847ab02d1bc7e54a24
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_46
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 711
+        width: 37
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5074727, y: 0.7991303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ed014cbbff7e41a62717e72b290d8
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_47
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 614
+        width: 56
+        height: 93
+      alignment: 9
+      pivot: {x: 0.51481086, y: 0.8924068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29b3ca4c4fc1da4fb5cde98989b2fd1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 791
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8699b822508df44598703f3edc5997f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 771
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520a5cedd6bfaf4685cb7a7693ed217
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 765
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e033c9a7680041be1d19c2b58fc51
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_51
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 769
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7912b41df08b4459c16f98feb76d7e
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 736
+        width: 196
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed52be60d53fa2449ff0a60aba81c63
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 764
+        width: 87
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78367c63607fa41abdc15a5d3e8adc
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_54
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 739
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4167ad4db6a424886b962ed75adc6e
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_55
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 684
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1f5c7eb2a722443869cc4b6545dd98
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 618
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6657d97eeba944f888a57375d13ec0
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 627
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbb52f06434c24bb8db89f3df886c7
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 688
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2760aa8b8b7d5f34586c2584b79e7cf6
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_59
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 653
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d111fc9244270742a61290ab0dffb31
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_60
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 615
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d66084d5cb5df44a48d5e7bfbd8261
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_61
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 580
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b575fb0a5d00684db6b6a03cf2ff4f9
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_62
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 588
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e271733a43320459aa04407c2673dd
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 566
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203ad8ef5870684590a9984238a46c6
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 230
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c5e2c94214c9049bc87cbcc29cb1b2
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 86
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5173681, y: 0.57601297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7782581762fd6e4789ec7279861e109
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 481
+        width: 86
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5641216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c1c21f4033634fb71834b154328c2
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 516
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb2b9e22a730704cb3834ff200e6af3
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_67
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 490
+        width: 164
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f255f45bca9e15248908fb12851dceda
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_68
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 384
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd1125fdc0499d4291e1dfcb78eb3ac
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 379
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff2b313d8de1be49870a5d5c312008b
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_70
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 379
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019dec5b48b17944d83ca9dd8209e2e8
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_71
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 377
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563738762d8327d44b8075575801df31
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf5b3ca7edfb664b8f4cc473702d276
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a19a8b3e46fbd4eb25f6aa41da2896
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1297e4672ecdf84ca319fa9224da253
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 276
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1888347e3b235a42a708483260ec4d4
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 245
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ca2313d326df49b60149f2da564a5
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 246
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deec8807e24d9742a2cf0bfc27131a4
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 245
+        width: 210
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad54cf0420c9684d8228fbd66a1eaa4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_79
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 245
+        width: 169
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ece5b575b3cf04bb1420938034a6fc
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 130
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5114896, y: 0.83482176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c432da2859d7c44b936a8586d6647e6
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1290a6ba7ff2624ba5af2b4fec2a679
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a7dd07727bf184f81b44fcac16696b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 171
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48974bef067b64544ae85d1ec3bf8451
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_84
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516c4c81ddd6724690a07c9865a814b
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_85
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 169
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1c59ac929a55842904642ea57c75a2
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_86
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 168
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26365b21322dd814d8c68143ce30c9ef
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56827900dd4df0479fb66ae4ec0eab5
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 74
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b675fb23c13da974989c879eb3a49e78
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c3564a19f66dd4abdbb366a49de34a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 74
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: 0.45021135, y: 0.18882231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba88dd214c2df1a438b4f79a023e4b8a
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_91
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1
+        width: 45
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4557441, y: 0.12753691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d46a73c0a6034c89fd997a952155b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_92
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03306a02f9e38fa45a7dcb0368b9df11
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4
+        width: 92
+        height: 52
+      alignment: 9
+      pivot: {x: 0.83553046, y: 0.4904254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216ef1f6550702248817e3a341b67c51
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 116
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8734132, y: 0.48468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb67344d29399e44b0aa2212df56ea6
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 123
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c303b05b87219d4d9d73f1396df68d7
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_96
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 448
+        width: 29
+        height: 82
+      alignment: 9
+      pivot: {x: 0.18913743, y: 0.21140903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e209c0d87fbd04eafdca5eb4ad09c2
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_97
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 407
+        width: 27
+        height: 123
+      alignment: 9
+      pivot: {x: 0.3013351, y: 0.115692884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c221065a126ca4194e08ec700f4058
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_98
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 354
+        width: 50
+        height: 144
+      alignment: 9
+      pivot: {x: 0.26532716, y: 0.090254255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb911ae602cfe5c4d8dad5beee9ecbe9
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_99
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 343
+        width: 46
+        height: 62
+      alignment: 9
+      pivot: {x: 0.08354386, y: 0.22736777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45553190dc2fb4740ae8b57068f7d2b1
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_100
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 217
+        width: 72
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd9b6c3d052f54caaf87f57c15b184
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_101
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 249
+        width: 189
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52f464ce40c3994aac0df144025c673
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_102
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 252
+        width: 91
+        height: 241
+      alignment: 9
+      pivot: {x: 0.568183, y: 0.5660431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bae16ca2b8fc44695ad00ef9f4d765
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 236
+        width: 86
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bdf3f8e9df6714ea4fcfff9cdf1db6
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_104
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 203
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8510062, y: 0.5109701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d136599cb26254047bbf4c4592fa84df
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_105
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 203
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.81809807, y: 0.5117009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897ae4cf40377e41b24c77914735a1b
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_106
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 214
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a73ed6e083dd4eb2e68dd68f8849c
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_107
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2
+        width: 77
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc8b46c337f34c44916a2cfb56218d1
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_108
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3
+        width: 292
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e9e6841ef36e4fafbdeec9a1878ee
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_109
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 788
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2aba213b0e3e84398a2b3f239165b9
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_110
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 68
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48de1874c674894d87d7c07b62190b9
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunRootHIT
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 463
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8283ba941d7515e418ca175ff3b01062
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunBodyHIT
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 415
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b0760f044f80148a5f84731ac282f9
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankLaserGunHIT
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 367
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e8e5a152c5ce49ab8c3fb80a16d94
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_114
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 484
+        width: 133
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a848e02763a34bb43dd594ffdd3fe
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossTank_115
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 488
+        width: 133
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fa197484f66ed4eb0a89fa9742d24c
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossTank_91: 21300222
+      BossTank_26: 21300052
+      TankWingGunBodyDamaged: 21300122
+      BossTank_37: 21300150
+      BossTank_87: 21300214
+      BossTank_36: 21300072
+      BossTank_43: 21300158
+      TankLaserGunDamaged: 21300030
+      BossTank_47: 21300094
+      BossTank_52: 21300104
+      BossTank_97: 21300234
+      BossTank_104: 21300248
+      BossTank_42: 21300156
+      BossTank_72: 21300184
+      TankLaserGunBodyHIT: 21300264
+      BossTank_61: 21300162
+      BossTank_73: 21300186
+      BossTank_99: 21300238
+      LinearGradient: 21300076
+      BossTank_68: 21300176
+      BossTank_48: 21300096
+      BossTank_44: 21300088
+      BossTank_106: 21300252
+      WhiteSquare: 21300070
+      BossTank_100: 21300240
+      BossTank_59: 21300118
+      BossTank_38: 21300152
+      BossTank_34: 21300146
+      BossTank_32: 21300144
+      BossTank_103: 21300246
+      BossTank_76: 21300192
+      BossTank_92: 21300224
+      BossTank_55: 21300110
+      BossTank_75: 21300190
+      BossTank_50: 21300100
+      TankWingGunBody: 21300130
+      TankWingGunUpperPart: 21300026
+      TankMainGunBodyHIT: 21300124
+      TankLaserGunHIT: 21300266
+      RadialGradient: 21300074
+      BossTank_35: 21300148
+      BossTank_110: 21300260
+      BossTank_115: 21300270
+      BossTank_53: 21300106
+      BossTank_46: 21300092
+      BossTank_80: 21300200
+      BossTank_83: 21300206
+      TankWingGunBodyHIT: 21300126
+      BossTank_109: 21300258
+      BossTank_88: 21300216
+      BossTank_60: 21300120
+      BossTank_66: 21300174
+      BossTank_49: 21300160
+      BossTank_29: 21300058
+      BossTank_81: 21300202
+      TankMainGunBody: 21300008
+      BossTank_107: 21300254
+      BossTank_67: 21300134
+      BossTank_39: 21300154
+      TankLaserGunBody: 21300132
+      BossTank_85: 21300210
+      BossTank_51: 21300102
+      BossTank_70: 21300180
+      BossTank_101: 21300242
+      BossTank_31: 21300142
+      BossTank_78: 21300196
+      BossTank_25: 21300138
+      BossTank_54: 21300108
+      BossTank_108: 21300256
+      BossTanktttttTurretHatch: 21300042
+      BossTank_114: 21300268
+      TankMainGunUpperPart: 21300010
+      BossTank_41: 21300082
+      BossTankttttTurretHatch: 21300040
+      BossTank_96: 21300232
+      BossTankTurretHatch: 21300032
+      BossTankttTurretHatch: 21300036
+      BossTanktttttttTurretHatch: 21300046
+      BossTank_45: 21300090
+      BossTank_65: 21300172
+      BossTank_40: 21300080
+      BossTank_63: 21300166
+      TankWingGun: 21300020
+      BossTank_74: 21300188
+      BossTank_90: 21300220
+      BossTank_58: 21300116
+      BossTank_94: 21300228
+      BossTank_89: 21300218
+      BossTank_62: 21300164
+      BossTank_64: 21300170
+      BossTank_28: 21300056
+      BossTank_56: 21300112
+      BossTank_105: 21300250
+      BossTank_82: 21300204
+      BossTanktttTurretHatch: 21300038
+      BossTankttttttttTurretHatch: 21300048
+      BossTank_30: 21300140
+      BossTank_69: 21300178
+      TankLaserGunRoot: 21300028
+      BossTank_71: 21300182
+      BossTank_98: 21300236
+      BossTank_95: 21300230
+      BossTank_86: 21300212
+      BossTank_79: 21300198
+      BossTank_77: 21300194
+      BossTank_93: 21300226
+      BossTank_27: 21300054
+      BossTank_33: 21300066
+      BossTankttttttTurretHatch: 21300044
+      TankLaserGunRootHIT: 21300262
+      BossTank_84: 21300208
+      BossTank_57: 21300114
+      BossTankTurretStand1: 21300034
+      BossTank_102: 21300244
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
