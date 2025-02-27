@@ -47,14 +47,6 @@ public class GameStateManager : MonoBehaviour
              return;
          }
          currentState =newState;
-         if (currentState== GameState.Idle)
-         {
-             LedScreenAudioController.PlayBoxAudio();
-         }
-         else
-         {
-             LedScreenAudioController.PlayMachineAudio();
-         }
          stateChangedAction?.Invoke(currentState);
      }
      public void SetGamestateByCoinCount()
@@ -63,11 +55,13 @@ public class GameStateManager : MonoBehaviour
          if (LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in==0)
          {
              SwitchState(GameState.Idle);
+             DealCommand.Instance.SerialPortManager.SendGameState(0);
          }
          //投了一个币以上的，显示还差多少币
          else if (LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in<LibWGM.machine.Cp_coin&&LibWGM.playerData[1].coin_in>=1)
          {
              SwitchState(GameState.NoCoinCount);
+             DealCommand.Instance.SerialPortManager.SendGameState(1);
          }
          else if (GameTimeManager.instance.GetCurrentTime()<=0)
          {

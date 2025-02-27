@@ -78,6 +78,7 @@ public class CommonUI : MonoBehaviour
         CoinCountPanel.gameObject.SetActive(false);
         CoinIn.gameObject.SetActive(false);
         mainTimePanel.gameObject.SetActive(false);
+        StartColdDown = false;
     }
     /// <summary>
     /// 退出后台时

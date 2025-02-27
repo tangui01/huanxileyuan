@@ -35,27 +35,6 @@ public class Coin_inPanel : MonoBehaviour
     public void StartColdDown(bool _isgameover)
     {
         countdown = 20;
-        DealCommand.SendGameResultToLedScreen(0);
-        if (LocalizationManager.Instance.GetCurrentLanguage()==Language.Chinese)
-        {
-            if (DealCommand.GetPrize(1))
-            {
-                CommonUI.instance.AddTips("你获得了"+LibWGM.machine.Cl_prize+"个礼品");
-                DriverManager.WinOnePrize(LibWGM.machine.Cl_prize);
-                LibWGM.machine.Cl_prize = 0;
-                Debug.Log(LibWGM.machine.Cl_prize);
-            }
-           
-        }
-        else
-        {
-            if (DealCommand.GetPrize(1))
-            {
-                CommonUI.instance.AddTips("You get "+LibWGM.machine.Cl_prize+"gifts");
-                DriverManager.WinOnePrize(LibWGM.machine.Cl_prize);
-                LibWGM.machine.Cl_prize = 0;
-            }
-        }
         CommonUI.instance.BackMain.gameObject.SetActive(false);
         timetext.text = countdown + "S";
         Ani.SetTrigger("Update");

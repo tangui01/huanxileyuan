@@ -61,10 +61,11 @@ namespace SnakeGame
 
         public void SpawnInitialFoods()
         {
-            for (int i = 0; i < defaultAmountOfFoods; i++)
+            for (int i = 0; i < transform.childCount; i++)
             {
-                FoodController food = ResLoadManager.instance.LoadGoObj<FoodController>("Food",
-                    SnakeGameConstant.FoodPre, SnakeGameConstant.GetRandomPositionInMap(), Quaternion.identity);
+                transform.GetChild(i).gameObject.SetActive(true);
+                FoodController food = transform.GetChild(i).GetComponent<FoodController>();
+                food.transform.position = SnakeGameConstant.GetRandomPositionInMap();
                 food.tag = "Food";
                 food.InitObjectBasedOnType();
                 food.Init(selectedFoodSkinID);

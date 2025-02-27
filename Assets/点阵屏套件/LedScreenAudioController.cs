@@ -41,7 +41,7 @@ public class LedScreenAudioController : MonoBehaviour
             return;
 
         ///没有存活的玩家且没币播放盒子音乐，否则机器音乐
-        if ((LibWGM.playerData[1].coin_in + LibWGM.playerData[0].Free_coin_in == 0 )&&GameTimeManager.instance.GetCurrentTime() <= 0)
+        if ((LibWGM.playerData[1].coin_in + LibWGM.playerData[0].Free_coin_in == 0 ))
         {
             PlayBoxAudio();
         }

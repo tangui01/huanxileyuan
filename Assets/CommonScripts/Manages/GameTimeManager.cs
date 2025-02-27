@@ -108,6 +108,28 @@ public class GameTimeManager : MonoBehaviour
             if (TimeOverAction != null)
             {
                 TimeOverAction();
+                DealCommand.SendGameResultToLedScreen(0);
+                if (LocalizationManager.Instance.GetCurrentLanguage()==Language.Chinese)
+                {
+                    if (DealCommand.GetPrize(1))
+                    {
+                        CommonUI.instance.AddTips("你获得了"+LibWGM.machine.Cl_prize+"个礼品");
+                        DriverManager.WinOnePrize(LibWGM.machine.Cl_prize);
+                        LibWGM.playerData[1].coin_use = 0;
+                        Debug.Log(LibWGM.machine.Cl_prize);
+                    }
+           
+                }
+                else
+                {
+                    if (DealCommand.GetPrize(1))
+                    {
+                        CommonUI.instance.AddTips("You get "+LibWGM.machine.Cl_prize+"gifts");
+                        DriverManager.WinOnePrize(LibWGM.machine.Cl_prize);
+                        LibWGM.playerData[1].coin_use = 0;
+                        Debug.Log(LibWGM.machine.Cl_prize);
+                    }
+                }
                 Debug.Log("TimeOver");
             }
         }
