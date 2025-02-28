@@ -28,25 +28,25 @@ public class MainStateChangerVisual : MonoBehaviour
         switch (state)
         {
             case GameState.Idle :
-                AudioManager.Instance.playerBGm(IdleClip);
                 if(PlayerrEf.activeSelf)
                 {
+                    AudioManager.Instance.StopBGm();
                     PlayerrEf.SetActive(false);
                     StartSelectPanel.ExitAni();
                 }     
                 break;
             case GameState.NoCoinCount :
+                AudioManager.Instance.playerBGm(IdleClip);
                 if (PlayerrEf.activeSelf)
                 {
-                    AudioManager.Instance.playerBGm(IdleClip);
                     PlayerrEf.SetActive(false);
                     StartSelectPanel.ExitAni();
                 }
                 break;
             case GameState.Waitpalyer :
+                AudioManager.Instance.playerBGm(IdleClip);
                 if (PlayerrEf.activeSelf)
                 {
-                    AudioManager.Instance.playerBGm(IdleClip);
                     PlayerrEf.SetActive(false);
                     StartSelectPanel.ExitAni();
                 }

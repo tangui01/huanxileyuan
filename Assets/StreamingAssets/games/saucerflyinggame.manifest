@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2923454761
+CRC: 2622127926
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 01ca52926c8932bd9d0020b5853f0f6f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f26850e0c53c0caee6d9510ba9d46857
+    Hash: 2299ef64bb167ab978b75e21da459d95
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,6 +54,8 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -67,8 +69,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
@@ -187,5 +187,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Games/Xia/0_Scene/SaucerFlyingGame.unity
+- Assets/Games/Xia/--Scene--/SaucerFlyingGame.unity
 Dependencies: []

@@ -16,6 +16,10 @@ public class SubmarineParkourInputManager : MonoBehaviour
 	//Called at every frame
 	void Update () 
 	{
+		if (Time.timeScale.Equals(0))
+		{
+			return;
+		}
 		if (useTouch)
 			GetTouches();
 		else

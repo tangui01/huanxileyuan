@@ -134,13 +134,13 @@ public class BSRoot : MonoBehaviour
     {
         DealCommand.isBackGround = false;
         /*退出后台加载主游戏界面*/ 
-        LoadABManger.Instance.LoadAB(MainConstant.MainSceneName);
+        LoadABManger.Instance?.LoadAB(MainConstant.MainSceneName);
         SceneLoadManager.instance.ExitSceneACtion = () =>
         {
-            GameTimeManager.instance.StopColdDown();
-            GameTimeManager.instance.SetPauseGame(false);
-            GameStateManager.Instance.SwitchState(GameState.Idle);
-            CommonUI.instance.ExitBG();
+            GameTimeManager.instance?.StopColdDown();
+            GameTimeManager.instance?.SetPauseGame(false);
+            CommonUI.instance?.CoinCountPanel.SetGamestateByCoinCount();
+            CommonUI.instance?.ExitBG();
             //更新背景音乐和音效
             AudioManager.Instance?.SetBGmVolume(LibWGM.machine.BgmVolume/10);
             AudioManager.Instance?.SetEfVolume(LibWGM.machine.SeVolume/10);

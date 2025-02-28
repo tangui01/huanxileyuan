@@ -840,6 +840,7 @@ public class LedScreenSerialPort
 		U2ToCu(machine.GameTime, buf, ref cnt);
 		U1ToCu(machine.Language , buf, ref cnt);
 		U1ToCu(machine.AutoTime, buf, ref cnt);
+		Debug.Log(machine.AutoTime);
 		U1ToCu(machine.showQrCode, buf, ref cnt);
 		
 		foreach (UIOption l in UIOption.list)
@@ -875,6 +876,7 @@ public class LedScreenSerialPort
 		machine.GameTime = CUToU2(buf, ref cnt);
 		machine.showQrCode = CUToU1(buf, ref cnt);
 		byte[] buf2 = new byte[1] { 1};
+		machine.AutoTime = CUToU1(buf, ref cnt);
 		machine.Language = CUToU1(buf, ref cnt);
 		string[] language = new string[] { "简体中文", "繁体中文", "English" };
 		Localization.language = language[machine.Language];
@@ -887,7 +889,7 @@ public class LedScreenSerialPort
 		AudioManager.Instance?.SetBGmVolume(machine.BgmVolume/10);
 		AudioManager.Instance?.SetEfVolume(machine.SeVolume/10);
 		
-		machine.AutoTime = CUToU1(buf, ref cnt);
+		
 		
 		var resp = await InvokeAsync(CmdType.SetPara, buf2, 1,
 			bytes => {

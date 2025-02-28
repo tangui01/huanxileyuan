@@ -48,7 +48,6 @@ public class BSRunPara : MonoBehaviour
         /// </summary>
         public UIOption gametime;
         public UIOption upSpeedtime;
-       // public UIOption continueTime;
         public UIOption gameVolume;
         public UIOption language;
         public UIOption password;
@@ -56,7 +55,7 @@ public class BSRunPara : MonoBehaviour
         public UIOption clear_acc;
         public UIOption save_exit;
         public UIOption exit;
-
+        public UIOption continueTime;
         public RunPara(Transform run)
         {
             cp_coin = run.Find("Item_投币几币").GetComponent<UIOption>();
@@ -73,7 +72,7 @@ public class BSRunPara : MonoBehaviour
             shockTime = run.Find("Item_震机时间").GetComponent<UIOption>();
             gametime = run.Find("Item_游戏时长").GetComponent<UIOption>();
             
-            //continueTime = run.Find("Item_自动游戏").GetComponent<UIOption>();
+            continueTime = run.Find("Item_自动开始").GetComponent<UIOption>();
             clear_acc = run.Find("Item_清零账目").GetComponent<UIOption>();
             save_exit = run.Find("Item_保存并退出").GetComponent<UIOption>();
             exit = run.Find("Item_不保存退出").GetComponent<UIOption>();
@@ -188,7 +187,7 @@ public class BSRunPara : MonoBehaviour
         mRun.gametime.value = LibWGM.machine.GameTime.ToString();
        
         
-       // mRun.continueTime.value = LibWGM.machine.AutoTime.ToString();
+        mRun.continueTime.value = LibWGM.machine.AutoTime.ToString();
         mRun.language.index = LibWGM.machine.Language;
         mPasswordInput.value = "";
 
@@ -223,7 +222,7 @@ public class BSRunPara : MonoBehaviour
         mRun.shockTime.oldIndex = mRun.shockTime.index;
         mRun.gametime.oldIndex = mRun.gametime.index;
         mRun.upSpeedtime.oldIndex = mRun.upSpeedtime.index;
-        //mRun.continueTime.oldIndex = mRun.continueTime.index;
+        mRun.continueTime.oldIndex = mRun.continueTime.index;
     }
 
     /// <summary>
@@ -243,8 +242,9 @@ public class BSRunPara : MonoBehaviour
         LibWGM.machine.Language = mRun.language.index;
         LibWGM.machine.ValveAsyncTime = float.Parse(mRun.shockTime.value);
         LibWGM.machine.GameTime = int.Parse(mRun.gametime.value);
-        //LibWGM.machine.AddSpeed = float.Parse(mRun.upSpeedtime.value);
-        //LibWGM.machine.AutoTime = int.Parse(mRun.continueTime.value);
+       // LibWGM.machine.AddSpeed = float.Parse(mRun.upSpeedtime.value);
+        LibWGM.machine.AutoTime = int.Parse(mRun.continueTime.value);
+        Debug.Log(int.Parse(mRun.continueTime.value));
         if (mPasswordInput.value.Length != 0) LibWGM.machine.Password = mPasswordInput.value;
 
     }

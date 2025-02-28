@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Sirenix.OdinInspector;
+using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -61,11 +62,9 @@ namespace SnakeGame
 
         public void SpawnInitialFoods()
         {
-            for (int i = 0; i < transform.childCount; i++)
+            for (int i = 0; i < defaultAmountOfFoods; i++)
             {
-                transform.GetChild(i).gameObject.SetActive(true);
-                FoodController food = transform.GetChild(i).GetComponent<FoodController>();
-                food.transform.position = SnakeGameConstant.GetRandomPositionInMap();
+                FoodController food = ResLoadManager.instance.LoadGoObj<FoodController>("Food", SnakeGameConstant.FoodPre,SnakeGameConstant.GetRandomPositionInMap(),Quaternion.identity,transform);
                 food.tag = "Food";
                 food.InitObjectBasedOnType();
                 food.Init(selectedFoodSkinID);

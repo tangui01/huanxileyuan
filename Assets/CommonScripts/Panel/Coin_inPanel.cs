@@ -27,6 +27,8 @@ public class Coin_inPanel : MonoBehaviour
     public static Action Renew_money_Success;
    
     private bool isgameover = false;
+    //是否已经判断
+    private bool isjudge=false;
     private void Awake()
     {
         Ani = GetComponent<Animator>();
@@ -40,6 +42,7 @@ public class Coin_inPanel : MonoBehaviour
         Ani.SetTrigger("Update");
         isgameover=_isgameover;
         delaytime=1;
+        isjudge=false;
     }
 
     public void ExitColdDown()
@@ -85,6 +88,7 @@ public class Coin_inPanel : MonoBehaviour
         Renew_money_Success?.Invoke();
         AudioManager.Instance.playerEffect3(SuccessSound);
         delaytime = 0;
+        isjudge=true;
         gameObject.SetActive(false);
     }
 
@@ -94,13 +98,23 @@ public class Coin_inPanel : MonoBehaviour
         SceneLoadManager.instance.BackMainGameByCoin_in();
         AudioManager.Instance.playerEffect3(FailSound);
         delaytime = 0;
+        isjudge = true;
         gameObject.SetActive(false);
     }
 
     private float delaytime=0f;
-
+    private float AutoTime=0f;
     private void Update()
     {
+        if (GameSelectManger.Instance.AutoSelectGame()&&!isjudge)
+        {
+            AutoTime+=Time.unscaledDeltaTime;
+            if (AutoTime>=LibWGM.machine.AutoTime)
+            {
+                AutoTime = 0;
+                ColdDownover();
+            }
+        }
         if (timer < 1)
         {
             timer += Time.unscaledDeltaTime;

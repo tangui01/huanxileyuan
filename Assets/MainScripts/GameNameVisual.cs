@@ -14,13 +14,12 @@ using UnityEngine.UI;
 public class GameNameVisual : MonoBehaviour
 {
     private Text nametext;
-
     private void Awake()
     {
         nametext = GetComponent<Text>();
     }
 
-    public void setGameName(Language currentLanguage,MainMenuGameconf gameconf)
+    public  void setGameName(Language currentLanguage,MainMenuGameconf gameconf)
     {
         switch (currentLanguage)
         {

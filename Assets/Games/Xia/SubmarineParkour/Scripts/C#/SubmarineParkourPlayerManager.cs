@@ -106,6 +106,10 @@ public class SubmarineParkourPlayerManager : MonoBehaviour
 	//Called at every frame
 	void Update()
 	{
+		if (Time.timeScale == 0)
+		{
+			return;
+		}
 		//If the control are enabled
 		if (subEnabled)
 		{

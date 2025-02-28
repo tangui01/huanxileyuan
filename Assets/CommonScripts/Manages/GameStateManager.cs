@@ -13,6 +13,7 @@ using WGM;
 *****************************************************/
 public enum GameState
 {
+    None,//初始状态
     Idle,//没有投币
     NoCoinCount,//投了币但是不够数量
     Waitpalyer,//币数足够 等待按开始健
@@ -21,7 +22,7 @@ public enum GameState
 public class GameStateManager : MonoBehaviour
 {
      public static GameStateManager Instance;
-     private GameState currentState = GameState.Idle;
+     private GameState currentState = GameState.None;
      
      public Action<GameState> stateChangedAction;
 
@@ -47,33 +48,21 @@ public class GameStateManager : MonoBehaviour
              return;
          }
          currentState =newState;
+         SetGamestateByCoinCount();
          stateChangedAction?.Invoke(currentState);
      }
      public void SetGamestateByCoinCount()
      {
          //一种没有一个币的，显示请投币
-         if (LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in==0)
+         if ((LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in==0)&&(GameTimeManager.instance.GetCurrentTime()<=0))
          {
-             SwitchState(GameState.Idle);
              DealCommand.Instance.SerialPortManager.SendGameState(0);
+             Debug.Log("播放盒子音乐");
          }
-         //投了一个币以上的，显示还差多少币
-         else if (LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in<LibWGM.machine.Cp_coin&&LibWGM.playerData[1].coin_in>=1)
+         else
          {
-             SwitchState(GameState.NoCoinCount);
              DealCommand.Instance.SerialPortManager.SendGameState(1);
-         }
-         else if (GameTimeManager.instance.GetCurrentTime()<=0)
-         {
-             SwitchState(GameState.Waitpalyer);
-         }
-         //如果还有游戏时间
-         else  if (GameTimeManager.instance.GetCurrentTime()>0)
-         {
-             if (!GetTarGetGameStateIsEqual(GameState.Play))
-             {
-                 SwitchState(GameState.Play);
-             }
+             Debug.Log("播放背景音乐");
          }
      }
      public GameState GetCurrentGameState()

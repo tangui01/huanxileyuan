@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -38,7 +39,7 @@ public class MainGameSelectView : MonoBehaviour
     private bool ISStartGame=false;
     
     public StartSelectPanel StartSelectTipPanel;
-    
+    public MainTipsPanel TipsPanel;
     private void Awake()
     {
         if (Instance == null)
@@ -64,6 +65,10 @@ public class MainGameSelectView : MonoBehaviour
         LocalizationManager.Instance.SwitchLanguage(LibWGM.machine.Language);
         UpdateGameConf();
         ISStartGame = false;
+        if (GameSelectManger.Instance.AutoSelectGame()&&GameTimeManager.instance.GetCurrentTime()>LibWGM.machine.AutoTime)
+        {
+            StartCoroutine("AutoStartGame");
+        }
     }
 
     public void Update()
@@ -262,11 +267,46 @@ public class MainGameSelectView : MonoBehaviour
                     GameSelectManger.Instance.SelectGame(CurrentGameindex);
                     CommonUI.instance.mainTimePanel.Enter();
                     CurrentCoinCountPanel.instance.reduceCoinCount();
+                    if (GameSelectManger.Instance.AutoSelectGame())
+                    {
+                        StartCoroutine("AutoStartGame");
+                    }
                 }
             }
         }
-
         #endregion
+    }
+
+    IEnumerator  AutoStartGame()
+    {
+        float waitTime = LibWGM.machine.AutoTime;
+        if (LocalizationManager.Instance.GetCurrentLanguage() == Language.Chinese)
+        {
+            CommonUI.instance.AddTips("自动游戏已开启");
+        }
+        else
+        {
+            CommonUI.instance.AddTips("Auto game has started");
+        }
+        while (waitTime>=2)
+        {
+            yield return  new WaitForSeconds(2);
+            waitTime -= 2;
+            if (LocalizationManager.Instance.GetCurrentLanguage() == Language.Chinese)
+            {
+                CommonUI.instance.AddTips($"选择游戏倒计时:{waitTime}S");
+            }
+            else
+            {
+                CommonUI.instance.AddTips($"Time remaining for selecting a game:{waitTime}S");
+            }
+        }
+        yield return  new WaitForSeconds(2);
+        if (!ISStartGame)
+        {
+            StartGame();  
+        }   
+        
     }
 
     private void StartGame()
@@ -302,5 +342,6 @@ public class MainGameSelectView : MonoBehaviour
     {
         GameIcon.sprite = gc.games[CurrentGameindex].icon;
         GameName.setGameName(LocalizationManager.Instance.GetCurrentLanguage(), gc.games[CurrentGameindex]);
+        TipsPanel.SwitchStateTips(GameStateManager.Instance.GetCurrentGameState());
     }
 }
