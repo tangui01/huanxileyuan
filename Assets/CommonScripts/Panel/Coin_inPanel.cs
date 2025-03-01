@@ -43,12 +43,18 @@ public class Coin_inPanel : MonoBehaviour
         isgameover=_isgameover;
         delaytime=1;
         isjudge=false;
+        if (AutoGameManger.Instance.AutoGame())
+        {
+            CommonUI.instance.AutoPanel.gameObject.SetActive(true);
+        }
     }
 
-    public void ExitColdDown()
+    private void ExitColdDown()
     {
         Ani.SetTrigger("Exit");
     }
+
+
 
     /// <summary>
     /// 计时结束后
@@ -91,7 +97,6 @@ public class Coin_inPanel : MonoBehaviour
         isjudge=true;
         gameObject.SetActive(false);
     }
-
     private void Fail()
     {
         GameStateManager.Instance.SwitchState(GameState.Idle);
@@ -101,18 +106,17 @@ public class Coin_inPanel : MonoBehaviour
         isjudge = true;
         gameObject.SetActive(false);
     }
-
     private float delaytime=0f;
     private float AutoTime=0f;
     private void Update()
     {
-        if (GameSelectManger.Instance.AutoSelectGame()&&!isjudge)
+        if (AutoGameManger.Instance.AutoGame()&&!isjudge)
         {
             AutoTime+=Time.unscaledDeltaTime;
             if (AutoTime>=LibWGM.machine.AutoTime)
             {
                 AutoTime = 0;
-                ColdDownover();
+                ExitColdDown();
             }
         }
         if (timer < 1)

@@ -17,7 +17,8 @@ public enum GameState
     Idle,//没有投币
     NoCoinCount,//投了币但是不够数量
     Waitpalyer,//币数足够 等待按开始健
-    Play//游玩状态中
+    Play,//选择进入游戏中
+    InGame//在游戏场景中
 }
 public class GameStateManager : MonoBehaviour
 {
@@ -48,10 +49,10 @@ public class GameStateManager : MonoBehaviour
              return;
          }
          currentState =newState;
-         SetGamestateByCoinCount();
+         SetGamesStateByCoinCount();
          stateChangedAction?.Invoke(currentState);
      }
-     public void SetGamestateByCoinCount()
+     public void SetGamesStateByCoinCount()
      {
          //一种没有一个币的，显示请投币
          if ((LibWGM.playerData[1].coin_in+LibWGM.playerData[0].Free_coin_in==0)&&(GameTimeManager.instance.GetCurrentTime()<=0))
@@ -78,4 +79,5 @@ public class GameStateManager : MonoBehaviour
          }
          return false;
      }
+     
 }

@@ -85,7 +85,6 @@ public class MainTipsPanel : MonoBehaviour
                 break;
         }
         }
-
     private void OnDestroy()
     {
         GameStateManager.Instance.stateChangedAction-=SwitchStateTips;

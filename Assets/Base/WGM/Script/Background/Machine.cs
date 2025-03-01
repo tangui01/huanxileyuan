@@ -80,7 +80,7 @@ namespace WGM
         /// </summary>
         public int Prize_type { get; set; }
         /// <summary>
-        /// 0 中文   1  繁体   2 英文
+        /// 0 中文    1 英文
         /// </summary>
         public int  Language { get; set; }
 

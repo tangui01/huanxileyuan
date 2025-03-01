@@ -16,7 +16,7 @@ public class MainStateChangerVisual : MonoBehaviour
     
     public GameObject PlayerrEf;
     public StartSelectPanel StartSelectPanel;
-   
+    public MainGameSelectView MainGameSelectView;
     private void Start()
     {
         SwitchState(GameStateManager.Instance.GetCurrentGameState());

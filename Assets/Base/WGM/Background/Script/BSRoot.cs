@@ -35,7 +35,7 @@ public class BSRoot : MonoBehaviour
     /// <summary> 输入密码子类tf </summary>
     public static Transform bsPassword;
 
-    public static string[] languages = { "简体中文", "繁體中文", "English" };
+    public static string[] languages = { "简体中文", "English" };
 
     public static BSRoot Instance;
     void Awake()
@@ -50,7 +50,6 @@ public class BSRoot : MonoBehaviour
         Localization.language = languages[LibWGM.machine.Language];
       
     }
-
     // Use this for initialization
     void Start()
     {

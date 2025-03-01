@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Sirenix.OdinInspector;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
@@ -93,14 +94,23 @@ public class Scenequickaccess : EditorWindow
 
         private void ManageSceneGUI()
         {
+            // 创建自定义样式
+            GUIStyle coloredStyle = new GUIStyle(EditorStyles.label) 
+            {
+                normal = new GUIStyleState() 
+                {
+                    textColor = Color.green
+                }
+            };
             GUILayout.BeginVertical("box");
             {
                GUILayout.BeginHorizontal();
                {
                    GUILayout.Label("当前打开场景:");
-                   GUILayout.Label(EditorSceneManager.GetActiveScene().name);
+                   GUILayout.Label(EditorSceneManager.GetActiveScene().name,coloredStyle);
                }
                GUILayout.EndHorizontal();
+             
                if (GUILayout.Button("管理场景"))
                {
                    SceneManagerWindow.OpenSceneManagerWindow();

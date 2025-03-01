@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -65,10 +66,17 @@ public class MainGameSelectView : MonoBehaviour
         LocalizationManager.Instance.SwitchLanguage(LibWGM.machine.Language);
         UpdateGameConf();
         ISStartGame = false;
-        if (GameSelectManger.Instance.AutoSelectGame()&&GameTimeManager.instance.GetCurrentTime()>LibWGM.machine.AutoTime)
-        {
-            StartCoroutine("AutoStartGame");
-        }
+        AutoGameManger.WaitplayCanToplay += WaitplayCanToplay;
+        AutoGameManger.PlayCanToInGame += PlayCanToInGame;
+    }
+
+    public void WaitplayCanToplay()
+    {
+            StartCoroutine(Autogame(true));
+    }
+    public void PlayCanToInGame()
+    {
+        StartCoroutine(Autogame(false));
     }
 
     public void Update()
@@ -260,72 +268,61 @@ public class MainGameSelectView : MonoBehaviour
             {
                 if (CurrentCoinCountPanel.instance.ISStartGame())
                 {
-                    GameStateManager.Instance.SwitchState(GameState.Play);
-                    StartSelectTipPanel.UpdateAni();
-                    GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
-                    AudioManager.Instance.playerEffect1(clickSound);
-                    GameSelectManger.Instance.SelectGame(CurrentGameindex);
-                    CommonUI.instance.mainTimePanel.Enter();
-                    CurrentCoinCountPanel.instance.reduceCoinCount();
-                    if (GameSelectManger.Instance.AutoSelectGame())
-                    {
-                        StartCoroutine("AutoStartGame");
-                    }
+                    EnterPalyermodel();
                 }
             }
         }
         #endregion
     }
 
-    IEnumerator  AutoStartGame()
+    private void EnterPalyermodel()
     {
-        float waitTime = LibWGM.machine.AutoTime;
-        if (LocalizationManager.Instance.GetCurrentLanguage() == Language.Chinese)
-        {
-            CommonUI.instance.AddTips("自动游戏已开启");
-        }
-        else
-        {
-            CommonUI.instance.AddTips("Auto game has started");
-        }
-        while (waitTime>=2)
-        {
-            yield return  new WaitForSeconds(2);
-            waitTime -= 2;
-            if (LocalizationManager.Instance.GetCurrentLanguage() == Language.Chinese)
-            {
-                CommonUI.instance.AddTips($"选择游戏倒计时:{waitTime}S");
-            }
-            else
-            {
-                CommonUI.instance.AddTips($"Time remaining for selecting a game:{waitTime}S");
-            }
-        }
-        yield return  new WaitForSeconds(2);
-        if (!ISStartGame)
-        {
-            StartGame();  
-        }   
-        
+        GameStateManager.Instance.SwitchState(GameState.Play);
+        StartSelectTipPanel.UpdateAni();
+        GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
+        AudioManager.Instance.playerEffect1(clickSound);
+        GameSelectManger.Instance.SelectGame(CurrentGameindex);
+        CommonUI.instance.mainTimePanel.Enter();
+        CommonUI.instance.AutoPanel.Stop();
+        CurrentCoinCountPanel.instance.reduceCoinCount();
     }
 
+    IEnumerator  Autogame(bool isEnterPlayer)
+    {
+        CommonUI.instance.AutoPanel.gameObject.SetActive(true);
+        CommonUI.instance.AutoPanel.Init();
+        yield return  new WaitForSeconds(LibWGM.machine.AutoTime);
+        yield return new WaitForSeconds(1f);
+        if (!ISStartGame)
+        {
+            if (isEnterPlayer&&GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Waitpalyer))
+            {
+                EnterPalyermodel();  
+            }
+            else if (!isEnterPlayer&&GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Play))
+            {
+                StartGame();
+            }
+        }   
+    }
     private void StartGame()
     {
         CommonUI.instance.mainTimePanel.Exit();
+        CommonUI.instance.AutoPanel.Stop();
         AudioManager.Instance.playerEffect1(clickSound);
         AudioManager.Instance.StopBGm();
         LoadABManger.Instance.UnloadAB(MainConstant.MainSceneName);
         LoadABManger.Instance.LoadAB(GameNameitems[CurrentGameindex].GetGameSceneName(),
-        ()=>{
-            if (LocalizationManager.Instance.GetCurrentLanguage()==Language.Chinese)
-            {
-                CommonUI.instance.AddTips("长按开始键可返回游戏大厅");
+            ()=>{
+                if (LocalizationManager.Instance.GetCurrentLanguage()==Language.Chinese)
+                {
+                    CommonUI.instance.AddTips("长按开始键可返回游戏大厅");
+                }
+                else
+                {
+                    CommonUI.instance.AddTips("Long press the start button to return to the main menu");
+                }
             }
-            else
-            {
-                CommonUI.instance.AddTips("Long press the Start button to return to the game hall");
-            }
-        }
         );
         PlayerPrefs.SetInt("score", 0);
         PlayerPrefs.SetInt("level", 1);
@@ -343,5 +340,11 @@ public class MainGameSelectView : MonoBehaviour
         GameIcon.sprite = gc.games[CurrentGameindex].icon;
         GameName.setGameName(LocalizationManager.Instance.GetCurrentLanguage(), gc.games[CurrentGameindex]);
         TipsPanel.SwitchStateTips(GameStateManager.Instance.GetCurrentGameState());
+    }
+
+    private void OnDestroy()
+    {
+        AutoGameManger.WaitplayCanToplay -= WaitplayCanToplay;
+        AutoGameManger.PlayCanToInGame -= PlayCanToInGame;
     }
 }

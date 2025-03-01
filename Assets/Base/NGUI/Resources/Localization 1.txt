@@ -1,0 +1,292 @@
+﻿KEY,简体中文,繁體中文,English
+请投币,请投币,請投幣,Coin in please
+投币错误,投币错误,投幣錯誤,Coin in error
+正在退币,正在退礼,正在退礼,Coins outing
+正在退票,正在退票,正在退票,Tickets outing
+正在退礼品,正在退礼品，剩余数量 ,正在退禮品，剩餘數量 ,Present outing，Remain
+退币错误,缺礼,缺礼,Coin empty
+退票错误,缺票,缺票,Ticket empty
+退礼品错误,缺礼品,缺禮品,Prize empty
+退币错误重启,缺礼，请检查后重启,缺礼，請檢查后重啟,Coin empty，Check and restart
+退票错误重启,缺票，请检查后重启,缺票，請檢查后重啟,Ticket empty，Check and restart
+退礼品错误重启,缺礼品，请检查后重启，礼品数 ,缺禮品，請檢查后重啟，禮品數 ,Prize empty，Check and restart，Prize amount 
+爆机,爆机,爆機,Over max score
+自动攻击,自动攻击,自動攻擊,Auto fire
+后台管理,后台管理,後台管理,Background manage
+参数设置,参数设置,參數設置,Setting
+查账,查账,查賬,Check account
+退出,退出,退出,Exit
+请输入8位密码,请输入8位密码,請輸入8位密碼,Enter password please
+难度调整,难度调整,難度調整,Difficulty
+场地类型,场地类型,場地類型,Game center style
+大,大,大,Big
+中,中,中,Middle
+小,小,小,Small
+普通,普通,普通,Normal
+退奖类型,退奖类型,退獎類型,Prize return mode
+彩票,彩票,彩票,Ticket
+币,币,幣,Coin
+礼品,礼品,禮品,Gift
+退奖模式,退奖模式,退獎模式,Return mode
+累积退奖,累积退奖,累積退獎,Store
+即中即退,即中即退,即中即退,Immediate
+退奖比例,退奖比例,退獎比例,Prize return rate
+币/票/礼品,币/票/礼品,幣/票/禮品,Prizes
+票,票,票,Tickets
+个,个,個,Prize
+投币比例,投币比例,投幣比例,One coin score
+彩票比例,彩票比例,彩票比例,One ticket score
+礼品比例,礼品比例,禮品比例,One prize score
+出票比例,出票比例,出票比例,Tickets one coin
+上分比例,上分比例,上分比例,One in score
+座位布局,座位布局,座位佈局,Place locate
+音量大小,音量大小,音量大小,Volume
+关,关,關,Off
+语言显示,语言显示,語言顯示,Language
+密码设定,密码设定,密碼設定,Password
+几币一次,几币几抓(几币),幾幣幾抓(幾幣),How much coin for play
+一币几次,几币几抓(几抓),幾幣幾抓(幾抓),How much change to play
+1        币,1        币,1        幣,1     coin
+1        抓,1        抓,1        抓,1     catch
+玩,玩,玩,Play
+秒,秒,秒,Sec
+猴子分数,猴子分数,猴子分數,Monkey score
+小游戏每只,小游戏每只,小遊戲每隻,Mini game
+抓捕分数,抓捕分数,抓捕分數,Catch score
+倍率选择,倍率选择,倍率選擇,Multiple
+报码时间,报码时间,報碼時間,Handover time
+报账,报账,報賬,Handover account
+清零,清零,清零,Clear account
+清零账目,清零账目,清零賬目,Clear account
+恢复默认值,恢复默认值,恢復默認值,Default
+保存并退出,保存并退出,保存并退出,Save and exit
+不保存退出,不保存退出,不保存退出,Exit without save
+数据清零,数据清零,數據清零,Account will be cleared
+请先清零账目,请先清零账目,請先清零賬目,Clear account before change it
+少于8位密码,少于8位密码,少於8位密碼,Password length must be 8
+密码错误,密码错误,密碼錯誤,Password error
+报账成功,报账成功,報賬成功,Handover success
+确认清零，请再按一次,确认清零，请再按一次,確認清零，請再按一次,Click again to clear account
+数据已经清零,数据已经清零,數據已經清零,Account already be cleared
+清零成功,清零成功,清零成功,Clear account success
+分,分,分,Score
+人,人,人,Player
+报账码生效,报账码生效,報賬碼生效,Password of handover account effective
+抽放水码生效,抽放水码生效,抽放水碼生效,Password of difficulty effective
+清零码生效,清零码生效,清零碼生效,Password of clear account effective
+激活码生效,激活码生效,激活碼生效,Password of active product effective
+密码清除,密码清除,密碼清除,Password of clear password effective
+转为买卖台,转为买卖台,轉為買賣台,Password of change to sell mode effective
+转为公司台,转为公司台,轉為公司台,Password of change to corporation mode effective
+未知码,未知码,未知碼,Unknown password
+准备进入后台,准备进入后台,準備進入後台,Ready go to background
+初始化错误代码,初始化错误代码,初始化錯誤代碼,Initialize error code
+通信错误代码,通信错误代码,通信錯誤代碼,Communication error code
+运行时间到请延时,运行时间到请延时,運行時間到請延時,Game time up
+投币数,投币数,投幣數,Total coins in
+退奖数,退奖数,退獎數,Total prize back
+线号,线号,線號,Client number
+剩余运行时间,剩余运行时间,剩餘運行時間,Remain time
+游戏版本,游戏版本,遊戲版本,Version
+数据1,数据1,數據1,Data 1
+数据2,数据2,數據2,Data 2
+数据3,数据3,數據3,Data 3
+数据4,数据4,數據4,Data 4
+数据5,数据5,數據5,Data 5
+总分,总分,總分,Score
+投币/分,投币/分,投幣/分,Coin in
+退币/分,退币/分,退幣/分,Coin out
+玩入,玩入,玩入,Play in
+玩出,玩出,玩出,Play out
+利润,利润,利潤,Profits
+合计,合计,合計,Total
+总合计,总合计,總合計,Total all
+机台号码,机台号码,機台號碼,Machine NO.
+剩余时间,剩余时间,剩餘時間,Remain time
+报码次数,报码次数,報碼次數,Handover times
+上次利润,上次利润,上次利潤,Last profits
+本次利润,本次利润,本次利潤,This profits
+全部利润,全部利润,全部利潤,Total profits
+金币换1个礼品,金币换1个礼品,金幣換1個禮品,score can exchange one prize
+DEMO示例-拉猴子,[FF24FF]连续拍打对应按钮，[-][FFFF00]将猴子拉下来[-],[FF24FF]連續拍打對應按鈕，[-][FFFF00]將猴子拉下來[-],[FF24FF]Tap button continuously[-] [FFFF00]to pull down the monkey[-]
+DEMO示例-蓝色,[FFFF00]当猴子落向准心位置的同时，玩家通过[-][FF24FF]拍打三个对应位置的按钮[-][FFFF00]即可获得相应的[-][00FF00]奖励[-],[FFFF00]當猴子落向準心位置的同時，玩家通過[-][FF24FF]拍打三個對應位置的按鈕[-][FFFF00]即可獲得相應的[-][00FF00]獎勵[-],[FFFF00]When the monkey fall down to the center，[-][FF24FF]press same color of button[-] [FFFF00]to obtain reward[-]
+DEMO示例-黄色,[FFFF00]玩家通过拍打按钮使得指针停止，[-][FF24FF]指针停向指定的位置，[-][FFFF00]即可获得相应的奖励[-],[FFFF00]玩家通過拍打按鈕使得指針停止，[-][FF24FF]指針停向指定的位置，[-][FFFF00]即可獲得相應的獎勵[-],[FFFF00]Tap the button to stop the wheel of luck，[-][ff24ff]you can obtain the number of pointer reward[-]
+成绩单,成绩单,成績單,ACHIEVEMENT
+成功命中,成功命中,成功命中,Hit success
+命中失败,命中失败,命中失敗,Hit failure
+成功率,成功率,成功率,Chance to hit
+累计得分,累计得分,累計得分,The resulting score
+获得金币数,获得金币数,獲得金幣數,Get score
+等待退礼品,等待退礼品,等待退禮品,Wait for prize return
+退礼品倒计时,退礼品倒计时,退禮品倒計時,Ready to return prize
+多少分退多少礼品,GiftChS,GiftChT,GiftEn
+限时发射,限时发射,限時發射,Fire timeout
+爆裂天使模式,ModeSimple,ModeTranditional,ModeEnglish
+爆裂天使技能,SkillSimple,SkillTranditional,SkillEnglish
+惊奇小丑模式,ModeSimple,ModeTranditional,ModeEnglish
+惊奇小丑技能,SkillSimple,SkillTranditional,SkillEnglish
+狂暴海盗模式,ModeSimple,ModeTranditional,ModeEnglish
+狂暴海盗技能,SkillSimple,SkillTranditional,SkillEnglish
+DEMO示例-天使,[FFFFFF]玩家进入[-][FFFF00]爆裂天使[-][FFFFFF]后，在模式时间内抓取猴子的成功率为100%！[-],[FFFFFF]玩家進入[-][FFFF00]爆裂天使[-][FFFFFF]後，在模式時間內抓取猴子的成功率為100%！[-],[FFFFFF]Players enter the [-][FFFF00]ANGEL MODE[-][FFFFFF] caught the monkey's chances of success in mode up to 100%！[-]
+DEMO示例-小丑,[FFFFFF]玩家进入[-][FFFF00]惊奇小丑[-][FFFFFF]后，在模式时间内抓取猴子的分数提升一倍！[-],[FFFFFF]玩家進入[-][FFFF00]驚奇小丑[-][FFFFFF]後，在模式時間內抓取猴子的分數提升一倍！[-],[FFFFFF]Players enter the [-][FFFF00]CLOWN MODE[-][FFFFFF] caught the monkey's score increase to 2 times！[-]
+DEMO示例-海盗,[FFFFFF]玩家进入[-][FFFF00]狂暴海盗[-][FFFFFF]后，在模式时间内抓取猴子额外赠送分数！[-],[FFFFFF]玩家進入[-][FFFF00]狂暴海盜[-][FFFFFF]後，在模式時間內抓取猴子額外贈送分數！[-],[FFFFFF]Players enter the [-][FFFF00]PIRATE MODE[-][FFFFFF] caught the monkey addit score！[-]
+DEMO示例-模式加成,[00FF00]该模式下的特殊加成效果[-],[00FF00]該模式下的特殊加成效果[-],[00FF00]The special effects[-]
+长按自动发射,长按自动发射,長按自動發射,Auto fire
+打开,打开,打開,Enable
+关闭,关闭,關閉,Disable
+报码,报码,報碼,Password
+光标校准,光标校准,光標校準,Adjust Aim
+当期投币数,当期投币数,當期投幣數,Coin in
+当期退奖数,当期退奖数,當期退獎數,Prize out
+累积投币数,累积投币数,累積投幣數,Coin in all
+累积退奖数,累积退奖数,累積退獎數,Prize out all
+演示音量,演示音量,演示音量,Demo volume
+出厂测试,出厂测试,出廠測試,Factory test
+电位器X,电位器X:,電位器X:,ADC X:
+电位器Y,电位器Y:,電位器Y:,ADC Y:
+切换键,切换键:,切換鍵:,Switch key:
+射击键,射击键:,射擊鍵:,Fire key:
+开始键,开始键:,開始鍵:,Start key:
+投币信号,投币信号:,投幣信號:,Coin in sig:
+退奖信号,退奖信号:,退獎信號:,Prize out sig:
+请选择场景,请选择场景,请选择场景,Select a scene
+冰弹模式,冰冻属性：大范围冰冻敌人。,冰冻属性：大范围冰冻敌人。,Freezing  properties.
+导弹模式,爆裂属性：大范围强力爆炸 。,爆裂属性：大范围强力爆炸 。,Explosive properties.
+散弹模式,散弹属性：大面积强力攻击。,散弹属性：大面积强力攻击。,Shotgun   properties.
+宝箱,随机赠送：一切皆有可能性。,随机赠送：一切皆有可能性。,Random give  present.
+红心, 补充血量：延续玩家生命力。, 补充血量：延续玩家生命力。,Added blood  volume.
+测试提示,按下后台“确定键”退奖电机转动，此时遮挡光眼，退奖信号增加，电机停止。,按下后台“确定键”退奖电机转动，此时遮挡光眼，退奖信号增加，电机停止。,Press the backstage determination key to return the award motor，this time occlusion the light eye， the refund signal increases，the motor stops.,
+第一步,1：光标移动到左下角，扣动扳机,1：光标移动到左下角，扣动扳机,1: move the cursor to the lower left corner and pull the trigger.
+第二步,2：光标移动到右上角，扣动扳机,2：光标移动到右上角，扣动扳机,2: move the cursor to the lower right corner and pull the trigger.
+第三步,3：点击退出按钮，即可保存退出,3：点击退出按钮，即可保存退出,3: click the exit button to save the exit.
+沙漠恶狼,沙漠恶狼,沙漠恶狼,desert Wolf
+骷髅王,骷髅王,骷髅王,King Leoric
+牛魔王,牛魔王,牛魔王,Bull Demon King
+飞天火龙,飞天火龙,飞天火龙,Flying dragon
+风暴枪神,风暴枪神,风暴枪神,Storm sharpshooter
+按下后台,按下后台“确定键”彩票机转动。,按下后台“确定键”彩票机转动。,Press the backstage determine key refund motor rotation in this time occlusion of the optical eye the reward signal increases the motor stops.
+震机时间,震机时间,震机时间,Shock time
+游戏音量,游戏音量,游戏音量,Game volume
+游戏时长,游戏时长,游戏时长,Game Time
+方向左,方向左,方向左,Steer left
+方向右,方向右,方向右,Steer Right
+正在出礼,正在出礼,正在出礼,Giving gift
+缺礼请联系管理员,请联系管理员，缺礼,缺币请联系管理员，缺礼,Please contact the administrator，No prize
+概率设定,难度设定,难度设定,Difficulty
+自动开始,自动开始,自动开始,AutoStart
+标志,标志,标志,Logo
+选择一个分数,选择一个分数,选择一个分数,Choose a score
+快跑啊,快跑啊,快跑啊,Run away
+别被抓住了,别被抓住了,别被抓住了,Don't get caught
+敢动下我试试,敢动下我试试,敢动下我试试,dare to move me to try
+//我是拦不住的,我是拦不住的,我是拦不住的,I can't stop it
+快来抓我呀,快来抓我呀,快来抓我呀,Come and get me
+//我的地盘听我的,我的地盘听我的,我的地盘听我的,My turf is my oyster
+你抓到我试试,你抓到我试试,你抓到我试试,Try catching me
+//子弹都追不上我,子弹都追不上我,子弹都追不上我,No bullet can catch up with me
+嘿嘿,嘿嘿,嘿嘿,Hey，hey
+顶死你,顶死你,顶死你,Death to you
+快点行不行,快点行不行,快点行不行,Come on
+我要发火了,我要发火了,我要发火了,I'm going to lose my temper
+好大的胆子,好大的胆子,好大的胆子,What a dare
+套得真准,套得真准,套得真准,that's right
+牛的力气你知道,牛的力气你知道,牛的力气你知道,You know the strength of a cow
+//我从不畏惧,我从不畏惧,我从不畏惧,I'm never afraid
+坚持到最后,坚持到最后,坚持到最后,Make It To The End
+哎呀甩不掉,哎呀甩不掉,哎呀甩不掉,Oh，I can't get rid of it
+//我是不会屈服的,我是不会屈服的,我是不会屈服的,I will not give in
+刚刚开始,刚刚开始,刚刚开始,Just started
+//你想过后果吗,你想过后果吗,你想过后果吗,the consequence will be severe
+吃我一摞,吃我一摞,吃我一摞,Eat my pile
+给你尝点我家特产,给你尝点我家特产,给你尝点我家特产,I'll give you something special
+味道可以不,味道可以不,味道可以不,The taste is fine.
+给你尝尝鲜,给你尝尝鲜,给你尝尝鲜,I'll give you a taste
+送你礼物,送你礼物,送你礼物,give you a gift
+
+猛烈一击,猛烈一击,猛烈一击,A violent blow
+我顶,我顶,我顶,I'm the top
+看我怎么顶飞你,看我怎么顶飞你,看我怎么顶飞你,See how I fly you
+能困住我吗,能困住我吗,能困住我吗,Can you trap me
+错在哪里,错在哪里,错在哪里,What went wrong
+调转方向进攻,调转方向进攻,调转方向进攻,Turn around and attack
+
+你抓我试试啊,你抓我试试啊,你抓我试试啊,Don't try to catch me
+子弹都追不上我,子弹都追不上我,子弹都追不上我,I'm super fast
+我从不畏惧!,我从不畏惧!,我从不畏惧!,I'm not afraid
+我的地盘听我的,我的地盘听我的,我的地盘听我的,trap me trap me
+牛的力气你可知道？,牛的力气你可知道？,牛的力气你可知道？,I'm not afraid
+你想过后果吗,你想过后果吗,你想过后果吗,I'm not afraid
+套的可真准哈！,套的可真准哈！,套的可真准哈！,Inconceivable
+妈呀，咋还甩不掉了呐,妈呀，咋还甩不掉了呐,妈呀，咋还甩不掉了呐,OH Shit
+我是不会屈服的,我是不会屈服的,我是不会屈服的,Unbelievable
+我是拦不住的,我是拦不住的,我是拦不住的,Oh，I can't get rid of it
+我要发火啦,我要发火啦,我要发火啦,I'm angry
+吃俺一脚,吃俺一脚,吃俺一脚,Eat my kick
+嘿嗨，味道可以吧,嘿嗨，味道可以吧,嘿嗨，味道可以吧,give you a taste
+送你个礼物吧~,送你个礼物吧~,送你个礼物吧~,I'll give you something special
+迎接我的怒火吧,迎接我的怒火吧,迎接我的怒火吧,The top the top
+标题,标题,标题,Logo
+选择海域,选择海域,选择海域,SelectE
+水下宝藏,深海宝藏,深海宝藏,Treasure Island
+水下废墟,海底废墟,海底废墟,Underwater ruins
+翠绿浅海,翠绿浅海,翠绿浅海,Shallow sea
+飞轮,飞   轮:,飞   轮:,Flywheel:
+摇奖：,摇奖：,摇奖：,Lottery:
+奖品：,奖品：,奖品：,Prize:
+斤,斤,斤,kg
+摇奖分数,摇奖分数,摇奖分数,Raffle score
+扭蛋,礼品,礼品,Gift
+钻头炮,钻头炮,钻头炮,Drill cannon
+金币,金币,金币,Coin
+电闪雷鸣,电闪雷鸣,电闪雷鸣,Lightning
+双钩,双钩,双钩,Double hook
+保罗大教堂,保罗大教堂,保罗大教堂,保罗大教堂E
+土库曼斯坦,土库曼斯坦,土库曼斯坦,土库曼斯坦E
+安第斯山脉,安第斯山脉,安第斯山脉,安第斯山脉E
+阿拉斯加湾,阿拉斯加海湾,阿拉斯加海湾,阿拉斯加海湾E
+纳米布矿区,纳米布矿区,纳米布矿区,纳米布矿区E
+亚赫姆废城,亚赫姆废城,亚赫姆废城,亚赫姆废城E
+博迪亚姆古堡,博迪亚姆古堡,博迪亚姆古堡,博迪亚姆古堡E
+亚赫姆布什湾,亚赫姆布什湾,亚赫姆布什湾,亚赫姆布什湾E
+选择,选择,选择,SelectScene
+Logo,Logo,Logo,LogoE
+胜利,胜利,胜利,Win
+强敌来袭,强敌来袭,强敌来袭,Warning
+实战荣誉,实战荣誉,实战荣誉,DECORATION
+比亚乔阿凡提,比亚乔阿凡提,比亚乔阿凡提,PIAGGIO AVANTI
+前方敌机来袭，进入战斗模式！,前方敌机来袭，进入战斗模式！,前方敌机来袭，进入战斗模式！,The enemy is running, give chase
+敌机企图逃跑，全面追击！,敌机企图逃跑，全面追击！,敌机企图逃跑，全面追击！,Annihilate all aggressors
+战争结束，成功守护领地！,战争结束，成功守护领地！,战争结束，成功守护领地！,The territory is defended successfully!
+已完成,已完成,已完成,Finished
+控制模式,控制模式,控制模式,Control mode
+电位器,电位器,电位器,XDCP
+摇杆,摇杆,摇杆,Rocker
+上,上,上,Up
+下,下,下,Down
+左,左,左,Left
+右,右,右,Right
+权限不足,权限不足,权限不足,Permission denied
+热血战机,热血战机,热血战机,热血战机2
+电机电位,电机电位,电机电位,Motor_RP
+高,高,高,H
+低,低,低,L
+消灭伏击敌军,消灭伏击敌军,消灭伏击敌军,Destroy the enemy
+寻找正确路线,寻找正确路线,寻找正确路线,Find the right path
+消灭伏击敌机,消灭伏击敌机,消灭伏击敌机,Destroy enemy aircraft
+选择场景,选择场景,选择场景,Select
+逆境P.1,逆境P.1,逆境P.1,Lve P.1
+逆境P.2,逆境P.2,逆境P.2,Lve P.2
+逆境P.3,逆境P.3,逆境P.3,Lve P.3
+逆境P.4,逆境P.4,逆境P.4,Lve P.4
+逆境P.5,逆境P.5,逆境P.5,Lve P.5
+逆境P.6,逆境P.6,逆境P.6,Lve P.6
+逆境P.7,逆境P.7,逆境P.7,Lve P.7
+逆境P.8,逆境P.8,逆境P.8,Lve P.8
+继续,继续,继续,Continue
+即将到达战场，开启备战模式,即将到达战场开启备战模式,即将到达战场开启备战模式,Approaching the battlefield，start the war mode
+炮弹,炮弹,炮弹,cannonball
+机枪,机枪,机枪,机枪,machine gun
+获得礼品,获得礼品,获得礼品,Get a gift
+小标题,小标题,小标题,MinLogo
+精美礼品,精美礼品,精美礼品,Get a gift
+

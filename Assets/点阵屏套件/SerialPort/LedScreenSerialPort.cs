@@ -749,37 +749,42 @@ public class LedScreenSerialPort
 			time = Time.time + 10;
 			//Debug.LogWarning("将上传 >>>>>>>> in " + pay + "  out " + machine.ULCoinOut+ " errorCode"+ errorCode);
 		}
-
 	}
-
-
 	 async Task AutoUploadAI()
-	{
+	 {
+		 int errorCode = 0;
 		while (Application.isPlaying)
 		{
 			await Task.Delay(TimeSpan.FromSeconds(10.0f));
 			if (CanUpload())
 			{
-				int coinIn = machine.ULCoinIn;
-				int coinOut = machine.ULCoinOut;
-				//最大255
-				if (coinIn > 255)
-					coinIn = 255;
-				if (coinOut > 255)
-					coinOut = 255;
-				int errorCode = queueErrorCode.Count > 0 ? queueErrorCode[0] : 0;
+				if (localNeedSendinfo.AddCcodeCur != localNeedSendinfo.AddCcode)
+				{
+					localNeedSendinfo.AddCcodeCur = localNeedSendinfo.AddCcode;
+					localNeedSendinfo.ULCoinIn=machine.ULCoinIn;
+					localNeedSendinfo.ULCoinOut=machine.ULCoinOut;
+					 errorCode = queueErrorCode.Count > 0 ? queueErrorCode[0] : 0;
+					 Debug.Log("准备上传>>>>>>>> in " + localNeedSendinfo.ULCoinIn + " ULCoinIn:" + machine.ULCoinIn + " errorCode" + errorCode);
+				}
+
+				
+				
 				//Debug.LogWarning("上传>>>>>>>> in " + coinIn + "  out " + coinOut+ " errorCode" + errorCode);
-				var resp = await UploadAI(machine.ULCoinIn, machine.ULCoinOut, errorCode, 2);
+				var resp = await UploadAI(localNeedSendinfo.ULCoinIn, localNeedSendinfo.ULCoinOut, errorCode, 2);
 				if (resp.Code == 200)
 				{
-					auto_increment_code++;
-					if (auto_increment_code >= 256)
-						auto_increment_code = 0x10;
-					machine.ULCoinIn -= coinIn;
-					machine.ULCoinOut -= coinOut;
+					
+					localNeedSendinfo.AddCcode++;
+					if (localNeedSendinfo.AddCcode >= 256)
+						localNeedSendinfo.AddCcode = 0x10;
+					Debug.LogWarning($"AutoUploadAI 上传>>>>>>>> 成功 coinIn{localNeedSendinfo.ULCoinIn} coinOut{localNeedSendinfo.ULCoinOut} errorCode{errorCode}");
+					machine.ULCoinIn -= localNeedSendinfo.ULCoinIn;
+					machine.ULCoinOut -= localNeedSendinfo.ULCoinOut;
+					localNeedSendinfo.ULCoinIn = 0;
+					localNeedSendinfo.ULCoinOut = 0;
 					if (errorCode != 0)
 						queueErrorCode.RemoveAt(0);
-					Debug.LogWarning($"AutoUploadAI 上传>>>>>>>> 成功 coinIn{coinIn} coinOut{coinOut} errorCode{errorCode}");
+					
 				}
 				else
 				{
@@ -802,20 +807,19 @@ public class LedScreenSerialPort
 		return true;
 	}
 
-	public static int auto_increment_code = 0x10;
+
 	/// <summary>
 	/// 上传账目增量
 	/// </summary>
 	/// <returns></returns>
 	public  async Task<RespBase> UploadAI(int pay, int outCoin, int errorCode, float timeOut)
 	{
-		
 		byte[] buf = new byte[7];
-		buf[0] = (byte)auto_increment_code;
+		buf[0] = (byte)localNeedSendinfo.AddCcode;
 		buf[1] = (byte)errorCode;
-		buf[2] = 0;
+		buf[2] = (byte)pay;
 		buf[3] = (byte)outCoin;
-		buf[4] = (byte)pay;
+		buf[4] = 0;
 		byte cnt = 7;
 
 		var resp = await InvokeAsync(CmdType.UploadAI, buf, cnt,
@@ -840,7 +844,6 @@ public class LedScreenSerialPort
 		U2ToCu(machine.GameTime, buf, ref cnt);
 		U1ToCu(machine.Language , buf, ref cnt);
 		U1ToCu(machine.AutoTime, buf, ref cnt);
-		Debug.Log(machine.AutoTime);
 		U1ToCu(machine.showQrCode, buf, ref cnt);
 		
 		foreach (UIOption l in UIOption.list)
@@ -878,7 +881,7 @@ public class LedScreenSerialPort
 		byte[] buf2 = new byte[1] { 1};
 		machine.AutoTime = CUToU1(buf, ref cnt);
 		machine.Language = CUToU1(buf, ref cnt);
-		string[] language = new string[] { "简体中文", "繁体中文", "English" };
+		string[] language = new string[] { "简体中文", "English" };
 		Localization.language = language[machine.Language];
 		
 		//更新语言

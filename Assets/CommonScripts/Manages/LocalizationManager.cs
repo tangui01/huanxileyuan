@@ -14,7 +14,6 @@ using UnityEngine.Localization.Settings;
 public enum Language
 {
     Chinese,
-    Chinese_Traditional,
     English
 }
 
@@ -39,11 +38,6 @@ public class LocalizationManager : MonoBehaviour
         if (Active)
         {
             return;
-        }
-
-        if (localId==1)
-        {
-            localId = 0;
         }
         StartCoroutine(SetLocale(localId));
     }

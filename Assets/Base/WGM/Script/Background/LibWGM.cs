@@ -15,6 +15,7 @@ namespace WGM
 	{
 	 
 		public static Machine machine = new Machine();
+		public static LocalNeedSendinfo localNeedSendinfo = new LocalNeedSendinfo();
 		public static PlayerData[] playerData = new PlayerData[Machine.PlayerMax];
 		public static AccountReport accountReport = new AccountReport();
 		public static uint[] plyKey = new uint[Machine.PlayerMax];
@@ -45,8 +46,6 @@ namespace WGM
 		public static bool isOpenDebug;
 		public static int Init(string port, string mouse, string keyboard)
         {
-	        
-	        
 			//InitDebugLog(DebugLog);
 			
 			Debug.Log($"chmod {port}: " + LibUnityPlugin.ExecuteShellCmd($"chmod 777 {port}"));

@@ -59,6 +59,7 @@ public class CurrentCoinCountPanel : MonoBehaviour
        LibWGM.playerData[1].coin_in+=addCoinCount;
        coinText.text=LibWGM.playerData[1].coin_in+"/"+LibWGM.machine.Cp_coin;
        SetGamestateByCoinCount();
+       DealCommand.Instance.SerialPortManager.UpdateULdata(addCoinCount);
        AudioManager.Instance.playerEffect3(AddCoinSound);
    }
    public void reduceCoinCount()
@@ -66,10 +67,8 @@ public class CurrentCoinCountPanel : MonoBehaviour
        LibWGM.playerData[0].Free_coin_in -= LibWGM.machine.Cp_coin;
        if(LibWGM.playerData[0].Free_coin_in<0)
        {
-
            LibWGM.playerData[1].coin_in += LibWGM.playerData[0].Free_coin_in;
            LibWGM.playerData[1].coin_use -=LibWGM.playerData[0].Free_coin_in;
-          
            LibWGM.playerData[0].Free_coin_in = 0;
        }
        coinText.text = (LibWGM.playerData[1].coin_in+ LibWGM.playerData[0].Free_coin_in) + "/" + LibWGM.machine.Cp_coin;

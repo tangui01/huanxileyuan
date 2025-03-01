@@ -37,13 +37,5 @@ public class GameSelectManger : MonoBehaviour
        {
            return CurrentSelectGameIndex;
        }
-       //判断是否自动开始
-       public bool AutoSelectGame()
-       {
-           if (LibWGM.machine.AutoTime <= 0)
-           {
-               return false;
-           }
-           return true;
-       }
+      
 }

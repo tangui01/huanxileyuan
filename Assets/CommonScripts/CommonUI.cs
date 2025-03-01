@@ -18,6 +18,7 @@ public class CommonUI : MonoBehaviour
      public TipsPanel Tips;
      public BackMainPanel BackMain;
      public MainTimePanel mainTimePanel;
+     public AutoPanel AutoPanel;
     private void Awake()
     {
         if (instance==null)

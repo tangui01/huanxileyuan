@@ -206,6 +206,7 @@ namespace WGM
 		private Thread mThreadSave;
 		private SimpleSQLManager mDbManager;
 		private Machine mMachine = new Machine();
+		private LocalNeedSendinfo mLocalNeedSendinfo = new LocalNeedSendinfo();
 		private PlayerData[] mPlayerDatas = new PlayerData[Machine.PlayerMax];
 		private UnityDebugLog mLastUnityDebugLog = new UnityDebugLog();
 		private readonly object mDebugLogThreadLock = new object();
@@ -258,7 +259,7 @@ namespace WGM
 			mThreadSave.Start();
 			handles[0] = LibWGM.Init(port, devMouse, devKeyboard);
             LibWGM.machine.BootCount++;
-          
+    
             Localization.language = BSRoot.languages[LibWGM.machine.Language];
 			SerialPortManager = new LedScreenSerialPort();
 			PortConnect().WrapErrors();
@@ -709,7 +710,8 @@ namespace WGM
 			mDbManager.CreateTable<Machine>();
 			mDbManager.CreateTable<PlayerData>();
 			mDbManager.CreateTable<UnityDebugLog>();
-
+			mDbManager.CreateTable<LocalNeedSendinfo>();
+			
 			if (mDbManager.Table<Machine>().Count() < 1)
 			{
 				mDbManager.Insert(LibWGM.machine);
@@ -722,12 +724,16 @@ namespace WGM
 					mDbManager.Insert(LibWGM.playerData[i]);
 				}
 			}
-
+			
+			if (mDbManager.Table<LocalNeedSendinfo>().Count() < 1)
+			{
+				mDbManager.Insert(LibWGM.localNeedSendinfo);
+			}
 
 			mDbManager.BeginTransaction();
 			LibWGM.machine = mDbManager.Table<Machine>().First();
 			LibWGM.playerData = mDbManager.Table<PlayerData>().ToArray();
-
+           LibWGM.localNeedSendinfo = mDbManager.Table<LocalNeedSendinfo>().First();
 			var unityDebugLogs = mDbManager.Table<UnityDebugLog>().ToList();
 			if (unityDebugLogs.Count > LOG_MAX)
 			{
@@ -761,7 +767,14 @@ namespace WGM
 				mMachine = LibWGM.machine.Clone();
 				mDbManager.UpdateTable(LibWGM.machine);
 			}
-
+			
+			if (!mLocalNeedSendinfo.EqualTo(LibWGM.localNeedSendinfo))
+			{
+				mLocalNeedSendinfo = LibWGM.localNeedSendinfo.Clone();
+				mDbManager.UpdateTable(LibWGM.localNeedSendinfo);
+			}
+			
+			
 			for (int i = 0; i < LibWGM.playerData.Length; i++)
 			{
 				if (!mPlayerDatas[i].EqualTo(LibWGM.playerData[i]))
@@ -886,6 +899,7 @@ namespace WGM
 		public static void OnPirzeOut()
 		{
 			LibWGM.playerData[0].CoinOutCur++;//出奖数增加
+			Instance.SerialPortManager.UpdateULdata(0, 1);
 			LibWGM.playerData[0].CoinOutTotal++;//后台出奖总数增加
 		}
 

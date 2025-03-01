@@ -278,6 +278,7 @@ public class DriverManager : MonoBehaviour
                 print("??????????");
                 count--; //??????????
                 onOut?.Invoke(keyState.no, count);
+                DealCommand.OnPirzeOut();
                 if (count <= 0)
                 {
                     LibWGM.Rk3229SetGpio(0, 0, 0); //???
