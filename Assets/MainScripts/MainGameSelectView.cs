@@ -41,6 +41,8 @@ public class MainGameSelectView : MonoBehaviour
     
     public StartSelectPanel StartSelectTipPanel;
     public MainTipsPanel TipsPanel;
+    private bool isWaitplayCanToplay = false;
+    private bool isPlayCanToInGame = false;
     private void Awake()
     {
         if (Instance == null)
@@ -68,15 +70,41 @@ public class MainGameSelectView : MonoBehaviour
         ISStartGame = false;
         AutoGameManger.WaitplayCanToplay += WaitplayCanToplay;
         AutoGameManger.PlayCanToInGame += PlayCanToInGame;
+        if (AutoGameManger.Instance.AutoGame()&&!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Waitpalyer)
+        {
+            WaitplayCanToplay();
+        }
+        else if (!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Play&&AutoGameManger.Instance.AutoGame())
+        {
+            PlayCanToInGame();
+        }
     }
 
     public void WaitplayCanToplay()
     {
-            StartCoroutine(Autogame(true));
+        if (isWaitplayCanToplay||!AutoGameManger.Instance.AutoGame())
+        {
+            CommonUI.instance.AutoPanel.Stop();
+           return; 
+        }
+        isWaitplayCanToplay = true;
+        CommonUI.instance.AutoPanel.StartColddwon();
+        Invoke("Autogame",LibWGM.machine.AutoTime);
     }
     public void PlayCanToInGame()
     {
-        StartCoroutine(Autogame(false));
+        if (isPlayCanToInGame||!AutoGameManger.Instance.AutoGame())
+        {
+            CommonUI.instance.AutoPanel.Stop();
+            return;
+        }
+        if (LibWGM.machine.AutoTime>GameTimeManager.instance.GetCurrentTime())
+        {
+            CommonUI.instance.AutoPanel.Stop();
+            return;
+        }
+        isWaitplayCanToplay = true;
+        StartCoroutine(Autogame2());
     }
 
     public void Update()
@@ -278,42 +306,54 @@ public class MainGameSelectView : MonoBehaviour
     private void EnterPalyermodel()
     {
         GameStateManager.Instance.SwitchState(GameState.Play);
+        isWaitplayCanToplay = false;
         StartSelectTipPanel.UpdateAni();
         GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
         AudioManager.Instance.playerEffect1(clickSound);
         GameSelectManger.Instance.SelectGame(CurrentGameindex);
         CommonUI.instance.mainTimePanel.Enter();
-        CommonUI.instance.AutoPanel.Stop();
         CurrentCoinCountPanel.instance.reduceCoinCount();
     }
-
-    IEnumerator  Autogame(bool isEnterPlayer)
+    void  Autogame()
     {
-        CommonUI.instance.AutoPanel.gameObject.SetActive(true);
-        CommonUI.instance.AutoPanel.Init();
+        if (!ISStartGame)
+        {
+            if (GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Waitpalyer))
+            {
+                EnterPalyermodel();  
+            }
+        }   
+        
+    }
+    IEnumerator  Autogame2()
+    {
+        CommonUI.instance.AutoPanel.StartColddwon();
         yield return  new WaitForSeconds(LibWGM.machine.AutoTime);
         yield return new WaitForSeconds(1f);
         if (!ISStartGame)
         {
-            if (isEnterPlayer&&GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Waitpalyer))
-            {
-                EnterPalyermodel();  
-            }
-            else if (!isEnterPlayer&&GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Play))
-            {
+             if (GameStateManager.Instance.GetTarGetGameStateIsEqual(GameState.Play))
+             {
                 StartGame();
             }
         }   
+        
     }
     private void StartGame()
     {
-        CommonUI.instance.mainTimePanel.Exit();
+        if (isPlayCanToInGame)
+        {
+            return;
+        }
+        isPlayCanToInGame = true;
         CommonUI.instance.AutoPanel.Stop();
+        CommonUI.instance.mainTimePanel.Exit();
         AudioManager.Instance.playerEffect1(clickSound);
         AudioManager.Instance.StopBGm();
         LoadABManger.Instance.UnloadAB(MainConstant.MainSceneName);
         LoadABManger.Instance.LoadAB(GameNameitems[CurrentGameindex].GetGameSceneName(),
             ()=>{
+                isPlayCanToInGame = false;
                 if (LocalizationManager.Instance.GetCurrentLanguage()==Language.Chinese)
                 {
                     CommonUI.instance.AddTips("长按开始键可返回游戏大厅");

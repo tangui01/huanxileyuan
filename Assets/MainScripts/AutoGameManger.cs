@@ -54,10 +54,20 @@ public class AutoGameManger : MonoBehaviour
     //判断是否自动
     public bool AutoGame()
     {
+        if (LibWGM.machine.AutoTime>LibWGM.machine.GameTime)
+        {
+            CommonUI.instance.AddTips("自动游戏时间设置错误");
+            return false;
+        }
         if (LibWGM.machine.AutoTime <= 0)
         {
             return false;
         }
         return true;
+    }
+
+    private void Update()
+    {
+        
     }
 }

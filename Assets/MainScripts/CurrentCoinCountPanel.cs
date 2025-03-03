@@ -16,7 +16,7 @@ public class CurrentCoinCountPanel : MonoBehaviour
 {
     public static CurrentCoinCountPanel instance;
     
-   public Text coinText;
+    public Text coinText;
     public AudioClip AddCoinSound;
    private void Awake()
    {

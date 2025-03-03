@@ -19,13 +19,15 @@ public class AutoPanel : MonoBehaviour
     private Text text;
     float timer;
     private float t0;
+    private bool isStart;
     private void Awake()
     {
         image=GetComponent<Image>();
         text=GetComponentInChildren<Text>();
     }
-    public void Init()
+    public void StartColddwon()
     {
+        gameObject.SetActive(true);
         timer=LibWGM.machine.AutoTime;
         t0=0;
         text.text = timer+"S";

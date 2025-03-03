@@ -38,10 +38,6 @@ public class GameStateManager : MonoBehaviour
              Destroy(gameObject);
          }
      }
-     private void Start()
-     {
-         SwitchState(GameState.Idle);
-     }
      public void SwitchState(GameState newState)
      {
          if (currentState==newState)

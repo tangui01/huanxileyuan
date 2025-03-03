@@ -45,7 +45,7 @@ public class Coin_inPanel : MonoBehaviour
         isjudge=false;
         if (AutoGameManger.Instance.AutoGame())
         {
-            CommonUI.instance.AutoPanel.gameObject.SetActive(true);
+            CommonUI.instance.AutoPanel.StartColddwon();
         }
     }
 
@@ -89,6 +89,7 @@ public class Coin_inPanel : MonoBehaviour
     {
         CurrentCoinCountPanel.instance.reduceCoinCount();
         GameStateManager.Instance.SwitchState(GameState.Play);
+        CommonUI.instance.AutoPanel.Stop();
         GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
         CommonUI.instance.ExitCouterColdDown();
         Renew_money_Success?.Invoke();

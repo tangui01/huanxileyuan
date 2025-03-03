@@ -80,6 +80,7 @@ public class CommonUI : MonoBehaviour
         CoinIn.gameObject.SetActive(false);
         mainTimePanel.gameObject.SetActive(false);
         StartColdDown = false;
+        AutoPanel.Stop();
     }
     /// <summary>
     /// 退出后台时
