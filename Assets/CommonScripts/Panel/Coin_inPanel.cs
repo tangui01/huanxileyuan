@@ -43,7 +43,7 @@ public class Coin_inPanel : MonoBehaviour
         isgameover=_isgameover;
         delaytime=1;
         isjudge=false;
-        if (AutoGameManger.Instance.AutoGame())
+        if (AutoGameManger.Instance.AutoGame()&&LibWGM.machine.AutoTime<countdown)
         {
             CommonUI.instance.AutoPanel.StartColddwon();
         }

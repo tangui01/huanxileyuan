@@ -72,10 +72,12 @@ public class MainGameSelectView : MonoBehaviour
         AutoGameManger.PlayCanToInGame += PlayCanToInGame;
         if (AutoGameManger.Instance.AutoGame()&&!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Waitpalyer)
         {
+            Debug.LogWarning("WaitplayCanToplay");
             WaitplayCanToplay();
         }
         else if (!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Play&&AutoGameManger.Instance.AutoGame())
         {
+            Debug.LogWarning("PlayCanToInGame");
             PlayCanToInGame();
         }
     }
@@ -85,11 +87,11 @@ public class MainGameSelectView : MonoBehaviour
         if (isWaitplayCanToplay||!AutoGameManger.Instance.AutoGame())
         {
             CommonUI.instance.AutoPanel.Stop();
-           return; 
+            return; 
         }
         isWaitplayCanToplay = true;
         CommonUI.instance.AutoPanel.StartColddwon();
-        Invoke("Autogame",LibWGM.machine.AutoTime);
+        Invoke(nameof(Autogame),LibWGM.machine.AutoTime);
     }
     public void PlayCanToInGame()
     {
@@ -305,10 +307,10 @@ public class MainGameSelectView : MonoBehaviour
 
     private void EnterPalyermodel()
     {
+        GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
         GameStateManager.Instance.SwitchState(GameState.Play);
         isWaitplayCanToplay = false;
         StartSelectTipPanel.UpdateAni();
-        GameTimeManager.instance.StartColdDown(LibWGM.machine.GameTime);
         AudioManager.Instance.playerEffect1(clickSound);
         GameSelectManger.Instance.SelectGame(CurrentGameindex);
         CommonUI.instance.mainTimePanel.Enter();
