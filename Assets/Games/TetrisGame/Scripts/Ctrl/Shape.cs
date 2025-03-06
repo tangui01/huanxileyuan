@@ -17,7 +17,6 @@ namespace TetrisGame
     public enum ShapeType
     {
         current,
-        Down,
         Next,
     }
     public class Shape : MonoBehaviour
@@ -64,14 +63,6 @@ namespace TetrisGame
             UpdaownTimer = 1;
             shapeType=_shapetype;
         }
-
-        public void CreateDownShape(Controller controller, ShapeManager _manager)
-        {
-            //生成下落位置
-            DownShapeObj=Instantiate(gameObject,GetDownPosition(),transform.localRotation).GetComponent<Shape>();
-            DownShapeObj.Init(new Color(_color.r,_color.g,_color.b,0.3f), controller, _manager,ShapeType.Down);
-        }
-
         public void SetShapeState(ShapeType _shapetype)
         {
             shapeType=_shapetype;
@@ -89,7 +80,7 @@ namespace TetrisGame
 
         private void Update()
         {
-            if (stars.Count<=0||Time.timeScale==0||shapeType==ShapeType.Next||isDown||shapeType==ShapeType.Down)
+            if (stars.Count<=0||Time.timeScale==0||shapeType==ShapeType.Next||isDown)
             {
                 return;
             }

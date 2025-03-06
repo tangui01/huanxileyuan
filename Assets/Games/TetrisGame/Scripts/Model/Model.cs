@@ -14,14 +14,14 @@ using UnityEngine;
 *****************************************************/
 namespace TetrisGame
 {
-    public class Model : SerializedMonoBehaviour
+    public class Model : MonoBehaviour
     {
         public int Score { get; private set; } //得分
         public float ShapeDownSpeed { get; private set; } = 0.8f; //方块下落速度
         public const int NORMAL_ROWS = 20;
         public const int MAX_ROWS = 23;
         public const int MAX_COLUMNS = 14;
-        [SerializeField]private Star[,] map = new Star[MAX_COLUMNS, MAX_ROWS];
+        private Star[,] map = new Star[MAX_COLUMNS, MAX_ROWS];
 
         public Action<int, int> OnScoreChanged;
 
@@ -79,7 +79,6 @@ namespace TetrisGame
                 SetShapeDownSpeed(6);
             }
         }
-
         public void SetShapeDownSpeed(int value)
         {
             Speed = value;

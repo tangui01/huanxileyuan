@@ -39,7 +39,7 @@ public class LoadABManger : SerializedMonoBehaviour
          {
              float process=ab.progress;
              CommonUI.instance.Loading.SetProcessText(process);
-             if (process == 1)
+             if (Mathf.Approximately(process, 1))
              {
                  SceneLoadManager.instance.StartGameLoadScene(sceneName);
                  SceneLoadManager.instance.ExitSceneACtion += complete;
@@ -69,15 +69,22 @@ public class LoadABManger : SerializedMonoBehaviour
      {
          if (abDic.ContainsKey(sceneName))
          {
+             // 卸载AssetBundle
              abDic[sceneName].Unload(true);
+             Resources.UnloadUnusedAssets();
+             GC.Collect();
              abDic.Remove(sceneName);
+             // AsyncOperation unloadOperation = SceneManager.UnloadSceneAsync(sceneName);
+             // unloadOperation.completed += operation =>
+             // {
+             //    
+             // };
          }
          else
          {
              Debug.LogError("场景名字不存在或者已经被移除");
          }
      }
-
      private void Update()
      {
          if (cb!=null)

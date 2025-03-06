@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1652363384
+CRC: 3479385521
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -91,5 +91,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Games/Xia/0_Scene/2048Game.unity
+- Assets/Games/Xia/--Scene--/2048Game.unity
 Dependencies: []

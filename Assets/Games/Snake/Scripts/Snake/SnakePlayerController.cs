@@ -258,52 +258,52 @@ namespace SnakeGame
             if (totalParts<=5)
             {
                 moveSpeed = 10;
-                bodypartsFollowDelay = 0.2f;
+                bodypartsFollowDelay = 0.18f;
             }
             else if (totalParts>5&&totalParts<10)
             {
                 moveSpeed = 10;
-                bodypartsFollowDelay = 0.2f;
+                bodypartsFollowDelay = 0.18f;
             }
             else if (totalParts>=10&&totalParts<15)
             {
                 moveSpeed = 12;
-                bodypartsFollowDelay = 0.15f;
+                bodypartsFollowDelay = 0.13f;
             }
             else if (totalParts>=15&&totalParts<20)
             {
                 moveSpeed = 14;
-                bodypartsFollowDelay = 0.14f;
+                bodypartsFollowDelay = 0.12f;
             }
             else if (totalParts>=20&&totalParts<25)
             {
                 moveSpeed = 16;
-                bodypartsFollowDelay = 0.12f;
+                bodypartsFollowDelay = 0.10f;
             }
             else if (totalParts>=25&&totalParts<30)
             {
                 moveSpeed = 18;
-                bodypartsFollowDelay = 0.11f;
+                bodypartsFollowDelay = 0.09f;
             }
             else if (totalParts>=30&&totalParts<35)
             {
                 moveSpeed = 20;
-                bodypartsFollowDelay = 0.1f;
+                bodypartsFollowDelay = 0.08f;
             }
             else if (totalParts>=40&&totalParts<45)
             {
                 moveSpeed = 22;
-                bodypartsFollowDelay = 0.09f;
+                bodypartsFollowDelay = 0.07f;
             }
             else if (totalParts>=45&&totalParts<50)
             {
                 moveSpeed = 24;
-                bodypartsFollowDelay = 0.09f;
+                bodypartsFollowDelay = 0.07f;
             }
             else if (totalParts>=50)
             {
                 moveSpeed = 26;
-                bodypartsFollowDelay = 0.08f;
+                bodypartsFollowDelay = 0.06f;
             }
         }
 

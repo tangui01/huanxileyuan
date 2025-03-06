@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3935744333
+CRC: 454443780
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -135,5 +135,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Games/Xia/0_Scene/SubmarineParkourScene.unity
+- Assets/Games/Xia/--Scene--/SubmarineParkourScene.unity
 Dependencies: []

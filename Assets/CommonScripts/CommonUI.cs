@@ -29,7 +29,6 @@ public class CommonUI : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        DontDestroyOnLoad(gameObject);
     }
 
     #region 续币面版区域

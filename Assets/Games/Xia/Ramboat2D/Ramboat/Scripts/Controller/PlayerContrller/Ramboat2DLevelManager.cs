@@ -65,9 +65,6 @@ public class Ramboat2DLevelManager : MonoBehaviour
 	public GameObject enemy2;
 	public GameObject enemy3;
 	public GameObject enemy4;
-	public GameObject enemy5;
-	public GameObject enemy6;
-	public GameObject enemy7;
 	public GameObject boatEnemy;
 	public GameObject submarineEnemy;
 	public GameObject airEnemy;
@@ -91,12 +88,6 @@ public class Ramboat2DLevelManager : MonoBehaviour
 	List<GameObject> enemys, enemys2, enemys3, enemys4, enemys5, enemys6,
 		enemys7, submarineEnemys, gunEnemys, efects, coins, dollars,
 		hitWaters, hitExplosionWaters, collectedCoinEffects, bloods, gunAirs,bombs;
-	// Use this for initialization
-	//sprite mission
-	public Sprite[] missions;
-	public Sprite[] missionsComPlete;
-	public Sprite[] missionsLevel;
-	public Sprite[] missionLevelSmall;
 	public GameObject missionCanvas;
 	bool oneShowMission=false;
 	//UI
@@ -121,7 +112,7 @@ public class Ramboat2DLevelManager : MonoBehaviour
 		coinCollectedPassLevel = 0;
 		coinCollected = 0;
 		
-		playerNumber = Random.Range (0, 7);
+		playerNumber = Random.Range (0, 3);
 	}
 	void Start(){
 		AudioManager.Instance.playerBGm(Ramboat2DFXSound.THIS.music[0]);
@@ -139,10 +130,7 @@ public class Ramboat2DLevelManager : MonoBehaviour
 			touchPlay = false;
 
 		} else if(startingGame && !Ramboat2DPlayerController.Intance.playerDead){
-//		if (subTimeScale) {
-//			Time.timeScale = 0.2f;
-//			subTimeScale = false;
-//		}
+
 		timePlayingGame += Time.deltaTime;
 		if (timePlayingGame > timeNextLevel [level]) {
 			if (checkGameState % 2 == 1) {
@@ -154,7 +142,6 @@ public class Ramboat2DLevelManager : MonoBehaviour
 				weather.transform.GetChild ((checkGameState / 2)%weather.transform.childCount).gameObject.SetActive (true);
 				if (!oneShowMission) {
 						oneShowMission = true;
-						// missionCanvas.SetActive (true);
 				}
 
 			}
@@ -481,20 +468,7 @@ public class Ramboat2DLevelManager : MonoBehaviour
 			obj4.SetActive (false);
 			obj4.transform.parent = parent.transform;
 			enemys4.Add (obj4);
-			GameObject obj5 = Instantiate (enemy5);
-			obj5.SetActive (false);
-			obj5.transform.parent = parent.transform;
-			enemys5.Add (obj5);
-			GameObject obj6 = Instantiate (enemy6);
-			obj6.SetActive (false);
-			obj6.transform.parent = parent.transform;
-			enemys6.Add (obj6);
-
-			GameObject obj7 = Instantiate (enemy7);
-			obj7.SetActive (false);
-			obj7.transform.parent = parent.transform;
-			enemys7.Add (obj7);
-
+			
 			GameObject obj8 = Instantiate (dollar);
 			obj8.SetActive (false);
 			obj8.transform.parent = parent.transform;

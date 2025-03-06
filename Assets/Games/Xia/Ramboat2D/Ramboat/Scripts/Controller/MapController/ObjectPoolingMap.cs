@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class ObjectPoolingMap : MonoBehaviour {
-	float speedBoat=7;
+	float speedBoat=3.5f;
 	public float speedDivide=1;
 	public float startPoint;
 	public float lenghtSprite;

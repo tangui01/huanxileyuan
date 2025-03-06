@@ -81,10 +81,10 @@ public class Ramboat2DPlayerController : MonoBehaviour
 		currentState = -1;
 		gunType = GunType.NormalGun;
 		liveCurrent = 3;
-		for (int i = 0; i < 7; i++) {
+		for (int i = 0; i < 4; i++) {
 			transform.GetChild (i).gameObject.SetActive (false);
 		}
-		for (int i = 7; i < 13; i++) {
+		for (int i = 4; i < 10; i++) {
 			transform.GetChild (i).gameObject.SetActive (false);
 		}
 	}
@@ -99,7 +99,7 @@ public class Ramboat2DPlayerController : MonoBehaviour
 		playerObj.SetActive (true);
 		ReadWriteTextMission.THIS.CheckMission (4);
 //		Debug.Log(
-		boatObj = transform.GetChild (Random.Range(7,13)).gameObject;//激活坐骑  PlayerPrefs.GetInt("ChooseBoat")+7  
+		boatObj = transform.GetChild (Random.Range(4,9)).gameObject;//激活坐骑  PlayerPrefs.GetInt("ChooseBoat")+7  
 		boatObj.SetActive (true);
 		waterEffect = boatObj.transform.GetChild (0).gameObject;
 		waterEffectJump = boatObj.transform.GetChild (1).gameObject;
@@ -120,7 +120,7 @@ public class Ramboat2DPlayerController : MonoBehaviour
 		rocketBullets = new List<GameObject> ();
 		threeLineBullets = new List<GameObject> ();
 		fireBullets = new List<GameObject> ();
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 5; i++) {
 			GameObject obj = Instantiate (bullet);
 			obj.gameObject.SetActive (false);
 			bullets.Add (obj);
@@ -143,12 +143,6 @@ public class Ramboat2DPlayerController : MonoBehaviour
 		}
 		flashShoot = playerObj.transform.GetChild (0).gameObject;
 		SetUpGun (gunType);
-		//check gun upgrade
-		if (PlayerPrefs.GetInt ("ChoosePlayer")==0 && (PlayerPrefs.GetFloat ("Star0") != 0 || PlayerPrefs.GetFloat ("Star1") != 0 || PlayerPrefs.GetFloat ("Star2") != 0 || PlayerPrefs.GetFloat ("Star3") != 0)) {
-			ReadWriteTextMission.THIS.CheckMission (31);
-		} else if(PlayerPrefs.GetInt ("ChoosePlayer")==1 && (PlayerPrefs.GetFloat ("Star0") != 0 || PlayerPrefs.GetFloat ("Star1") != 0 || PlayerPrefs.GetFloat ("Star2") != 0 || PlayerPrefs.GetFloat ("Star4") != 0)){
-			ReadWriteTextMission.THIS.CheckMission (31);
-		}//more check upgradu gun here
 	}
 
 	void Update ()
@@ -564,9 +558,6 @@ public void MovePlayer()
 			gunPower = GunData.THIS.gunPower[4];
 			gunRate = GunData.THIS.gunRate [4];
 			gunAmmo = GunData.THIS.gunAmmo[4];
-			// gunPower = PlayerPrefs.GetFloat("Power0");
-			// gunRate = PlayerPrefs.GetFloat ("Rate0");
-			// gunAmmo = PlayerPrefs.GetFloat ("Ammo0");
 			gunAmmoCurrent = gunAmmo;
 			flashShoot.GetComponent<SpriteRenderer> ().sprite = flashShootSprite [0];
 			GameObject.Find ("MenuPlayingGame").transform.GetChild (2).gameObject.GetComponent<Image> ().sprite = Ramboat2DLevelManager.THIS.gunTypeSprite [0];

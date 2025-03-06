@@ -46,13 +46,13 @@ public class Archivement : MonoBehaviour
 		loadScene = false;
 		colorNormal = missionImage [0].color;
 		int level = ReadWriteTextMission.THIS.currentLevelMission;
-		nextLevel.GetComponentInChildren<Image> ().sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
+	//	nextLevel.GetComponentInChildren<Image> ().sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
 		levelText.text = "LEVEL " + level.ToString ();
 		for (int i = 0; i < missionImage.Length; i++) {
 			if (ReadWriteTextMission.THIS.isCompleteMissions [i] == 0) {
-				missionImage [i].sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [i]];
+				//missionImage [i].sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [i]];
 			} else {
-				missionImage [i].sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [i]];
+				//missionImage [i].sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [i]];
 			}
 			missionText [i].text = ReadWriteTextMission.THIS.infomationMission [i];
 		}
@@ -84,10 +84,10 @@ public class Archivement : MonoBehaviour
 				int level = PlayerPrefs.GetInt ("LevelMission") + 1;
 				PlayerPrefs.SetInt ("LevelMission", PlayerPrefs.GetInt ("LevelMission") + 1);
 				PlayerPrefs.Save ();
-				nextLevel.GetComponentInChildren<Image> ().sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
+				//nextLevel.GetComponentInChildren<Image> ().sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
 				nextLevel.SetActive (true);
 	
-				avatarLevel.sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
+				//avatarLevel.sprite = Ramboat2DLevelManager.THIS.missionsLevel [level];
 				levelText.text = "LEVEL " + level.ToString ();
 				StartCoroutine (ShowParticleGetIt ());
 			} else {
@@ -117,7 +117,6 @@ public class Archivement : MonoBehaviour
 		for (int i = 0; i < particleGetIt.Length; i++) {
 			particleGetIt [i].SetActive (true);
 			yield return StartCoroutine (WaitForRealSeconds (0.5f));
-			missionImage [i].sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [i]];
 			missionText [i].text = ReadWriteTextMission.THIS.infomationMission [i];
 			levelText.text = "LEVEL " + PlayerPrefs.GetInt ("LevelMission").ToString ();
 			yield return StartCoroutine (WaitForRealSeconds (0.5f));

@@ -36,6 +36,9 @@ public class SceneLoadManager : MonoBehaviour
             float a = ac.progress;
             if (a == 1)
             {
+                // 设置新场景为活跃场景
+                Scene newScene = SceneManager.GetSceneByName(sceneName);
+                SceneManager.SetActiveScene(newScene);
                 CommonUI.instance.SetLoadingPanel(false);
                 if (ExitSceneACtion != null)
                 {

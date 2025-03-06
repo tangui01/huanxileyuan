@@ -45,6 +45,7 @@ namespace SnakeGame
 
         private void Start()
         {
+            Resources.UnloadUnusedAssets();
             //游戏资源初始化
             GameConfInit();
             PoolManager.Instance.ClearPoolDic();

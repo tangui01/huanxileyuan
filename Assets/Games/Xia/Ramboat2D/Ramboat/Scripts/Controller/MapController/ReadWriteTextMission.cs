@@ -176,19 +176,19 @@ public class ReadWriteTextMission: MonoBehaviour
 			//complete mission
 			isCompleteMissions [index] = 1;
 			WriteToData (currentLevelMission.ToString());
-			if (key == 1) {
-				MenuPlayingGame.THIS.mission1.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[0]];
-				MenuPlayingGame.THIS.ms1Text.text = "";
-			} else if (key == 2) {
-				MenuPlayingGame.THIS.mission2.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[1]];
-				MenuPlayingGame.THIS.ms2Text.text = "";
-			} else if (key == 3) {
-				MenuPlayingGame.THIS.mission3.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[2]];
-				MenuPlayingGame.THIS.ms3Text.text = "";
-			} else if (key == 4) {
-				MenuPlayingGame.THIS.mission4.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[3]];
-				MenuPlayingGame.THIS.ms4Text.text = "";
-			}
+			// if (key == 1) {
+			// 	MenuPlayingGame.THIS.mission1.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[0]];
+			// 	MenuPlayingGame.THIS.ms1Text.text = "";
+			// } else if (key == 2) {
+			// 	MenuPlayingGame.THIS.mission2.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[1]];
+			// 	MenuPlayingGame.THIS.ms2Text.text = "";
+			// } else if (key == 3) {
+			// 	MenuPlayingGame.THIS.mission3.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[2]];
+			// 	MenuPlayingGame.THIS.ms3Text.text = "";
+			// } else if (key == 4) {
+			// 	MenuPlayingGame.THIS.mission4.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [orderMissions[3]];
+			// 	MenuPlayingGame.THIS.ms4Text.text = "";
+			// }
 			orderMissionOneLevel.Remove (missionType);
 			numberMissionComplete.Add (index);
 

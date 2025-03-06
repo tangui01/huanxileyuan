@@ -72,12 +72,10 @@ public class MainGameSelectView : MonoBehaviour
         AutoGameManger.PlayCanToInGame += PlayCanToInGame;
         if (AutoGameManger.Instance.AutoGame()&&!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Waitpalyer)
         {
-            Debug.LogWarning("WaitplayCanToplay");
             WaitplayCanToplay();
         }
         else if (!ISStartGame&&GameStateManager.Instance.GetCurrentGameState()==GameState.Play&&AutoGameManger.Instance.AutoGame())
         {
-            Debug.LogWarning("PlayCanToInGame");
             PlayCanToInGame();
         }
     }

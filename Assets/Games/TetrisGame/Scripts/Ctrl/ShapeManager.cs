@@ -44,7 +44,6 @@ namespace TetrisGame
                   currentShape = Instantiate(shapes[RandomShapeIndex()],BornPoint,Quaternion.identity,blockHolder);
                   currentShape.transform.SetParent(blockHolder) ;
                   currentShape.Init(colors[RandomShapeIndexColor()],ctrl,this,ShapeType.current);
-                  currentShape.CreateDownShape(ctrl,this);
                   SpawnNextShape();
               }
               else
@@ -53,7 +52,6 @@ namespace TetrisGame
                   currentShape.transform.SetParent(blockHolder);
                   currentShape.transform.position = BornPoint;
                   currentShape.SetShapeState(ShapeType.current);
-                  currentShape.CreateDownShape(ctrl,this);
                   SpawnNextShape();
               }
           }

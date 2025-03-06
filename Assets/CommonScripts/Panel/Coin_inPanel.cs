@@ -21,6 +21,14 @@ public class Coin_inPanel : MonoBehaviour
     private Animator Ani;
     [SerializeField] private AudioClip SuccessSound;
     [SerializeField] private AudioClip FailSound;
+    [SerializeField] private AudioClip SwitchSound;
+    [SerializeField] private AudioClip ClickSound;
+    private int index=0;
+    private int indexmax=1;
+    private int indexmin=0;
+    [SerializeField]private Animator surebtnAni;
+    [SerializeField]private Animator cancelBtnAni;
+    private const string BtnSelectbool = "Select";
     /// <summary>
     /// 续币成功
     /// </summary>
@@ -43,7 +51,8 @@ public class Coin_inPanel : MonoBehaviour
         isgameover=_isgameover;
         delaytime=1;
         isjudge=false;
-        if (AutoGameManger.Instance.AutoGame()&&LibWGM.machine.AutoTime<countdown)
+        SwitchBtnViscal();
+        if (AutoGameManger.Instance.AutoGame()&&LibWGM.machine.AutoTime<countdown&&CurrentCoinCountPanel.instance.ISStartGame())
         {
             CommonUI.instance.AutoPanel.StartColddwon();
         }
@@ -53,14 +62,12 @@ public class Coin_inPanel : MonoBehaviour
     {
         Ani.SetTrigger("Exit");
     }
-
-
-
     /// <summary>
     /// 计时结束后
     /// </summary>
     public void ColdDownover()
     {
+        SwitchBtnViscal();
         if (CommonUI.instance.CoinCountPanel.ISStartGame())
         {
             Success();
@@ -81,7 +88,9 @@ public class Coin_inPanel : MonoBehaviour
         }
         else
         {
-            countdown -= 1;
+            countdown -=1;
+            countdown = Mathf.Max(0, countdown);
+            timetext.text = countdown + "S";
         }
     }
 
@@ -117,7 +126,7 @@ public class Coin_inPanel : MonoBehaviour
             if (AutoTime>=LibWGM.machine.AutoTime)
             {
                 AutoTime = 0;
-                ExitColdDown();
+                SwitchBtnClickEvent();
             }
         }
         if (timer < 1)
@@ -130,15 +139,7 @@ public class Coin_inPanel : MonoBehaviour
             delaytime += 1;
             OnColdDown();
         }
-        //续币
-        if (DealCommand.GetKeyDown(1, AppKeyCode.UpScore)&&delaytime>=2f)
-        {
-            IsRenewmoney();
-        }
-        else
-        {
-            delaytime+=Time.unscaledDeltaTime;
-        }
+        SelectBtnInput();
     }
 
     void OnColdDown()
@@ -150,7 +151,60 @@ public class Coin_inPanel : MonoBehaviour
         }
         else
         {
-            ExitColdDown();
+            ColdDownover();
+        }
+    }
+    private void SwitchBtnClickEvent()
+    {
+        switch (index)
+        {
+            case 0:
+                IsRenewmoney();
+                break;
+            case 1:
+                Fail();
+                break;
+        } 
+    }
+    private void SelectBtnInput()
+    {
+        if (DealCommand.GetKeyDown(1,AppKeyCode.TicketOut))
+        {
+            index--;
+            AudioManager.Instance.playerEffect4(SwitchSound);
+            if (index<indexmin)
+            {
+                index = 1;
+            }
+            SwitchBtnViscal();
+        }
+        else if (DealCommand.GetKeyDown(1,AppKeyCode.Flight))
+        {
+            index++;
+            AudioManager.Instance.playerEffect4(SwitchSound);
+            if (index>indexmax)
+            {
+                index = 0;
+            }
+            SwitchBtnViscal();
+        }
+        else if (DealCommand.GetKeyDown(1,AppKeyCode.UpScore))
+        {
+            SwitchBtnClickEvent();
+        }
+    }
+    private void SwitchBtnViscal()
+    {
+        switch (index)
+        {
+            case 1:
+                surebtnAni.SetBool(BtnSelectbool,false);
+                cancelBtnAni.SetBool(BtnSelectbool,true);
+                break;
+            case 0:
+                surebtnAni.SetBool(BtnSelectbool,true);
+                cancelBtnAni.SetBool(BtnSelectbool,false);
+                break;
         }
     }
 }

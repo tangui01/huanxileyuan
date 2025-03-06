@@ -34,38 +34,38 @@ public class Ramboat2DMission : MonoBehaviour
 		ms3Text.text = ReadWriteTextMission.THIS.infomationMission[2];
 		ms4Text.text = ReadWriteTextMission.THIS.infomationMission[3];
 
-		if (ReadWriteTextMission.THIS.isCompleteMissions [0] == 0) {
-			ms1.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [0]];
-		} else {
-			ms1.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [0]];
-			ms1Text.color = Color.green;
-		}
-
-		if (ReadWriteTextMission.THIS.isCompleteMissions [1] == 0) {
-			ms2.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [1]];
-		} else {
-			ms2.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [1]];
-			ms2Text.color = Color.green;
-		}
-
-		if (ReadWriteTextMission.THIS.isCompleteMissions [2] == 0) {
-			ms3.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [2]];
-		} else {
-			ms3.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [2]];
-			ms3Text.color = Color.green;
-		}
-
-		if (ReadWriteTextMission.THIS.isCompleteMissions [3] == 0) {
-			ms4.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [3]];
-		} else {
-			ms4.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [3]];
-			ms4Text.color = Color.green;
-		}
-		yield return new WaitForSeconds (2f);
-
-		GetComponent<Animator> ().SetTrigger ("Out");
-		yield return new WaitForSeconds (3f);
-		gameObject.SetActive (false);
+		// if (ReadWriteTextMission.THIS.isCompleteMissions [0] == 0) {
+		// 	ms1.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [0]];
+		// } else {
+		// 	ms1.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [0]];
+		// 	ms1Text.color = Color.green;
+		// }
+		//
+		// if (ReadWriteTextMission.THIS.isCompleteMissions [1] == 0) {
+		// 	ms2.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [1]];
+		// } else {
+		// 	ms2.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [1]];
+		// 	ms2Text.color = Color.green;
+		// }
+		//
+		// if (ReadWriteTextMission.THIS.isCompleteMissions [2] == 0) {
+		// 	ms3.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [2]];
+		// } else {
+		// 	ms3.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [2]];
+		// 	ms3Text.color = Color.green;
+		// }
+		//
+		// if (ReadWriteTextMission.THIS.isCompleteMissions [3] == 0) {
+		// 	ms4.sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [3]];
+		// } else {
+		// 	ms4.sprite = Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [3]];
+		// 	ms4Text.color = Color.green;
+		// }
+		 yield return new WaitForSeconds (2f);
+		//
+		// GetComponent<Animator> ().SetTrigger ("Out");
+		// yield return new WaitForSeconds (3f);
+		// gameObject.SetActive (false);
 
 	}
 

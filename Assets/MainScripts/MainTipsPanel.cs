@@ -61,8 +61,8 @@ public class MainTipsPanel : MonoBehaviour
                 switch (LocalizationManager.Instance.GetCurrentLanguage())
                 {
                     case Language.English:
-                        text.fontSize = 40;
-                        text.text = "Please press the Start button...";
+                        text.fontSize = 35;
+                        text.text = "Press the Start button...";
                         break;
                     case Language.Chinese:
                         text.fontSize = 40;

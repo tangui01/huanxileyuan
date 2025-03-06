@@ -6,9 +6,14 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 {
 	bool canTakeDamage;
 	// Use this for initialization
+
+	private Image dameImage;
+	private SpriteRenderer spritePlayer;
 	void Start ()
 	{
 		canTakeDamage = true;
+		dameImage= GameObject.Find ("DamageImage").GetComponent<Image> ();
+		spritePlayer = GameObject.Find ("Player").GetComponent<SpriteRenderer> ();
 	}
 
 	void OnEnable ()
@@ -78,7 +83,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		Destroy (par, 1f);
 		Destroy (explosion, 1f);
 		float time = 0;
-		Image dameImage = GameObject.Find ("DamageImage").GetComponent<Image> ();
 		Color colorDamageImg = dameImage.color;
 		while (time < 0.3f) {
 			time += Time.deltaTime;
@@ -92,7 +96,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 
 		// player show dame hit
 		time = 0;
-		SpriteRenderer spritePlayer = GameObject.Find ("Player").GetComponent<SpriteRenderer> ();
 		Color colorPlayer = spritePlayer.color;
 		int colorChange = 0;
 		while (time < 1f) {
@@ -121,7 +124,7 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		Ramboat2DLevelManager.THIS.ShowLifeCurrent (Ramboat2DPlayerController.Intance.liveCurrent);
 		//img color dame
 		float time = 0;
-		Image dameImage = GameObject.Find ("DamageImage").GetComponent<Image> ();
+		
 		Color colorDamageImg = dameImage.color;
 		while (time < 0.3f) {
 			time += Time.deltaTime;
@@ -135,7 +138,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 
 		// player show dame hit
 		time = 0;
-		SpriteRenderer spritePlayer = GameObject.Find ("Player").GetComponent<SpriteRenderer> ();
 		Color colorPlayer = spritePlayer.color;
 		int colorChange = 0;
 		while (time < 1f) {
@@ -170,7 +172,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		Destroy (explosion, 1f);
 		Destroy (other.gameObject);
 		float time = 0;
-		Image dameImage = GameObject.Find ("DamageImage").GetComponent<Image> ();
 		Color colorDamageImg = dameImage.color;
 		while (time < 0.3f) {
 			time += Time.deltaTime;
@@ -183,7 +184,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		dameImage.color = colorDamageImg;
 		// player show dame hit
 		time = 0;
-		SpriteRenderer spritePlayer = GameObject.Find ("Player").GetComponent<SpriteRenderer> ();
 		Color colorPlayer = spritePlayer.color;
 		int colorChange = 0;
 		while (time < 1f) {
@@ -219,7 +219,6 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		GameObject explosion = Instantiate (Resources.Load ("Prefabs/MapGame/HitCharacter"), other.transform.position, Quaternion.identity) as GameObject;
 		Destroy (explosion, 1f);
 		float time = 0;
-		Image dameImage = GameObject.Find ("DamageImage").GetComponent<Image> ();
 		Color colorDamageImg = dameImage.color;
 		while (time < 0.3f) {
 			time += Time.deltaTime;
@@ -232,7 +231,7 @@ public class ShootAndCollisionPlayer : MonoBehaviour
 		dameImage.color = colorDamageImg;
 		// player show dame hit
 		time = 0;
-		SpriteRenderer spritePlayer = GameObject.Find ("Player").GetComponent<SpriteRenderer> ();
+	
 		Color colorPlayer = spritePlayer.color;
 		int colorChange = 0;
 		while (time < 1f) {

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 756385223
+CRC: 3257033171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -165,5 +165,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Games/Xia/0_Scene/BubbleGame.unity
+- Assets/Games/Xia/--Scene--/BubbleGame.unity
 Dependencies: []

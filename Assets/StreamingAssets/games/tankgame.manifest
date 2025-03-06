@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 120384953
+CRC: 725558303
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -105,5 +105,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Games/Xia/0_Scene/TankGame.unity
+- Assets/Games/Xia/--Scene--/TankGame.unity
 Dependencies: []

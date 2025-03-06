@@ -10,19 +10,19 @@ public class MissionUI : MonoBehaviour {
 	bool isClickButton;
 	// Use this for initialization
 	void OnEnable () {
-		levelTxt.text = "LEVEL "+PlayerPrefs.GetInt ("LevelMission").ToString ();
-		levelImg.sprite = Ramboat2DLevelManager.THIS.missionLevelSmall [ReadWriteTextMission.THIS.currentLevelMission];
-		levelImg.SetNativeSize ();
-		for (int i = 0; i < missionImg.Length; i++) {
-			if (ReadWriteTextMission.THIS.isCompleteMissions [i] == 0) {
-				missionImg[i].sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [i]];
-				missionSkips [i].SetActive (true);
-			} else {
-				missionImg[i].sprite= Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [i]];
-				missionSkips [i].SetActive (false);
-			}
-			missionTxt [i].text = ReadWriteTextMission.THIS.infomationMission [i];
-		}
+		// levelTxt.text = "LEVEL "+PlayerPrefs.GetInt ("LevelMission").ToString ();
+		// //levelImg.sprite = Ramboat2DLevelManager.THIS.missionLevelSmall [ReadWriteTextMission.THIS.currentLevelMission];
+		// levelImg.SetNativeSize ();
+		// for (int i = 0; i < missionImg.Length; i++) {
+		// 	if (ReadWriteTextMission.THIS.isCompleteMissions [i] == 0) {
+		// 		missionImg[i].sprite = Ramboat2DLevelManager.THIS.missions [ReadWriteTextMission.THIS.orderMissions [i]];
+		// 		missionSkips [i].SetActive (true);
+		// 	} else {
+		// 		missionImg[i].sprite= Ramboat2DLevelManager.THIS.missionsComPlete [ReadWriteTextMission.THIS.orderMissions [i]];
+		// 		missionSkips [i].SetActive (false);
+		// 	}
+		// 	missionTxt [i].text = ReadWriteTextMission.THIS.infomationMission [i];
+		// }
 	}
 	
 	// Update is called once per frame
